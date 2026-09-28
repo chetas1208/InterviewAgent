@@ -1,0 +1,22 @@
+# Secrets and local environment files.
+**/.env
+**/.env.*
+!**/.env.example
+
+# Nested repository metadata and local environments.
+**/.git/
+**/.venv/
+.nested-hypersmell-git-backup/
+
+# Generated artifacts and model binaries.
+**/artifacts/
+*.npy
+*.npz
+*.ckpt
+*.pth
+*.safetensors
+*.tar.gz
+._*
+
+# Candidate-specific source data and documents.
+hyperspell-interview-agent/data/

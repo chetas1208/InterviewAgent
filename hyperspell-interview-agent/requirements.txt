@@ -1,0 +1,23 @@
+superme-sdk @ git+https://github.com/superme-ai/superme-sdk.git@main
+openai
+PyGithub
+httpx
+python-dotenv
+pydantic
+pydantic-settings
+typer
+rich
+loguru
+tenacity
+pypdf
+python-docx
+beautifulsoup4
+markdownify
+rank-bm25
+sentence-transformers
+numpy
+scikit-learn
+pytest
+
+# Optional local ANN index. Leave commented if wheels are unavailable.
+# faiss-cpu

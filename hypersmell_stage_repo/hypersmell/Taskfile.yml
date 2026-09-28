@@ -1,0 +1,52 @@
+version: "3"
+
+tasks:
+  up:
+    desc: Start all services
+    cmds:
+      - docker compose up -d --build
+
+  down:
+    desc: Stop all services
+    cmds:
+      - docker compose down
+
+  test:
+    desc: Run test suite with database setup and network blocking
+    cmds:
+      - docker compose exec api pytest {{.CLI_ARGS}} --timeout=30
+
+  lint:
+    desc: Check code with Ruff
+    cmds:
+      - docker compose exec api ruff check .
+
+  lint-fix:
+    desc: Auto-fix lint issues
+    cmds:
+      - docker compose exec api ruff check . --fix
+
+  format:
+    desc: Format code with Ruff
+    cmds:
+      - docker compose exec api ruff format .
+
+  make-migration:
+    desc: Generate Alembic migration
+    cmds:
+      - docker compose exec api alembic revision --autogenerate -m "{{.NAME}}"
+
+  migrate:
+    desc: Apply migrations
+    cmds:
+      - docker compose exec api alembic upgrade head
+
+  shell:
+    desc: Open a Python shell
+    cmds:
+      - docker compose exec api python
+
+  logs:
+    desc: Follow service logs
+    cmds:
+      - docker compose logs -f {{.CLI_ARGS}}

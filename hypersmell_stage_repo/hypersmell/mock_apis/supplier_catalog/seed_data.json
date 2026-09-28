@@ -1,0 +1,2921 @@
+[
+  {
+    "id": "ing_001",
+    "name": "Chamomile Roman Essential Oil",
+    "cas_number": "8015-92-7",
+    "scent_family": "floral",
+    "supplier": "Firmenich",
+    "price_per_kg": 330.39,
+    "origin_country": "France",
+    "description": "Steam-distilled from Anthemis nobilis.",
+    "safety_notes": "Non-toxic, non-sensitizing. Suitable for sensitive skin.",
+    "synonyms": [
+      "roman chamomile oil",
+      "anthemis nobilis oil"
+    ]
+  },
+  {
+    "id": "ing_002",
+    "name": "Opoponax Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "BASF",
+    "price_per_kg": 100.07,
+    "origin_country": "Somalia",
+    "description": "Steam-distilled from Commiphora guidottii.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "sweet myrrh oil",
+      "bisabol myrrh"
+    ]
+  },
+  {
+    "id": "ing_003",
+    "name": "Watermelon Accord",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "Takasago",
+    "price_per_kg": 165.04,
+    "origin_country": "France",
+    "description": "Synthetic accord with fresh melon character.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "melon accord"
+    ]
+  },
+  {
+    "id": "ing_004",
+    "name": "Ozonic Accord",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "Takasago",
+    "price_per_kg": 90.04,
+    "origin_country": "France",
+    "description": "Synthetic ozone-fresh reconstruction.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "ozone accord"
+    ]
+  },
+  {
+    "id": "ing_005",
+    "name": "Peony Accord",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "BASF",
+    "price_per_kg": 337.41,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of Paeonia lactiflora scent.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "paeonia accord",
+      "peony flower reconstruction"
+    ]
+  },
+  {
+    "id": "ing_006",
+    "name": "Ginger Essential Oil",
+    "cas_number": "8007-08-7",
+    "scent_family": "oriental",
+    "supplier": "Robertet",
+    "price_per_kg": 70.21,
+    "origin_country": "India",
+    "description": "Steam-distilled from Zingiber officinale.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "zingiber oil"
+    ]
+  },
+  {
+    "id": "ing_007",
+    "name": "Ambergris Tincture (Synthetic)",
+    "cas_number": "N/A",
+    "scent_family": "musky",
+    "supplier": "Symrise",
+    "price_per_kg": 670.09,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of whale ambergris.",
+    "safety_notes": "Non-toxic. Natural ambergris extremely rare.",
+    "synonyms": [
+      "synthetic ambergris",
+      "grey amber reconstruction"
+    ]
+  },
+  {
+    "id": "ing_008",
+    "name": "Velvione",
+    "cas_number": "N/A",
+    "scent_family": "musky",
+    "supplier": "Bedoukian",
+    "price_per_kg": 85.14,
+    "origin_country": "Switzerland",
+    "description": "Synthetic macrocyclic musk by Firmenich.",
+    "safety_notes": "Non-toxic, non-sensitizing. Velvet-soft musk.",
+    "synonyms": [
+      "velvione original"
+    ]
+  },
+  {
+    "id": "ing_009",
+    "name": "Linalool Natural",
+    "cas_number": "78-70-6",
+    "scent_family": "fresh",
+    "supplier": "Mane SA",
+    "price_per_kg": 24.04,
+    "origin_country": "Brazil",
+    "description": "Natural isolate from rosewood or ho wood.",
+    "safety_notes": "Non-sensitizing when fresh. Oxidized linalool can sensitize.",
+    "synonyms": [
+      "linalol",
+      "linalyl alcohol"
+    ]
+  },
+  {
+    "id": "ing_010",
+    "name": "Ylang Ylang Essential Oil",
+    "cas_number": "8006-81-3",
+    "scent_family": "floral",
+    "supplier": "Givaudan",
+    "price_per_kg": 155.71,
+    "origin_country": "Madagascar",
+    "description": "Steam-distilled from Cananga odorata flowers.",
+    "safety_notes": "Non-toxic, non-irritating. Use at recommended levels.",
+    "synonyms": [
+      "cananga oil",
+      "ylang oil",
+      "flower of flowers oil"
+    ]
+  },
+  {
+    "id": "ing_011",
+    "name": "Nagarmotha Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "Sensient",
+    "price_per_kg": 165.75,
+    "origin_country": "India",
+    "description": "Steam-distilled from Cyperus scariosus roots.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "cypriol oil",
+      "cyperus scariosus oil"
+    ]
+  },
+  {
+    "id": "ing_012",
+    "name": "Mimosa Absolute",
+    "cas_number": "68916-83-6",
+    "scent_family": "floral",
+    "supplier": "BASF",
+    "price_per_kg": 2498.14,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Acacia dealbata flowers.",
+    "safety_notes": "Non-toxic. May cause sensitization in rare cases.",
+    "synonyms": [
+      "acacia absolute",
+      "mimosa flower extract"
+    ]
+  },
+  {
+    "id": "ing_013",
+    "name": "Osmanthus Absolute",
+    "cas_number": "68917-05-5",
+    "scent_family": "floral",
+    "supplier": "Firmenich",
+    "price_per_kg": 4624.97,
+    "origin_country": "China",
+    "description": "Solvent-extracted from Osmanthus fragrans flowers.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "sweet olive oil",
+      "osmanthus flower extract"
+    ]
+  },
+  {
+    "id": "ing_014",
+    "name": "Pomelo Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "BASF",
+    "price_per_kg": 51.23,
+    "origin_country": "Thailand",
+    "description": "Cold-pressed from Citrus maxima rind.",
+    "safety_notes": "Mildly phototoxic.",
+    "synonyms": [
+      "citrus maxima oil"
+    ]
+  },
+  {
+    "id": "ing_015",
+    "name": "Oroblanco Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "BASF",
+    "price_per_kg": 126.67,
+    "origin_country": "Israel",
+    "description": "Cold-pressed from Citrus grandis x paradisi.",
+    "safety_notes": "Mildly phototoxic. Hybrid grapefruit.",
+    "synonyms": [
+      "sweetie oil"
+    ]
+  },
+  {
+    "id": "ing_016",
+    "name": "Birch Tar Essential Oil",
+    "cas_number": "8001-88-5",
+    "scent_family": "woody",
+    "supplier": "Sensient",
+    "price_per_kg": 77.26,
+    "origin_country": "Russia",
+    "description": "Dry-distilled from Betula pendula bark.",
+    "safety_notes": "Potential sensitizer. Use at low concentrations.",
+    "synonyms": [
+      "betula oil",
+      "birch bark oil"
+    ]
+  },
+  {
+    "id": "ing_017",
+    "name": "Combava Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "BASF",
+    "price_per_kg": 249.37,
+    "origin_country": "Madagascar",
+    "description": "Steam-distilled from Citrus hystrix leaves.",
+    "safety_notes": "Non-toxic. Distinctive kaffir lime character.",
+    "synonyms": [
+      "kaffir lime oil",
+      "citrus hystrix oil"
+    ]
+  },
+  {
+    "id": "ing_018",
+    "name": "Siam Wood Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "IFF",
+    "price_per_kg": 75.45,
+    "origin_country": "Thailand",
+    "description": "Steam-distilled from Fokienia hodginsii.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "fokienia oil"
+    ]
+  },
+  {
+    "id": "ing_019",
+    "name": "Calamansi Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Symrise",
+    "price_per_kg": 57.66,
+    "origin_country": "Philippines",
+    "description": "Cold-pressed from Citrus microcarpa.",
+    "safety_notes": "Mildly phototoxic.",
+    "synonyms": [
+      "calamondin oil",
+      "citrus microcarpa oil"
+    ]
+  },
+  {
+    "id": "ing_020",
+    "name": "Cypress Essential Oil",
+    "cas_number": "8013-86-3",
+    "scent_family": "woody",
+    "supplier": "Bedoukian",
+    "price_per_kg": 90.03,
+    "origin_country": "France",
+    "description": "Steam-distilled from Cupressus sempervirens.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "cupressus oil",
+      "mediterranean cypress oil"
+    ]
+  },
+  {
+    "id": "ing_021",
+    "name": "Styrax Resin",
+    "cas_number": "8046-19-3",
+    "scent_family": "oriental",
+    "supplier": "Symrise",
+    "price_per_kg": 63.38,
+    "origin_country": "Turkey",
+    "description": "Collected from Liquidambar orientalis.",
+    "safety_notes": "May cause sensitization. Use treated version.",
+    "synonyms": [
+      "storax",
+      "liquidambar resin"
+    ]
+  },
+  {
+    "id": "ing_022",
+    "name": "Lavender Essential Oil",
+    "cas_number": "8000-28-0",
+    "scent_family": "floral",
+    "supplier": "Sensient",
+    "price_per_kg": 90.15,
+    "origin_country": "France",
+    "description": "Steam-distilled from Lavandula angustifolia.",
+    "safety_notes": "Non-toxic, non-sensitizing. One of the safest essential oils.",
+    "synonyms": [
+      "lavandula oil",
+      "true lavender oil",
+      "fine lavender"
+    ]
+  },
+  {
+    "id": "ing_023",
+    "name": "Aldehydes C-12 MNA",
+    "cas_number": "110-41-8",
+    "scent_family": "fresh",
+    "supplier": "IFF",
+    "price_per_kg": 18.08,
+    "origin_country": "France",
+    "description": "Synthetic aldehyde with metallic-clean character.",
+    "safety_notes": "Potential irritant at high concentrations.",
+    "synonyms": [
+      "2-methylundecanal"
+    ]
+  },
+  {
+    "id": "ing_024",
+    "name": "Rosewood Essential Oil",
+    "cas_number": "8015-77-8",
+    "scent_family": "woody",
+    "supplier": "Givaudan",
+    "price_per_kg": 401.16,
+    "origin_country": "Brazil",
+    "description": "Steam-distilled from Aniba rosaeodora.",
+    "safety_notes": "Non-toxic. CITES restricted \u2014 use synthetic alternatives when possible.",
+    "synonyms": [
+      "bois de rose oil",
+      "aniba rosaeodora oil"
+    ]
+  },
+  {
+    "id": "ing_025",
+    "name": "Plumeria Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Givaudan",
+    "price_per_kg": 3027.68,
+    "origin_country": "Hawaii",
+    "description": "Solvent-extracted from Plumeria rubra.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "plumeria flower oil",
+      "hawaiian plumeria extract"
+    ]
+  },
+  {
+    "id": "ing_026",
+    "name": "Skatole",
+    "cas_number": "83-34-1",
+    "scent_family": "musky",
+    "supplier": "Bedoukian",
+    "price_per_kg": 44.67,
+    "origin_country": "India",
+    "description": "Natural isolate. Found in orange blossoms.",
+    "safety_notes": "Non-toxic at trace levels. Overpowering at high concentrations.",
+    "synonyms": [
+      "3-methylindole"
+    ]
+  },
+  {
+    "id": "ing_027",
+    "name": "Ambrettolide",
+    "cas_number": "123-69-3",
+    "scent_family": "musky",
+    "supplier": "Mane SA",
+    "price_per_kg": 47.48,
+    "origin_country": "France",
+    "description": "Synthetic macrocyclic musk.",
+    "safety_notes": "Non-toxic. Close to natural ambrette character.",
+    "synonyms": [
+      "ambrettolide lg"
+    ]
+  },
+  {
+    "id": "ing_028",
+    "name": "Tonalide",
+    "cas_number": "21145-77-7",
+    "scent_family": "musky",
+    "supplier": "Mane SA",
+    "price_per_kg": 16.24,
+    "origin_country": "Germany",
+    "description": "Synthetic polycyclic musk.",
+    "safety_notes": "Restricted due to environmental concerns.",
+    "synonyms": [
+      "AHTN"
+    ]
+  },
+  {
+    "id": "ing_029",
+    "name": "Cedarwood Atlas",
+    "cas_number": "8023-85-6",
+    "scent_family": "woody",
+    "supplier": "Bedoukian",
+    "price_per_kg": 76.09,
+    "origin_country": "Morocco",
+    "description": "Steam-distilled from Cedrus atlantica wood.",
+    "safety_notes": "Non-toxic, non-irritating at recommended levels.",
+    "synonyms": [
+      "atlas cedar oil",
+      "cedrus atlantica oil"
+    ]
+  },
+  {
+    "id": "ing_030",
+    "name": "Amalfi Lemon Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Givaudan",
+    "price_per_kg": 55.47,
+    "origin_country": "Italy",
+    "description": "Cold-pressed from Citrus limon 'Sfusato Amalfitano'.",
+    "safety_notes": "Phototoxic. Premium Italian terroir.",
+    "synonyms": [
+      "sfusato amalfitano oil"
+    ]
+  },
+  {
+    "id": "ing_031",
+    "name": "Stephanotis Accord",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Mane SA",
+    "price_per_kg": 476.03,
+    "origin_country": "France",
+    "description": "Synthetic accord replicating Madagascar jasmine.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "madagascar jasmine accord"
+    ]
+  },
+  {
+    "id": "ing_032",
+    "name": "Chamomile Blue Essential Oil",
+    "cas_number": "8002-66-2",
+    "scent_family": "floral",
+    "supplier": "Robertet",
+    "price_per_kg": 551.26,
+    "origin_country": "Egypt",
+    "description": "Steam-distilled from Matricaria chamomilla.",
+    "safety_notes": "Non-toxic. Blue color from chamazulene content.",
+    "synonyms": [
+      "german chamomile oil",
+      "matricaria oil"
+    ]
+  },
+  {
+    "id": "ing_033",
+    "name": "Orange Blossom Absolute",
+    "cas_number": "8028-48-6",
+    "scent_family": "floral",
+    "supplier": "Robertet",
+    "price_per_kg": 2949.79,
+    "origin_country": "Tunisia",
+    "description": "Solvent-extracted from Citrus aurantium flowers.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "orange flower absolute",
+      "citrus aurantium flower absolute"
+    ]
+  },
+  {
+    "id": "ing_034",
+    "name": "Buddha's Hand Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Robertet",
+    "price_per_kg": 496.15,
+    "origin_country": "China",
+    "description": "Cold-pressed from Citrus medica var. sarcodactylis.",
+    "safety_notes": "Non-toxic. Unique floral-citrus character.",
+    "synonyms": [
+      "fingered citron oil"
+    ]
+  },
+  {
+    "id": "ing_035",
+    "name": "Rain Accord (Petrichor)",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "Robertet",
+    "price_per_kg": 109.23,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of petrichor.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "petrichor accord",
+      "earth after rain"
+    ]
+  },
+  {
+    "id": "ing_036",
+    "name": "Vanillin",
+    "cas_number": "121-33-5",
+    "scent_family": "oriental",
+    "supplier": "Takasago",
+    "price_per_kg": 22.97,
+    "origin_country": "China",
+    "description": "Synthetic or lignin-derived vanilla molecule.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "vanillin crystal"
+    ]
+  },
+  {
+    "id": "ing_037",
+    "name": "Violet Leaf Absolute CO2",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "IFF",
+    "price_per_kg": 3839.38,
+    "origin_country": "France",
+    "description": "Supercritical CO2 extraction from Viola odorata leaves.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "violet leaf co2 extract"
+    ]
+  },
+  {
+    "id": "ing_038",
+    "name": "Musk Ketone",
+    "cas_number": "81-14-1",
+    "scent_family": "musky",
+    "supplier": "BASF",
+    "price_per_kg": 18.04,
+    "origin_country": "Germany",
+    "description": "Synthetic nitro musk.",
+    "safety_notes": "RESTRICTED \u2014 environmental concerns. Being phased out.",
+    "synonyms": [
+      "musk ketone crystal"
+    ]
+  },
+  {
+    "id": "ing_039",
+    "name": "Jasmine Absolute",
+    "cas_number": "8022-96-6",
+    "scent_family": "floral",
+    "supplier": "Symrise",
+    "price_per_kg": 4612.33,
+    "origin_country": "Egypt",
+    "description": "Jasmine absolute, extracted from the delicate white flowers of Jasminum grandiflorum (or occasionally Jasminum sambac for a more indolic character), stands alongside rose as one of the two great pillars of floral perfumery. The extraction process is necessarily gentle \u2014 the flowers are too fragile for steam distillation, so solvent extraction using hexane produces a concrete, which is then washed with ethanol to yield the absolute. Each flower must be picked by hand in the early morning hours, and approximately 8,000 flowers \u2014 weighing roughly one kilogram \u2014 are needed to produce a single gram of absolute.\n\nThe olfactory character of jasmine absolute is intensely floral, rich, and warm, with a distinctive animalic undertone provided by indole, one of its key chemical constituents. This animalic facet \u2014 which in isolation smells fecal \u2014 is precisely what gives jasmine its intoxicating, narcotic quality in perfumery. Additional components include benzyl acetate (fruity-fresh), linalool (woody-floral), benzyl benzoate (faintly balsamic), and jasmone (the molecule that gives jasmine its distinctive green-fruity lift). The Grasse region of southern France has historically produced the finest jasmine absolute, though Egyptian and Indian sources now dominate commercial production.\n\nJasmine absolute is considered a \"must-have\" in the perfumer's palette, appearing in an estimated 80% of all fine fragrances. It works magnificently as a heart note, lending depth, warmth, and sensuality to compositions ranging from fresh florals (when paired with hedione and citrus notes) to heavy orientals (with vanilla, benzoin, and amber). In Chanel No. 5, jasmine from Grasse works alongside May rose to create the archetypal abstract floral bouquet. Modern sustainable sourcing practices and the development of jasmine absolutes from different geographic origins have expanded the perfumer's palette, with each origin offering subtle but important olfactory differences.",
+    "safety_notes": "May cause sensitization in some individuals at high concentrations.",
+    "synonyms": [
+      "jasmine oil",
+      "jasminum grandiflorum extract"
+    ]
+  },
+  {
+    "id": "ing_040",
+    "name": "Musk Xylene",
+    "cas_number": "81-15-2",
+    "scent_family": "musky",
+    "supplier": "Symrise",
+    "price_per_kg": 17.35,
+    "origin_country": "Germany",
+    "description": "Synthetic nitro musk \u2014 historical.",
+    "safety_notes": "RESTRICTED \u2014 environmental and safety concerns. Limited use.",
+    "synonyms": [
+      "musk xylol"
+    ]
+  },
+  {
+    "id": "ing_041",
+    "name": "Amyris Essential Oil",
+    "cas_number": "8015-65-4",
+    "scent_family": "woody",
+    "supplier": "Robertet",
+    "price_per_kg": 45.87,
+    "origin_country": "Haiti",
+    "description": "Steam-distilled from Amyris balsamifera.",
+    "safety_notes": "Non-toxic, non-sensitizing. Often called 'West Indian sandalwood'.",
+    "synonyms": [
+      "amyris oil",
+      "west indian sandalwood"
+    ]
+  },
+  {
+    "id": "ing_042",
+    "name": "Yuzu Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Sensient",
+    "price_per_kg": 401.74,
+    "origin_country": "Japan",
+    "description": "Yuzu (Citrus junos) essential oil represents one of the most distinctive and sought-after citrus materials in modern perfumery, prized for its complex, multifaceted character that transcends the straightforward brightness of more common citrus oils. The yuzu fruit \u2014 a hybrid of mandarin orange and ichang papeda \u2014 has been cultivated in East Asia for over a thousand years, with Japan as the dominant commercial producer. The fruit is small, rough-skinned, and intensely aromatic, with a fragrance that has been described as a sophisticated intersection of grapefruit, mandarin, and Meyer lemon with unique tart and floral nuances that have no parallel in Western citriculture.\n\nThe oil is cold-pressed from the rind of the fruit, which is harvested from November through January when fully ripe and at peak aromatic intensity. Japanese yuzu oil production is concentrated in Kochi Prefecture on the island of Shikoku, which accounts for approximately 50% of Japan's yuzu crop. The oil's distinctive character derives from an unusual chemical profile: alongside expected citrus components like limonene and gamma-terpinene, yuzu oil contains significant quantities of yuzunone \u2014 a unique ketone found in no other commercially available citrus oil \u2014 as well as elevated levels of linalool and alpha-thujene, which contribute its characteristic green and herbal facets.\n\nYuzu entered Western perfumery relatively recently, gaining prominence in the late 1990s and early 2000s as niche perfumery embraced Japanese aesthetic sensibilities. Its wabi-sabi quality \u2014 beautiful imperfection, understated elegance \u2014 resonated with perfumers seeking alternatives to the more obvious sparkle of bergamot or the sweetness of mandarin. Herm\u00e8s Un Jardin sur le Nil and Issey Miyake L'Eau d'Issey were among the early Western fragrances to feature yuzu prominently. Today, yuzu appears in fragrances across all price points and is particularly valued in \"clean\" and \"transparent\" compositions where its natural complexity reduces the need for synthetic enhancement.",
+    "safety_notes": "Mildly phototoxic. Distinctive Japanese citrus.",
+    "synonyms": [
+      "yuzu oil",
+      "citrus junos oil"
+    ]
+  },
+  {
+    "id": "ing_043",
+    "name": "Galaxolide",
+    "cas_number": "1222-05-5",
+    "scent_family": "musky",
+    "supplier": "Sensient",
+    "price_per_kg": 23.86,
+    "origin_country": "Germany",
+    "description": "Synthetic polycyclic musk.",
+    "safety_notes": "Generally safe. Environmental persistence concerns.",
+    "synonyms": [
+      "galaxolide 50",
+      "HHCB"
+    ]
+  },
+  {
+    "id": "ing_044",
+    "name": "Tuberose Absolute",
+    "cas_number": "8024-55-3",
+    "scent_family": "floral",
+    "supplier": "Sensient",
+    "price_per_kg": 5079.71,
+    "origin_country": "India",
+    "description": "Solvent-extracted from Polianthes tuberosa flowers.",
+    "safety_notes": "Non-toxic. May cause sensitization in sensitive individuals.",
+    "synonyms": [
+      "tuberose oil",
+      "polianthes tuberosa extract"
+    ]
+  },
+  {
+    "id": "ing_045",
+    "name": "Ethyl Vanillin",
+    "cas_number": "121-32-4",
+    "scent_family": "oriental",
+    "supplier": "Sensient",
+    "price_per_kg": 22.02,
+    "origin_country": "China",
+    "description": "Synthetic vanillin analog \u2014 3x stronger than vanillin.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "ethyl vanillin crystal"
+    ]
+  },
+  {
+    "id": "ing_046",
+    "name": "Incense Accord",
+    "cas_number": "N/A",
+    "scent_family": "oriental",
+    "supplier": "Takasago",
+    "price_per_kg": 89.23,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of burning incense.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "church incense accord"
+    ]
+  },
+  {
+    "id": "ing_047",
+    "name": "Dihydromyrcenol",
+    "cas_number": "18479-58-8",
+    "scent_family": "fresh",
+    "supplier": "Givaudan",
+    "price_per_kg": 10.99,
+    "origin_country": "Germany",
+    "description": "Synthetic fresh-citrus molecule.",
+    "safety_notes": "Non-toxic. Ubiquitous in men's fragrances.",
+    "synonyms": [
+      "DHM"
+    ]
+  },
+  {
+    "id": "ing_048",
+    "name": "Rum Absolute",
+    "cas_number": "N/A",
+    "scent_family": "oriental",
+    "supplier": "Bedoukian",
+    "price_per_kg": 207.65,
+    "origin_country": "Jamaica",
+    "description": "Solvent-extracted from aged rum.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "rum extract"
+    ]
+  },
+  {
+    "id": "ing_049",
+    "name": "Muscone",
+    "cas_number": "541-91-3",
+    "scent_family": "musky",
+    "supplier": "Givaudan",
+    "price_per_kg": 459.01,
+    "origin_country": "Switzerland",
+    "description": "Muscone (3-methylcyclopentadecanone) is the principal odorous molecule in natural deer musk \u2014 historically the most prized animalic material in perfumery and traditional medicine. For centuries, musk pods harvested from the musk deer (Moschus moschiferus) of Central Asia commanded prices rivaling gold, and the trade drove the species to near extinction across much of its range. The synthesis of dl-muscone, first achieved by Leopold Ru\u017ei\u010dka in 1926 (work that contributed to his 1939 Nobel Prize in Chemistry), represents one of the great achievements in fragrance chemistry and effectively ended the need for animal-derived musk in perfumery.\n\nModern synthetic muscone is produced via several industrial routes, the most efficient being the cyclization of macrocyclic precursors derived from petrochemical or biotechnological feedstocks. The molecule's olfactory character is the benchmark against which all other musks are measured: a warm, sensual, powdery, animalic scent with remarkable diffusive power and longevity. Unlike polycyclic musks (such as Galaxolide or Tonalide, which have environmental persistence concerns) or nitro musks (which are being phased out for safety reasons), macrocyclic musks like muscone are biodegradable and have an excellent safety profile, making them the gold standard for modern fragrance formulation.\n\nIn perfumery, synthetic muscone serves as the ultimate base note \u2014 a scent foundation that extends longevity, enhances sillage, and adds a warm, skin-like sensuality to any composition it touches. It is used in virtually every fine fragrance category, from light eaux fra\u00eeches (where trace amounts add subliminal warmth) to heavy oriental parfums (where it provides animalic depth). The molecule's unique ability to \"bloom\" on skin \u2014 to develop and intensify over hours rather than fading \u2014 makes it invaluable for perfumers designing long-wearing fragrances. Muscone also plays an important role in the current trend toward \"skin scents\" and intimate fragrances, where its naturally low-projection character creates a personal, close-to-the-body effect.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "dl-muscone",
+      "synthetic muscone"
+    ]
+  },
+  {
+    "id": "ing_050",
+    "name": "Lotus Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Givaudan",
+    "price_per_kg": 4568.51,
+    "origin_country": "India",
+    "description": "Solvent-extracted from Nelumbo nucifera.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "sacred lotus oil",
+      "nelumbo extract"
+    ]
+  },
+  {
+    "id": "ing_051",
+    "name": "Neroli Essential Oil",
+    "cas_number": "8016-38-4",
+    "scent_family": "floral",
+    "supplier": "Robertet",
+    "price_per_kg": 3339.1,
+    "origin_country": "Tunisia",
+    "description": "Steam-distilled from Citrus aurantium blossoms.",
+    "safety_notes": "Non-toxic, non-sensitizing. Generally safe for use.",
+    "synonyms": [
+      "orange blossom oil",
+      "neroli bigarade",
+      "citrus aurantium flower oil"
+    ]
+  },
+  {
+    "id": "ing_052",
+    "name": "Tonka Bean Absolute",
+    "cas_number": "8046-22-8",
+    "scent_family": "oriental",
+    "supplier": "Symrise",
+    "price_per_kg": 477.76,
+    "origin_country": "Venezuela",
+    "description": "Solvent-extracted from Dipteryx odorata beans.",
+    "safety_notes": "Coumarin content restricted by IFRA. Use within guidelines.",
+    "synonyms": [
+      "tonka absolute",
+      "dipteryx odorata extract"
+    ]
+  },
+  {
+    "id": "ing_053",
+    "name": "Guaiac Wood Essential Oil",
+    "cas_number": "8016-23-7",
+    "scent_family": "woody",
+    "supplier": "IFF",
+    "price_per_kg": 47.14,
+    "origin_country": "Paraguay",
+    "description": "Steam-distilled from Bulnesia sarmientoi.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "guaiacwood oil",
+      "bulnesia oil",
+      "palo santo oil"
+    ]
+  },
+  {
+    "id": "ing_054",
+    "name": "Bamboo Accord",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "BASF",
+    "price_per_kg": 247.61,
+    "origin_country": "Japan",
+    "description": "Synthetic reconstruction of fresh-cut bamboo.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "bamboo reconstruction"
+    ]
+  },
+  {
+    "id": "ing_055",
+    "name": "Tomato Leaf Accord",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "Takasago",
+    "price_per_kg": 105.38,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of fresh tomato vine.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "tomato vine accord"
+    ]
+  },
+  {
+    "id": "ing_056",
+    "name": "Civettone",
+    "cas_number": "542-46-1",
+    "scent_family": "musky",
+    "supplier": "Robertet",
+    "price_per_kg": 444.41,
+    "origin_country": "France",
+    "description": "Synthetic version of civet musk ketone.",
+    "safety_notes": "Non-toxic. Natural civet extraction is banned.",
+    "synonyms": [
+      "synthetic civettone"
+    ]
+  },
+  {
+    "id": "ing_057",
+    "name": "Heliotrope Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "BASF",
+    "price_per_kg": 1965.77,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Heliotropium arborescens.",
+    "safety_notes": "Non-toxic, non-irritating.",
+    "synonyms": [
+      "heliotrope flower oil",
+      "cherry pie plant extract"
+    ]
+  },
+  {
+    "id": "ing_058",
+    "name": "Phantolide",
+    "cas_number": "15323-35-0",
+    "scent_family": "musky",
+    "supplier": "Sensient",
+    "price_per_kg": 30.74,
+    "origin_country": "Germany",
+    "description": "Synthetic polycyclic musk.",
+    "safety_notes": "Environmental persistence concerns.",
+    "synonyms": [
+      "AHDI"
+    ]
+  },
+  {
+    "id": "ing_059",
+    "name": "Iris Absolute",
+    "cas_number": "8002-73-1",
+    "scent_family": "floral",
+    "supplier": "Sensient",
+    "price_per_kg": 9391.86,
+    "origin_country": "Italy",
+    "description": "Iris absolute, also known as orris butter, is the single most expensive natural material in the perfumer's palette and one of the most difficult to produce. The journey from field to fragrance takes a minimum of five years. Iris pallida and Iris germanica rhizomes are cultivated primarily in Tuscany, Italy (around the town of San Polo in Chianti) and in Morocco. After three years of growth, the rhizomes are harvested, peeled, and then aged for an additional two to three years. During this lengthy aging process, the odorless lipids in the rhizome undergo oxidative degradation, slowly converting into irones \u2014 the precious molecules responsible for the characteristic powdery, violet-like, earthy scent of orris.\n\nAfter aging, the dried rhizomes are steam-distilled or CO2-extracted. The yield is vanishingly small: approximately 1,500 to 2,000 kilograms of dried rhizomes produce just one kilogram of orris butter. The irone content of the resulting absolute determines its quality and price, with the finest Florentine orris achieving 15-20% irone content. This extraordinary production effort is reflected in the price: high-quality orris butter routinely sells for $80,000 to $120,000 per kilogram, making it more expensive by weight than gold.\n\nThe olfactory profile of iris absolute is ethereal: a soft, powdery, rootlike violet character with woody undertones and a delicate carrot-seed facet. It is indispensable in luxury perfumery, providing the backbone of powdery-floral compositions. Iris appears prominently in fragrances like Dior Homme, Prada Infusion d'Iris, Chanel No. 19, and Serge Lutens Iris Silver Mist. In modern perfumery, synthetic irones (particularly alpha-isomethyl ionone and Orris Natural HS) are used to extend and complement natural orris, though nothing fully replicates the complexity of the genuine absolute. The Florentine iris industry, which dates back to the Renaissance when Iris pallida was grown alongside vines in Chianti, remains a living link between artisanal agriculture and haute perfumery.",
+    "safety_notes": "Non-toxic. Extremely expensive due to 3-year aging requirement.",
+    "synonyms": [
+      "orris root oil",
+      "iris pallida absolute",
+      "orris butter"
+    ]
+  },
+  {
+    "id": "ing_060",
+    "name": "Violet Leaf Absolute",
+    "cas_number": "8024-08-6",
+    "scent_family": "floral",
+    "supplier": "Givaudan",
+    "price_per_kg": 2541.32,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Viola odorata leaves.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "viola leaf oil",
+      "violet leaf extract"
+    ]
+  },
+  {
+    "id": "ing_061",
+    "name": "Cucumber Accord",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "Mane SA",
+    "price_per_kg": 102.8,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of fresh cucumber.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "cucumber reconstruction"
+    ]
+  },
+  {
+    "id": "ing_062",
+    "name": "Clementine Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Robertet",
+    "price_per_kg": 63.52,
+    "origin_country": "Spain",
+    "description": "Cold-pressed from Citrus clementina rind.",
+    "safety_notes": "Non-phototoxic. Sweet, child-friendly citrus.",
+    "synonyms": [
+      "clementine oil"
+    ]
+  },
+  {
+    "id": "ing_063",
+    "name": "Meyer Lemon Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "IFF",
+    "price_per_kg": 89.86,
+    "origin_country": "USA",
+    "description": "Cold-pressed from Citrus meyeri.",
+    "safety_notes": "Mildly phototoxic. Sweeter than standard lemon.",
+    "synonyms": [
+      "meyer lemon peel oil"
+    ]
+  },
+  {
+    "id": "ing_064",
+    "name": "Vetiver Essential Oil",
+    "cas_number": "8016-96-4",
+    "scent_family": "woody",
+    "supplier": "BASF",
+    "price_per_kg": 260.22,
+    "origin_country": "Haiti",
+    "description": "Vetiver essential oil, distilled from the roots of Chrysopogon zizanioides (formerly Vetiveria zizanioides), is one of the most important and versatile materials in the perfumer's palette. The plant is a perennial bunchgrass native to India, and its root system \u2014 which can penetrate 3 to 4 meters deep into the soil \u2014 is what makes vetiver remarkable both agriculturally and aromatically. The roots are harvested after 18 to 24 months of growth, cleaned, dried, and then steam-distilled for 18 to 24 hours to yield a thick, amber-colored essential oil with an extraordinarily complex olfactory profile.\n\nThe chemistry of vetiver oil is staggeringly complex, with over 150 identified sesquiterpene compounds. The major olfactive contributors include khusimol (earthy, woody), vetiverol (smoky, leather), alpha and beta-vetivone (dry, woody), and isovalencenol (grapefruit-like). The geographic origin dramatically affects the oil's character: Haitian vetiver (bourbon type) tends toward smoky, earthy, and rooty qualities; Indonesian vetiver (Java type) is heavier and more tar-like; Indian vetiver from the Ruh Khus tradition is sweeter, greener, and more transparent. The finest Haitian vetiver oil, produced by small cooperatives in the southern peninsula, is considered the benchmark for fine fragrance use.\n\nVetiver functions as one of the great fixatives in perfumery, anchoring compositions and extending their longevity on skin. It appears in an estimated 36% of all fine fragrances and 20% of men's fragrances. Classic uses include Guerlain Vetiver, which helped popularize vetiver as a standalone note in Western perfumery, and Tom Ford Grey Vetiver, which showcases the material's sophisticated versatility. Vetiver pairs exceptionally well with citrus notes (creating the classic \"vetiver cologne\" accord), with iris and violet (in powdery compositions), and with tobacco, leather, and oud (in smoky oriental blends). The grass itself serves important agricultural functions: its deep root system prevents soil erosion, and vetiver hedgerows are used worldwide as a sustainable technology for slope stabilization and water purification.",
+    "safety_notes": "Non-toxic, non-sensitizing. Excellent fixative.",
+    "synonyms": [
+      "vetiver oil",
+      "khus oil",
+      "chrysopogon oil"
+    ]
+  },
+  {
+    "id": "ing_065",
+    "name": "Acacia Farnesiana Absolute",
+    "cas_number": "68916-83-6",
+    "scent_family": "floral",
+    "supplier": "Robertet",
+    "price_per_kg": 1647.06,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Acacia farnesiana (cassie).",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "cassie absolute",
+      "sweet acacia oil"
+    ]
+  },
+  {
+    "id": "ing_066",
+    "name": "Heliotropin",
+    "cas_number": "120-57-0",
+    "scent_family": "oriental",
+    "supplier": "Sensient",
+    "price_per_kg": 18.39,
+    "origin_country": "China",
+    "description": "Synthetic molecule with powdery-almond-vanilla character.",
+    "safety_notes": "Precursor chemical \u2014 restricted in some jurisdictions.",
+    "synonyms": [
+      "piperonal"
+    ]
+  },
+  {
+    "id": "ing_067",
+    "name": "Broom Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "BASF",
+    "price_per_kg": 2141.58,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Spartium junceum.",
+    "safety_notes": "May cause sensitization. Patch test recommended.",
+    "synonyms": [
+      "genet absolute",
+      "spartium junceum extract"
+    ]
+  },
+  {
+    "id": "ing_068",
+    "name": "Nirvanolide",
+    "cas_number": "N/A",
+    "scent_family": "musky",
+    "supplier": "Takasago",
+    "price_per_kg": 230.96,
+    "origin_country": "Switzerland",
+    "description": "Synthetic macrocyclic musk by Givaudan.",
+    "safety_notes": "Non-toxic, biodegradable. Latest generation musk.",
+    "synonyms": [
+      "nirvanolide 15"
+    ]
+  },
+  {
+    "id": "ing_069",
+    "name": "Cardamom Essential Oil",
+    "cas_number": "8000-66-6",
+    "scent_family": "oriental",
+    "supplier": "Robertet",
+    "price_per_kg": 168.41,
+    "origin_country": "Guatemala",
+    "description": "Steam-distilled from Elettaria cardamomum seeds.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "elettaria oil"
+    ]
+  },
+  {
+    "id": "ing_070",
+    "name": "Exaltolide",
+    "cas_number": "106-02-5",
+    "scent_family": "musky",
+    "supplier": "IFF",
+    "price_per_kg": 71.1,
+    "origin_country": "Switzerland",
+    "description": "Synthetic macrocyclic musk.",
+    "safety_notes": "Non-toxic, non-sensitizing. Excellent fixative.",
+    "synonyms": [
+      "exaltolide 10"
+    ]
+  },
+  {
+    "id": "ing_071",
+    "name": "Cherry Blossom Accord",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Takasago",
+    "price_per_kg": 337.71,
+    "origin_country": "Japan",
+    "description": "Synthetic reconstruction inspired by sakura.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "sakura accord",
+      "cherry flower reconstruction"
+    ]
+  },
+  {
+    "id": "ing_072",
+    "name": "Muscenone",
+    "cas_number": "63314-79-4",
+    "scent_family": "musky",
+    "supplier": "Sensient",
+    "price_per_kg": 147.68,
+    "origin_country": "Switzerland",
+    "description": "Synthetic macrocyclic musk.",
+    "safety_notes": "Non-toxic, non-sensitizing. Powerful and elegant.",
+    "synonyms": [
+      "muscenone delta"
+    ]
+  },
+  {
+    "id": "ing_073",
+    "name": "Satsuma Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Givaudan",
+    "price_per_kg": 70.3,
+    "origin_country": "Japan",
+    "description": "Cold-pressed from Citrus unshiu.",
+    "safety_notes": "Non-phototoxic.",
+    "synonyms": [
+      "unshu mikan oil"
+    ]
+  },
+  {
+    "id": "ing_074",
+    "name": "Tagetes Essential Oil",
+    "cas_number": "8016-84-0",
+    "scent_family": "floral",
+    "supplier": "Sensient",
+    "price_per_kg": 85.25,
+    "origin_country": "India",
+    "description": "Steam-distilled from Tagetes minuta.",
+    "safety_notes": "Phototoxic \u2014 restrict use in leave-on products.",
+    "synonyms": [
+      "marigold oil",
+      "tagetes minuta oil"
+    ]
+  },
+  {
+    "id": "ing_075",
+    "name": "Bitter Orange Essential Oil",
+    "cas_number": "8028-48-6",
+    "scent_family": "citrus",
+    "supplier": "Firmenich",
+    "price_per_kg": 45.3,
+    "origin_country": "Spain",
+    "description": "Cold-pressed from Citrus aurantium rind.",
+    "safety_notes": "Phototoxic. Classic cologne ingredient.",
+    "synonyms": [
+      "bigarade oil",
+      "seville orange oil"
+    ]
+  },
+  {
+    "id": "ing_076",
+    "name": "Elderflower Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Symrise",
+    "price_per_kg": 1120.48,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Sambucus nigra flowers.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "sambucus flower extract"
+    ]
+  },
+  {
+    "id": "ing_077",
+    "name": "Castoreum Absolute (Synthetic)",
+    "cas_number": "N/A",
+    "scent_family": "musky",
+    "supplier": "Bedoukian",
+    "price_per_kg": 373.86,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of beaver castoreum.",
+    "safety_notes": "Non-toxic. Natural castoreum rarely used today.",
+    "synonyms": [
+      "synthetic castoreum"
+    ]
+  },
+  {
+    "id": "ing_078",
+    "name": "Indole",
+    "cas_number": "120-72-9",
+    "scent_family": "musky",
+    "supplier": "Givaudan",
+    "price_per_kg": 26.19,
+    "origin_country": "India",
+    "description": "Natural isolate or synthetic. Found in jasmine and orange blossoms.",
+    "safety_notes": "Non-toxic at recommended levels. Fecal at high concentrations.",
+    "synonyms": [
+      "2,3-benzopyrrole"
+    ]
+  },
+  {
+    "id": "ing_079",
+    "name": "Boronia Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Takasago",
+    "price_per_kg": 5697.0,
+    "origin_country": "Australia",
+    "description": "Solvent-extracted from Boronia megastigma.",
+    "safety_notes": "Non-toxic. One of the rarest naturals.",
+    "synonyms": [
+      "boronia megastigma extract"
+    ]
+  },
+  {
+    "id": "ing_080",
+    "name": "Hay Absolute",
+    "cas_number": "N/A",
+    "scent_family": "oriental",
+    "supplier": "Symrise",
+    "price_per_kg": 325.96,
+    "origin_country": "France",
+    "description": "Solvent-extracted from dried grass (Anthoxanthum odoratum).",
+    "safety_notes": "Non-toxic. Contains coumarin.",
+    "synonyms": [
+      "sweet grass absolute",
+      "coumarin grass"
+    ]
+  },
+  {
+    "id": "ing_081",
+    "name": "Massoia Bark Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "IFF",
+    "price_per_kg": 164.87,
+    "origin_country": "Indonesia",
+    "description": "Steam-distilled from Cryptocarya massoia bark.",
+    "safety_notes": "Dermotoxic \u2014 dilute well. Use with caution.",
+    "synonyms": [
+      "massoia oil",
+      "cryptocarya massoia oil"
+    ]
+  },
+  {
+    "id": "ing_082",
+    "name": "Dekopon Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "BASF",
+    "price_per_kg": 424.98,
+    "origin_country": "Japan",
+    "description": "Cold-pressed from Citrus reticulata 'Dekopon'.",
+    "safety_notes": "Non-phototoxic. Sweet mandarin variant.",
+    "synonyms": [
+      "sumo citrus oil"
+    ]
+  },
+  {
+    "id": "ing_083",
+    "name": "Iso E Super",
+    "cas_number": "54464-57-2",
+    "scent_family": "woody",
+    "supplier": "Takasago",
+    "price_per_kg": 63.38,
+    "origin_country": "Germany",
+    "description": "Synthetic cedarwood molecule.",
+    "safety_notes": "Non-toxic. May cause anosmia in some individuals.",
+    "synonyms": [
+      "iso e super plus"
+    ]
+  },
+  {
+    "id": "ing_084",
+    "name": "Romandolide",
+    "cas_number": "236391-76-7",
+    "scent_family": "musky",
+    "supplier": "BASF",
+    "price_per_kg": 64.27,
+    "origin_country": "Switzerland",
+    "description": "Synthetic linear musk by Firmenich.",
+    "safety_notes": "Non-toxic, biodegradable. Modern clean musk.",
+    "synonyms": [
+      "romandolide 10"
+    ]
+  },
+  {
+    "id": "ing_085",
+    "name": "Fir Balsam Essential Oil",
+    "cas_number": "8021-28-1",
+    "scent_family": "woody",
+    "supplier": "Mane SA",
+    "price_per_kg": 52.17,
+    "origin_country": "Canada",
+    "description": "Steam-distilled from Abies balsamea.",
+    "safety_notes": "Non-toxic. May cause sensitization with oxidation.",
+    "synonyms": [
+      "balsam fir oil",
+      "abies balsamea oil"
+    ]
+  },
+  {
+    "id": "ing_086",
+    "name": "Sandalwood Mysore",
+    "cas_number": "8006-87-9",
+    "scent_family": "woody",
+    "supplier": "Symrise",
+    "price_per_kg": 2255.16,
+    "origin_country": "India",
+    "description": "Santalum album, the East Indian or Mysore sandalwood, has been revered for over 4,000 years as one of the most precious aromatic materials in human history. The heartwood of mature Santalum album trees \u2014 which must grow for a minimum of 15 to 30 years before the heartwood develops sufficient oil content \u2014 is steam-distilled to produce an essential oil of incomparable quality. The trees are native to the southern Indian states of Karnataka, Tamil Nadu, and Kerala, with the Mysore region historically producing the finest quality oil due to ideal growing conditions: well-drained, rocky soil at elevations between 600 and 900 meters with moderate rainfall.\n\nThe chemical profile of Mysore sandalwood oil is dominated by alpha-santalol (typically 41-55%) and beta-santalol (16-24%), which together account for the oil's characteristic soft, creamy, woody-milky scent with balsamic undertones. These santalols are also responsible for the oil's remarkable tenacity on skin \u2014 sandalwood is one of the most substantive natural materials in perfumery, often detectable for 8 to 12 hours after application. The oil also contains small but olfactively significant quantities of alpha-bergamotol, epi-beta-santalol, and nuciferol, which contribute nuance and complexity to the overall profile.\n\nThe Indian government has long regulated Santalum album as a protected species, and wild sandalwood has been listed as Vulnerable on the IUCN Red List since 1998. Illegal harvesting and smuggling \u2014 most infamously by the sandalwood smuggler Veerappan, who operated in the forests of Karnataka and Tamil Nadu from the 1970s until his death in 2004 \u2014 have severely depleted wild populations. Today, most commercial Mysore sandalwood comes from government-managed plantations in Karnataka or from newer plantations in Australia's tropical north. Plantation-grown sandalwood is chemically identical to wild-harvested material when grown in appropriate conditions, though connoisseurs often claim to detect subtle differences in the dry-down. Indian sandalwood oil commands prices of $2,000-$3,500 per kilogram, with demand consistently exceeding supply.",
+    "safety_notes": "Non-toxic, non-sensitizing. Endangered species \u2014 use sustainably sourced.",
+    "synonyms": [
+      "sandalwood oil",
+      "santalum album oil",
+      "east indian sandalwood"
+    ]
+  },
+  {
+    "id": "ing_087",
+    "name": "Frankincense Essential Oil",
+    "cas_number": "8016-36-2",
+    "scent_family": "oriental",
+    "supplier": "Firmenich",
+    "price_per_kg": 72.94,
+    "origin_country": "Somalia",
+    "description": "Frankincense essential oil, distilled from the aromatic resin of Boswellia trees (primarily B. sacra, B. carterii, B. frereana, and B. serrata), connects modern perfumery to one of the oldest documented uses of fragrance in human civilization. Archaeological evidence suggests that frankincense was traded along the Arabian incense route as early as 3000 BCE, and it appears prominently in religious texts across multiple traditions: the Hebrew Bible, the New Testament (as one of the gifts of the Magi), the Quran, and ancient Egyptian papyri documenting its use in temple incense and embalming. The resin is harvested by making shallow incisions in the bark of Boswellia trees, which respond by exuding a milky-white sap that hardens into the characteristic amber-colored \"tears.\"\n\nThe distillation of these resin tears produces an essential oil with a remarkably complex and spiritually evocative profile: fresh-citrusy top notes (from alpha-pinene and limonene), a balsamic-woody heart (from olibanol and incensol), and a deep, smoky, slightly medicinal base that evokes ancient temples and contemplative spaces. The species and geographic origin dramatically affect the oil's character: Boswellia sacra from Oman's Dhofar region produces a bright, citrus-forward oil considered the finest for perfumery; B. carterii from Somalia offers a smokier, more resinous profile; B. frereana (known as \"Maydi\") yields a clean, almost mentholated oil prized by connoisseurs; and B. serrata from India has a more earthy, grounding character.\n\nIn modern perfumery, frankincense serves multiple functions: as a bridge between citrus top notes and heavier base materials, as a modifier that adds depth and spirituality to any composition, and occasionally as a featured ingredient in its own right. It is essential to the \"incense\" family of fragrances (exemplified by Comme des Gar\u00e7ons Avignon and Armani Priv\u00e9 Ambre Eccentrico) and appears as a supporting player in oriental, woody, and even some fresh compositions. The growing interest in mindfulness, wellness, and ritualistic self-care has driven renewed consumer interest in frankincense-forward fragrances, and the material's anti-inflammatory properties (attributed to boswellic acids in the resin) have made it a crossover ingredient in premium skincare.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "olibanum oil",
+      "boswellia oil"
+    ]
+  },
+  {
+    "id": "ing_088",
+    "name": "Lemongrass Essential Oil",
+    "cas_number": "8007-02-1",
+    "scent_family": "citrus",
+    "supplier": "Givaudan",
+    "price_per_kg": 27.47,
+    "origin_country": "India",
+    "description": "Steam-distilled from Cymbopogon citratus.",
+    "safety_notes": "May cause sensitization. Dilute well.",
+    "synonyms": [
+      "cymbopogon oil"
+    ]
+  },
+  {
+    "id": "ing_089",
+    "name": "Gaiac Wood CO2",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "Takasago",
+    "price_per_kg": 149.64,
+    "origin_country": "Paraguay",
+    "description": "Supercritical CO2 extraction from Bulnesia sarmientoi.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "guaiac wood co2 extract"
+    ]
+  },
+  {
+    "id": "ing_090",
+    "name": "Coffee Absolute",
+    "cas_number": "N/A",
+    "scent_family": "oriental",
+    "supplier": "Firmenich",
+    "price_per_kg": 553.02,
+    "origin_country": "Brazil",
+    "description": "Solvent-extracted from Coffea arabica beans.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "coffea arabica extract"
+    ]
+  },
+  {
+    "id": "ing_091",
+    "name": "Grass Accord",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "Firmenich",
+    "price_per_kg": 85.74,
+    "origin_country": "France",
+    "description": "Synthetic fresh-cut grass reconstruction.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "fresh grass accord"
+    ]
+  },
+  {
+    "id": "ing_092",
+    "name": "Black Pepper Essential Oil",
+    "cas_number": "8006-82-4",
+    "scent_family": "oriental",
+    "supplier": "Symrise",
+    "price_per_kg": 86.29,
+    "origin_country": "India",
+    "description": "Steam-distilled from Piper nigrum.",
+    "safety_notes": "Non-toxic at recommended levels. May cause skin warmth.",
+    "synonyms": [
+      "piper nigrum oil"
+    ]
+  },
+  {
+    "id": "ing_093",
+    "name": "Cosmone",
+    "cas_number": "25620-69-3",
+    "scent_family": "musky",
+    "supplier": "Mane SA",
+    "price_per_kg": 249.28,
+    "origin_country": "Switzerland",
+    "description": "Synthetic macrocyclic musk.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "cosmone plus"
+    ]
+  },
+  {
+    "id": "ing_094",
+    "name": "Lily of the Valley Accord",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Robertet",
+    "price_per_kg": 297.38,
+    "origin_country": "France",
+    "description": "Synthetic accord \u2014 natural extraction not commercially viable.",
+    "safety_notes": "Safe for use at recommended levels.",
+    "synonyms": [
+      "muguet accord",
+      "convallaria accord"
+    ]
+  },
+  {
+    "id": "ing_095",
+    "name": "Peru Balsam",
+    "cas_number": "8007-00-9",
+    "scent_family": "oriental",
+    "supplier": "Symrise",
+    "price_per_kg": 48.99,
+    "origin_country": "El Salvador",
+    "description": "Tapped from Myroxylon balsamum var. pereirae.",
+    "safety_notes": "Known allergen \u2014 restricted by IFRA. Patch test required.",
+    "synonyms": [
+      "balsam of peru"
+    ]
+  },
+  {
+    "id": "ing_096",
+    "name": "Elemi Essential Oil",
+    "cas_number": "9000-75-3",
+    "scent_family": "woody",
+    "supplier": "Sensient",
+    "price_per_kg": 56.58,
+    "origin_country": "Philippines",
+    "description": "Steam-distilled from Canarium luzonicum resin.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "canarium oil",
+      "manila elemi"
+    ]
+  },
+  {
+    "id": "ing_097",
+    "name": "Tea Tree Essential Oil",
+    "cas_number": "68647-73-4",
+    "scent_family": "fresh",
+    "supplier": "Bedoukian",
+    "price_per_kg": 18.2,
+    "origin_country": "Australia",
+    "description": "Steam-distilled from Melaleuca alternifolia.",
+    "safety_notes": "Non-toxic. May cause sensitization when oxidized.",
+    "synonyms": [
+      "melaleuca oil"
+    ]
+  },
+  {
+    "id": "ing_098",
+    "name": "Oakmoss Absolute",
+    "cas_number": "9000-50-4",
+    "scent_family": "woody",
+    "supplier": "Givaudan",
+    "price_per_kg": 429.66,
+    "origin_country": "France",
+    "description": "Oakmoss absolute, extracted from the lichen Evernia prunastri, is one of the most historically significant and now controversial materials in perfumery. This epiphytic lichen grows primarily on oak trees in the mountainous regions of southern France, Morocco, and the former Yugoslavia, and has been used in perfumery since at least the 16th century. The lichen is harvested by hand, dried, and subjected to solvent extraction (typically with hexane) to produce a concrete, which is then further processed with ethanol to yield the absolute. The annual global harvest of oakmoss has historically averaged 8,000 to 9,000 metric tons of raw lichen, producing approximately 80 to 100 tons of absolute.\n\nThe olfactory character of oakmoss is unique and irreplaceable \u2014 a complex blend of earthy, woody, marine, and subtly sweet facets that provides what perfumers call \"chypre character.\" Named after Coty's groundbreaking 1917 fragrance Chypre, the chypre accord (bergamot + oakmoss + labdanum) has been one of the fundamental structures of Western perfumery for over a century. Oakmoss absolute is also a key component of the foug\u00e8re accord (lavender + coumarin + oakmoss), another foundational fragrance family. Classic perfumes that depend heavily on oakmoss include Guerlain Mitsouko, Chanel No. 19, Miss Dior, and virtually every masculine foug\u00e8re from the 1970s through the 1990s.\n\nHowever, oakmoss contains two molecules \u2014 atranol and chloroatranol \u2014 that are potent contact allergens affecting approximately 1-2% of the European population. In response, IFRA (International Fragrance Association) has progressively restricted oakmoss use since 2008, with current limits set at 0.1% in the final product when using untreated oakmoss. The industry has responded by developing \"treated\" oakmoss absolutes (branded as Oakmoss Absolue MD, LMR Oakmoss Prime, etc.) in which atranol and chloroatranol have been removed through selective distillation. While these treated versions satisfy regulatory requirements, many perfumers argue that the removal process strips away important nuances, fundamentally altering the material's character and threatening the survival of the chypre family as a perfume genre.",
+    "safety_notes": "Restricted by IFRA due to atranol content. Use treated version.",
+    "synonyms": [
+      "evernia prunastri extract",
+      "mousse de chene"
+    ]
+  },
+  {
+    "id": "ing_099",
+    "name": "Mysore Sandalwood CO2",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "Givaudan",
+    "price_per_kg": 3113.83,
+    "origin_country": "India",
+    "description": "Supercritical CO2 extraction from Santalum album.",
+    "safety_notes": "Non-toxic. Premium extraction method preserves full profile.",
+    "synonyms": [
+      "sandalwood co2 extract"
+    ]
+  },
+  {
+    "id": "ing_100",
+    "name": "Ethylene Brassylate",
+    "cas_number": "105-95-3",
+    "scent_family": "musky",
+    "supplier": "Symrise",
+    "price_per_kg": 43.16,
+    "origin_country": "Germany",
+    "description": "Synthetic macrocyclic musk.",
+    "safety_notes": "Non-toxic, non-sensitizing. Warm, powdery musk.",
+    "synonyms": [
+      "musk T"
+    ]
+  },
+  {
+    "id": "ing_101",
+    "name": "Hyacinth Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "BASF",
+    "price_per_kg": 6270.9,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Hyacinthus orientalis.",
+    "safety_notes": "Non-toxic. Very low yield extraction.",
+    "synonyms": [
+      "hyacinth oil",
+      "hyacinthus extract"
+    ]
+  },
+  {
+    "id": "ing_102",
+    "name": "Wisteria Accord",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "BASF",
+    "price_per_kg": 507.14,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of wisteria scent profile.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "wisteria flower accord"
+    ]
+  },
+  {
+    "id": "ing_103",
+    "name": "Basil Essential Oil",
+    "cas_number": "8015-73-4",
+    "scent_family": "fresh",
+    "supplier": "Givaudan",
+    "price_per_kg": 79.93,
+    "origin_country": "Egypt",
+    "description": "Steam-distilled from Ocimum basilicum.",
+    "safety_notes": "Non-toxic at recommended levels. Estragole content varies by chemotype.",
+    "synonyms": [
+      "sweet basil oil",
+      "ocimum basilicum oil"
+    ]
+  },
+  {
+    "id": "ing_104",
+    "name": "Tangerine Essential Oil",
+    "cas_number": "8016-85-1",
+    "scent_family": "citrus",
+    "supplier": "Symrise",
+    "price_per_kg": 42.29,
+    "origin_country": "USA",
+    "description": "Cold-pressed from Citrus tangerina.",
+    "safety_notes": "Non-phototoxic.",
+    "synonyms": [
+      "citrus tangerina oil"
+    ]
+  },
+  {
+    "id": "ing_105",
+    "name": "Carnation Absolute",
+    "cas_number": "8015-67-6",
+    "scent_family": "floral",
+    "supplier": "Symrise",
+    "price_per_kg": 1850.08,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Dianthus caryophyllus.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "dianthus oil",
+      "carnation flower extract"
+    ]
+  },
+  {
+    "id": "ing_106",
+    "name": "Silvanone",
+    "cas_number": "N/A",
+    "scent_family": "musky",
+    "supplier": "Firmenich",
+    "price_per_kg": 146.12,
+    "origin_country": "France",
+    "description": "Synthetic woody-musk molecule.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "silvanone extra"
+    ]
+  },
+  {
+    "id": "ing_107",
+    "name": "Citronella Essential Oil",
+    "cas_number": "8000-29-1",
+    "scent_family": "citrus",
+    "supplier": "Takasago",
+    "price_per_kg": 17.71,
+    "origin_country": "Sri Lanka",
+    "description": "Steam-distilled from Cymbopogon nardus.",
+    "safety_notes": "Non-toxic. May cause sensitization.",
+    "synonyms": [
+      "cymbopogon nardus oil"
+    ]
+  },
+  {
+    "id": "ing_108",
+    "name": "Cis-3-Hexenol",
+    "cas_number": "928-96-1",
+    "scent_family": "fresh",
+    "supplier": "IFF",
+    "price_per_kg": 62.86,
+    "origin_country": "France",
+    "description": "Synthetic green leaf molecule.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "leaf alcohol",
+      "green leaf alcohol"
+    ]
+  },
+  {
+    "id": "ing_109",
+    "name": "Finger Lime Extract",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Sensient",
+    "price_per_kg": 459.53,
+    "origin_country": "Australia",
+    "description": "Cold-pressed from Citrus australasica.",
+    "safety_notes": "Non-toxic. Novel Australian native citrus.",
+    "synonyms": [
+      "australian finger lime oil"
+    ]
+  },
+  {
+    "id": "ing_110",
+    "name": "Menthol Natural",
+    "cas_number": "89-78-1",
+    "scent_family": "fresh",
+    "supplier": "Givaudan",
+    "price_per_kg": 41.83,
+    "origin_country": "India",
+    "description": "Crystallized from Mentha arvensis.",
+    "safety_notes": "Non-toxic. Strong cooling effect.",
+    "synonyms": [
+      "l-menthol",
+      "peppermint camphor"
+    ]
+  },
+  {
+    "id": "ing_111",
+    "name": "Honeysuckle Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Sensient",
+    "price_per_kg": 1983.79,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Lonicera caprifolium.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "lonicera oil",
+      "honeysuckle flower extract"
+    ]
+  },
+  {
+    "id": "ing_112",
+    "name": "Myrrh Essential Oil",
+    "cas_number": "8016-37-3",
+    "scent_family": "oriental",
+    "supplier": "Firmenich",
+    "price_per_kg": 75.04,
+    "origin_country": "Somalia",
+    "description": "Steam-distilled from Commiphora myrrha resin.",
+    "safety_notes": "Non-toxic. Avoid during pregnancy.",
+    "synonyms": [
+      "commiphora oil"
+    ]
+  },
+  {
+    "id": "ing_113",
+    "name": "Teak Absolute",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "Givaudan",
+    "price_per_kg": 291.71,
+    "origin_country": "India",
+    "description": "Solvent-extracted from Tectona grandis.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "tectona oil",
+      "teak wood extract"
+    ]
+  },
+  {
+    "id": "ing_114",
+    "name": "Cashmeran",
+    "cas_number": "33704-61-9",
+    "scent_family": "woody",
+    "supplier": "Firmenich",
+    "price_per_kg": 135.82,
+    "origin_country": "Germany",
+    "description": "Synthetic musk-wood molecule by IFF.",
+    "safety_notes": "Non-toxic, non-sensitizing. Excellent diffusion.",
+    "synonyms": [
+      "cashmeran dp"
+    ]
+  },
+  {
+    "id": "ing_115",
+    "name": "Aldehydes C-11 Undecylenic",
+    "cas_number": "112-45-8",
+    "scent_family": "fresh",
+    "supplier": "Firmenich",
+    "price_per_kg": 31.59,
+    "origin_country": "France",
+    "description": "Synthetic aldehyde with clean, waxy-green character.",
+    "safety_notes": "Potential irritant at high concentrations.",
+    "synonyms": [
+      "undecylenic aldehyde",
+      "C-11"
+    ]
+  },
+  {
+    "id": "ing_116",
+    "name": "Sudachi Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Symrise",
+    "price_per_kg": 290.3,
+    "origin_country": "Japan",
+    "description": "Cold-pressed from Citrus sudachi.",
+    "safety_notes": "Mildly phototoxic. Rare Japanese citrus.",
+    "synonyms": [
+      "citrus sudachi oil"
+    ]
+  },
+  {
+    "id": "ing_117",
+    "name": "Kumquat Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Sensient",
+    "price_per_kg": 81.68,
+    "origin_country": "China",
+    "description": "Cold-pressed from Fortunella margarita.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "fortunella oil",
+      "kumquat peel oil"
+    ]
+  },
+  {
+    "id": "ing_118",
+    "name": "Freesia Accord",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Symrise",
+    "price_per_kg": 359.16,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction. Natural extraction not viable.",
+    "safety_notes": "Safe at recommended levels.",
+    "synonyms": [
+      "freesia reconstruction"
+    ]
+  },
+  {
+    "id": "ing_119",
+    "name": "Hedione",
+    "cas_number": "24851-98-7",
+    "scent_family": "fresh",
+    "supplier": "Sensient",
+    "price_per_kg": 25.23,
+    "origin_country": "Switzerland",
+    "description": "Hedione (methyl dihydrojasmonate) deserves recognition as perhaps the most consequential synthetic molecule ever created for the fragrance industry. Developed by Firmenich and first used in Eau Sauvage by Edmond Roudnitska in 1966, hedione has since become the single most consumed fine fragrance ingredient in the world, with annual production estimated at over 3,000 metric tons. The molecule's importance lies not in what it smells like in isolation \u2014 a mild, transparent, jasmine-tea freshness \u2014 but in what it does to other materials when combined with them: it acts as a \"booster\" and \"blender,\" lifting heavy base notes, extending citrus longevity, adding radiance to florals, and creating an overall impression of luminous freshness and modernity.\n\nThe chemistry behind hedione's magic lies partly in its volatility profile. Unlike most jasmine-related molecules, hedione evaporates at a rate that positions it between the top and heart of a fragrance, creating a \"bridge\" effect that smooths transitions and fills what perfumers call the \"gap\" between the bright opening and the heavier drydown. This bridging quality, combined with its extreme mildness and excellent skin compatibility, allows perfumers to use hedione at concentrations of 10-40% of a formula without overwhelming the composition \u2014 dosages that would be impossible with any other single ingredient. The Super and HC (High Cis) versions of hedione, which contain elevated levels of the more potent cis-isomer, are even more diffusive and radiant than standard hedione.\n\nHedione's impact on the perfume industry cannot be overstated. Before Eau Sauvage, men's fragrances were dominated by heavy foug\u00e8res and leather compositions. Hedione enabled a new generation of light, fresh, citrus-floral masculines that remain the dominant paradigm in men's fragrance today. In women's perfumery, hedione underpins the \"sheer floral\" category that includes J'adore, CK One, and hundreds of other best-sellers. The molecule has also been shown in scientific studies to activate the putative human pheromone receptor VN1R1, suggesting that its appeal may have a neurobiological basis beyond simple olfactory preference.",
+    "safety_notes": "Non-toxic, non-sensitizing. Most used fine fragrance ingredient.",
+    "synonyms": [
+      "methyl dihydrojasmonate"
+    ]
+  },
+  {
+    "id": "ing_120",
+    "name": "Cacao Absolute",
+    "cas_number": "8002-31-1",
+    "scent_family": "oriental",
+    "supplier": "Givaudan",
+    "price_per_kg": 760.08,
+    "origin_country": "Ivory Coast",
+    "description": "Solvent-extracted from Theobroma cacao.",
+    "safety_notes": "Non-toxic, non-sensitizing. Rich chocolate character.",
+    "synonyms": [
+      "cocoa absolute",
+      "theobroma cacao extract"
+    ]
+  },
+  {
+    "id": "ing_121",
+    "name": "Fig Leaf Absolute",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "BASF",
+    "price_per_kg": 473.72,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Ficus carica leaves.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "ficus carica leaf extract"
+    ]
+  },
+  {
+    "id": "ing_122",
+    "name": "Marine Accord (Calone)",
+    "cas_number": "28940-11-6",
+    "scent_family": "fresh",
+    "supplier": "Sensient",
+    "price_per_kg": 67.53,
+    "origin_country": "France",
+    "description": "Synthetic marine/ozone molecule.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "calone 1951",
+      "watermelon ketone"
+    ]
+  },
+  {
+    "id": "ing_123",
+    "name": "Hemlock Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "Firmenich",
+    "price_per_kg": 102.34,
+    "origin_country": "USA",
+    "description": "Steam-distilled from Tsuga canadensis.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "tsuga oil",
+      "canadian hemlock oil"
+    ]
+  },
+  {
+    "id": "ing_124",
+    "name": "Magnolia Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Mane SA",
+    "price_per_kg": 251.32,
+    "origin_country": "China",
+    "description": "Steam-distilled from Magnolia champaca flowers.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "champaca oil",
+      "magnolia flower oil"
+    ]
+  },
+  {
+    "id": "ing_125",
+    "name": "Benzyl Benzoate",
+    "cas_number": "120-51-4",
+    "scent_family": "oriental",
+    "supplier": "Firmenich",
+    "price_per_kg": 11.31,
+    "origin_country": "China",
+    "description": "Synthetic or natural ester.",
+    "safety_notes": "Non-toxic. May cause sensitization in some individuals.",
+    "synonyms": [
+      "benzoic acid benzyl ester"
+    ]
+  },
+  {
+    "id": "ing_126",
+    "name": "Rangpur Lime Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Symrise",
+    "price_per_kg": 64.92,
+    "origin_country": "India",
+    "description": "Cold-pressed from Citrus limonia.",
+    "safety_notes": "Phototoxic. Mandarin-lime hybrid.",
+    "synonyms": [
+      "mandarin lime oil"
+    ]
+  },
+  {
+    "id": "ing_127",
+    "name": "Grapefruit Essential Oil",
+    "cas_number": "8016-20-4",
+    "scent_family": "citrus",
+    "supplier": "Mane SA",
+    "price_per_kg": 33.43,
+    "origin_country": "USA",
+    "description": "Cold-pressed from Citrus paradisi rind.",
+    "safety_notes": "Mildly phototoxic. Excellent freshness.",
+    "synonyms": [
+      "grapefruit oil",
+      "citrus paradisi oil"
+    ]
+  },
+  {
+    "id": "ing_128",
+    "name": "Eucalyptus Essential Oil",
+    "cas_number": "8000-48-4",
+    "scent_family": "fresh",
+    "supplier": "Givaudan",
+    "price_per_kg": 20.23,
+    "origin_country": "Australia",
+    "description": "Steam-distilled from Eucalyptus globulus.",
+    "safety_notes": "Non-toxic. Keep away from children's faces.",
+    "synonyms": [
+      "eucalyptus globulus oil"
+    ]
+  },
+  {
+    "id": "ing_129",
+    "name": "Driftwood Accord",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "Robertet",
+    "price_per_kg": 195.62,
+    "origin_country": "France",
+    "description": "Synthetic accord with mineral-woody character.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "bois flotte accord"
+    ]
+  },
+  {
+    "id": "ing_130",
+    "name": "Coumarin",
+    "cas_number": "91-64-5",
+    "scent_family": "oriental",
+    "supplier": "Takasago",
+    "price_per_kg": 18.38,
+    "origin_country": "China",
+    "description": "Synthetic or natural isolate. Found in tonka bean.",
+    "safety_notes": "Restricted by IFRA. Max levels vary by product type.",
+    "synonyms": [
+      "coumarin crystal"
+    ]
+  },
+  {
+    "id": "ing_131",
+    "name": "Geranium Essential Oil",
+    "cas_number": "8000-46-2",
+    "scent_family": "floral",
+    "supplier": "Sensient",
+    "price_per_kg": 105.77,
+    "origin_country": "Egypt",
+    "description": "Steam-distilled from Pelargonium graveolens.",
+    "safety_notes": "Non-toxic, non-irritating at standard concentrations.",
+    "synonyms": [
+      "pelargonium oil",
+      "rose geranium oil",
+      "geranium bourbon"
+    ]
+  },
+  {
+    "id": "ing_132",
+    "name": "Davana Essential Oil",
+    "cas_number": "8016-03-3",
+    "scent_family": "floral",
+    "supplier": "Firmenich",
+    "price_per_kg": 298.0,
+    "origin_country": "India",
+    "description": "Steam-distilled from Artemisia pallens.",
+    "safety_notes": "Non-toxic, non-sensitizing at recommended levels.",
+    "synonyms": [
+      "artemisia pallens oil"
+    ]
+  },
+  {
+    "id": "ing_133",
+    "name": "Nutmeg Essential Oil",
+    "cas_number": "8008-45-5",
+    "scent_family": "oriental",
+    "supplier": "BASF",
+    "price_per_kg": 37.17,
+    "origin_country": "Indonesia",
+    "description": "Steam-distilled from Myristica fragrans.",
+    "safety_notes": "Toxic in large doses (myristicin). Use at low percentages.",
+    "synonyms": [
+      "myristica oil"
+    ]
+  },
+  {
+    "id": "ing_134",
+    "name": "Spruce Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "Sensient",
+    "price_per_kg": 66.46,
+    "origin_country": "Canada",
+    "description": "Steam-distilled from Picea mariana needles.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "black spruce oil",
+      "picea mariana oil"
+    ]
+  },
+  {
+    "id": "ing_135",
+    "name": "Star Anise Essential Oil",
+    "cas_number": "8007-70-3",
+    "scent_family": "oriental",
+    "supplier": "IFF",
+    "price_per_kg": 34.48,
+    "origin_country": "China",
+    "description": "Steam-distilled from Illicium verum.",
+    "safety_notes": "Non-toxic. High anethole content.",
+    "synonyms": [
+      "illicium verum oil"
+    ]
+  },
+  {
+    "id": "ing_136",
+    "name": "Treemoss Absolute",
+    "cas_number": "90028-67-4",
+    "scent_family": "woody",
+    "supplier": "Sensient",
+    "price_per_kg": 322.71,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Pseudevernia furfuracea.",
+    "safety_notes": "Restricted by IFRA. Use atranol-free version.",
+    "synonyms": [
+      "pseudevernia furfuracea extract"
+    ]
+  },
+  {
+    "id": "ing_137",
+    "name": "Linden Blossom Absolute",
+    "cas_number": "8021-63-2",
+    "scent_family": "floral",
+    "supplier": "Givaudan",
+    "price_per_kg": 2061.88,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Tilia europaea flowers.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "lime blossom oil",
+      "tilia absolute"
+    ]
+  },
+  {
+    "id": "ing_138",
+    "name": "Citron Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Symrise",
+    "price_per_kg": 112.87,
+    "origin_country": "Italy",
+    "description": "Cold-pressed from Citrus medica rind.",
+    "safety_notes": "Mildly phototoxic.",
+    "synonyms": [
+      "citrus medica oil",
+      "cedrat oil"
+    ]
+  },
+  {
+    "id": "ing_139",
+    "name": "Ambroxan",
+    "cas_number": "6790-58-5",
+    "scent_family": "musky",
+    "supplier": "Givaudan",
+    "price_per_kg": 64.8,
+    "origin_country": "Germany",
+    "description": "Ambroxan (chemical name: dodecahydro-3a,6,6,9a-tetramethylnaphtho[2,1-b]furan) is arguably the single most important synthetic molecule to have transformed modern perfumery in the 21st century. Originally developed as a cost-effective replacement for ambergris \u2014 the waxy substance formed in the digestive system of sperm whales \u2014 ambroxan has transcended its origins to become a starring ingredient in its own right. The molecule was first synthesized by Firmenich in the 1950s and commercialized under various trade names including Ambrox DL, Ambroxide, and Cetalox (the Firmenich brand), though today multiple suppliers produce it. It can be manufactured from sclareol, a diterpene alcohol derived from clary sage (Salvia sclarea), making bio-based production possible.\n\nThe olfactory profile of ambroxan is deceptively simple yet extraordinarily effective: a warm, woody-amber character with distinctly salty and skin-like facets that gives the impression of sun-warmed driftwood on a beach. What makes ambroxan remarkable, however, is not just its smell but its behavior on skin. The molecule has a pronounced \"radiance\" effect \u2014 it projects strongly, creating an aura of scent around the wearer, and interacts with individual skin chemistry to produce subtly different impressions on different people. This chameleon-like quality has made it a favorite of perfumers who want their creations to feel personal and intimate rather than uniform.\n\nThe Ambroxan revolution in commercial perfumery arguably began with Escentric Molecules' Molecule 02 (which contains ambroxan as essentially the sole ingredient) and accelerated with Maison Francis Kurkdjian's Baccarat Rouge 540, one of the best-selling niche fragrances of the 2010s and 2020s, where ambroxan's radiant woody-amber character provides the backbone. The molecule appears in an enormous percentage of modern fragrances across all categories and price points, from mass-market body sprays to ultra-luxury niche compositions. Its combination of high impact, excellent tenacity, skin-compatibility, and moderate cost has made it perhaps the most versatile single molecule in the contemporary perfumer's palette.",
+    "safety_notes": "Non-toxic, non-sensitizing. Salty-woody ambergris.",
+    "synonyms": [
+      "ambrox",
+      "ambroxide",
+      "cetalox"
+    ]
+  },
+  {
+    "id": "ing_140",
+    "name": "Copaiba Balsam",
+    "cas_number": "8001-61-4",
+    "scent_family": "woody",
+    "supplier": "Bedoukian",
+    "price_per_kg": 66.74,
+    "origin_country": "Brazil",
+    "description": "Tapped from Copaifera langsdorffii trees.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "copaiba oil",
+      "copaifera balsam"
+    ]
+  },
+  {
+    "id": "ing_141",
+    "name": "Champaca Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Bedoukian",
+    "price_per_kg": 2995.29,
+    "origin_country": "India",
+    "description": "Solvent-extracted from Michelia champaca flowers.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "champaca flower absolute",
+      "michelia oil"
+    ]
+  },
+  {
+    "id": "ing_142",
+    "name": "Patchouli Essential Oil",
+    "cas_number": "8014-09-3",
+    "scent_family": "woody",
+    "supplier": "Mane SA",
+    "price_per_kg": 58.82,
+    "origin_country": "Indonesia",
+    "description": "Steam-distilled from Pogostemon cablin leaves.",
+    "safety_notes": "Non-toxic, non-irritating.",
+    "synonyms": [
+      "pogostemon oil",
+      "patchouly oil"
+    ]
+  },
+  {
+    "id": "ing_143",
+    "name": "Musk Ambrette (Natural)",
+    "cas_number": "83-66-9",
+    "scent_family": "musky",
+    "supplier": "Sensient",
+    "price_per_kg": 228.49,
+    "origin_country": "France",
+    "description": "Nitro musk \u2014 historical use only.",
+    "safety_notes": "BANNED \u2014 phototoxic and neurotoxic. Listed for historical reference only.",
+    "synonyms": [
+      "musk ambrette crystal"
+    ]
+  },
+  {
+    "id": "ing_144",
+    "name": "Tobacco Absolute",
+    "cas_number": "8037-19-2",
+    "scent_family": "oriental",
+    "supplier": "Takasago",
+    "price_per_kg": 403.57,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Nicotiana tabacum.",
+    "safety_notes": "Non-toxic at recommended levels. Does not contain nicotine.",
+    "synonyms": [
+      "nicotiana tabacum extract"
+    ]
+  },
+  {
+    "id": "ing_145",
+    "name": "Cedarwood Virginia",
+    "cas_number": "8000-27-9",
+    "scent_family": "woody",
+    "supplier": "Robertet",
+    "price_per_kg": 47.72,
+    "origin_country": "USA",
+    "description": "Steam-distilled from Juniperus virginiana.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "virginia cedar oil",
+      "red cedar oil",
+      "juniperus virginiana oil"
+    ]
+  },
+  {
+    "id": "ing_146",
+    "name": "Thyme Essential Oil",
+    "cas_number": "8007-46-3",
+    "scent_family": "fresh",
+    "supplier": "IFF",
+    "price_per_kg": 40.18,
+    "origin_country": "Spain",
+    "description": "Steam-distilled from Thymus vulgaris.",
+    "safety_notes": "Potential irritant. Use thymol-free chemotype for sensitive skin.",
+    "synonyms": [
+      "thymus vulgaris oil"
+    ]
+  },
+  {
+    "id": "ing_147",
+    "name": "Habanolide",
+    "cas_number": "34902-57-3",
+    "scent_family": "musky",
+    "supplier": "Sensient",
+    "price_per_kg": 87.83,
+    "origin_country": "Switzerland",
+    "description": "Synthetic macrocyclic musk by Firmenich.",
+    "safety_notes": "Non-toxic, non-sensitizing. Clean, skin-like musk.",
+    "synonyms": [
+      "habanolide 10"
+    ]
+  },
+  {
+    "id": "ing_148",
+    "name": "Helvetolide",
+    "cas_number": "141773-73-1",
+    "scent_family": "musky",
+    "supplier": "Robertet",
+    "price_per_kg": 124.11,
+    "origin_country": "Switzerland",
+    "description": "Synthetic alicyclic musk by Firmenich.",
+    "safety_notes": "Non-toxic, non-sensitizing. Pear-musky character.",
+    "synonyms": [
+      "helvetolide original"
+    ]
+  },
+  {
+    "id": "ing_149",
+    "name": "Petitgrain Essential Oil",
+    "cas_number": "8014-17-3",
+    "scent_family": "citrus",
+    "supplier": "Sensient",
+    "price_per_kg": 29.95,
+    "origin_country": "Paraguay",
+    "description": "Steam-distilled from Citrus aurantium leaves and twigs.",
+    "safety_notes": "Non-toxic, non-phototoxic. Green-floral citrus.",
+    "synonyms": [
+      "petitgrain bigarade",
+      "citrus aurantium leaf oil"
+    ]
+  },
+  {
+    "id": "ing_150",
+    "name": "Green Tea Absolute",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "BASF",
+    "price_per_kg": 225.51,
+    "origin_country": "Japan",
+    "description": "Solvent-extracted from Camellia sinensis.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "camellia sinensis extract",
+      "matcha absolute"
+    ]
+  },
+  {
+    "id": "ing_151",
+    "name": "Pink Pepper Essential Oil",
+    "cas_number": "68650-39-5",
+    "scent_family": "oriental",
+    "supplier": "IFF",
+    "price_per_kg": 232.4,
+    "origin_country": "Brazil",
+    "description": "Steam-distilled from Schinus molle berries.",
+    "safety_notes": "Non-toxic. Not a true pepper \u2014 related to cashew family.",
+    "synonyms": [
+      "schinus molle oil"
+    ]
+  },
+  {
+    "id": "ing_152",
+    "name": "Sandalwood Australian",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "IFF",
+    "price_per_kg": 906.99,
+    "origin_country": "Australia",
+    "description": "Steam-distilled from Santalum spicatum.",
+    "safety_notes": "Non-toxic, non-sensitizing. Sustainable alternative to Mysore.",
+    "synonyms": [
+      "australian sandalwood oil",
+      "santalum spicatum oil"
+    ]
+  },
+  {
+    "id": "ing_153",
+    "name": "Labdanum Absolute",
+    "cas_number": "8016-26-0",
+    "scent_family": "woody",
+    "supplier": "Firmenich",
+    "price_per_kg": 231.86,
+    "origin_country": "Spain",
+    "description": "Solvent-extracted from Cistus ladanifer.",
+    "safety_notes": "Non-toxic, non-sensitizing. Amber-like character.",
+    "synonyms": [
+      "cistus absolute",
+      "rock rose absolute"
+    ]
+  },
+  {
+    "id": "ing_154",
+    "name": "Clove Bud Essential Oil",
+    "cas_number": "8000-34-8",
+    "scent_family": "oriental",
+    "supplier": "Sensient",
+    "price_per_kg": 25.78,
+    "origin_country": "Madagascar",
+    "description": "Steam-distilled from Syzygium aromaticum buds.",
+    "safety_notes": "Dermotoxic \u2014 use at low concentrations.",
+    "synonyms": [
+      "eugenia caryophyllata oil"
+    ]
+  },
+  {
+    "id": "ing_155",
+    "name": "Tolu Balsam",
+    "cas_number": "9000-64-0",
+    "scent_family": "oriental",
+    "supplier": "Mane SA",
+    "price_per_kg": 48.98,
+    "origin_country": "Colombia",
+    "description": "Tapped from Myroxylon balsamum.",
+    "safety_notes": "Non-toxic. May cause sensitization.",
+    "synonyms": [
+      "balsam of tolu"
+    ]
+  },
+  {
+    "id": "ing_156",
+    "name": "Mint Peppermint Essential Oil",
+    "cas_number": "8006-90-4",
+    "scent_family": "fresh",
+    "supplier": "Robertet",
+    "price_per_kg": 33.35,
+    "origin_country": "India",
+    "description": "Steam-distilled from Mentha piperita.",
+    "safety_notes": "Non-toxic. Can cause skin cooling sensation.",
+    "synonyms": [
+      "peppermint oil",
+      "mentha piperita oil"
+    ]
+  },
+  {
+    "id": "ing_157",
+    "name": "Linalyl Acetate",
+    "cas_number": "115-95-7",
+    "scent_family": "fresh",
+    "supplier": "Robertet",
+    "price_per_kg": 26.03,
+    "origin_country": "France",
+    "description": "Natural or synthetic ester.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "linalool acetate"
+    ]
+  },
+  {
+    "id": "ing_158",
+    "name": "Blood Orange Essential Oil",
+    "cas_number": "8028-48-6",
+    "scent_family": "citrus",
+    "supplier": "Givaudan",
+    "price_per_kg": 55.73,
+    "origin_country": "Italy",
+    "description": "Cold-pressed from Citrus sinensis var. sanguinello.",
+    "safety_notes": "Mildly phototoxic. Short top note.",
+    "synonyms": [
+      "blood orange oil",
+      "red orange oil"
+    ]
+  },
+  {
+    "id": "ing_159",
+    "name": "Rosemary Essential Oil",
+    "cas_number": "8000-25-7",
+    "scent_family": "fresh",
+    "supplier": "Symrise",
+    "price_per_kg": 22.2,
+    "origin_country": "Morocco",
+    "description": "Steam-distilled from Rosmarinus officinalis.",
+    "safety_notes": "Non-toxic. Avoid during pregnancy and with epilepsy.",
+    "synonyms": [
+      "rosmarinus oil"
+    ]
+  },
+  {
+    "id": "ing_160",
+    "name": "Black Currant Bud Absolute",
+    "cas_number": "68606-81-5",
+    "scent_family": "fresh",
+    "supplier": "Bedoukian",
+    "price_per_kg": 990.64,
+    "origin_country": "France",
+    "description": "Black currant bud absolute, extracted from the buds of Ribes nigrum (the common blackcurrant bush), is one of the most distinctive and character-defining materials in the perfumer's palette. The buds, harvested in late winter before they open, are subjected to solvent extraction to yield an absolute with an extraordinary, instantly recognizable scent: an explosive burst of green-fruity, sulfurous, and catty notes that has been likened to cat urine (in its pure form), freshly crushed blackcurrant leaves, and the inimitable tang of the actual fruit. This sulfurous-catty character, far from being a defect, is precisely what makes cassis bud absolute so valuable \u2014 it provides a hyper-realistic fruity-green note that no synthetic material can fully replicate.\n\nThe key molecules responsible for this unique olfactory profile include 4-methoxy-2-methylbutane-2-thiol (the characteristic \"catty\" sulfur compound), butan-2-one, p-menthan-8-thiol-3-one (also found in grapefruit), and various green-leafy compounds. At high concentrations, the absolute smells overwhelmingly sulfurous and animalic; but at the concentrations used in fine perfumery (typically 0.5-3%), it transforms into a sparkling, modern, fruity-green accent that adds naturalistic complexity and contemporary freshness to compositions.\n\nCassis bud absolute's rise to prominence in perfumery is closely linked to the work of Jean-Claude Ellena and other French perfumers who, in the 1970s and 1980s, began exploring its potential as a modifier and accent note. The material appears in Yves Saint Laurent Paris (where it provides the opening burst of freshness), Guerlain Chamade, and numerous contemporary fragrances across all families. It is particularly effective when combined with rose (creating a modern, dewy rose effect), with bergamot and other citrus notes (adding depth and naturalness), and with green notes like galbanum and violet leaf (reinforcing the overall green character of a composition). French production, centered in the Burgundy region, provides the highest quality absolute, with the buds harvested from the same varieties grown for the culinary blackcurrant industry.",
+    "safety_notes": "Non-toxic. Sulfurous-green character.",
+    "synonyms": [
+      "cassis absolute",
+      "ribes nigrum bud extract"
+    ]
+  },
+  {
+    "id": "ing_161",
+    "name": "Oud (Agarwood) Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "Mane SA",
+    "price_per_kg": 28847.12,
+    "origin_country": "India",
+    "description": "Oud, also known as agarwood, aloeswood, or eaglewood, is the dark, aromatic resin-saturated heartwood produced by Aquilaria trees (primarily Aquilaria malaccensis, A. crassna, and A. sinensis) in response to infection by the parasitic mold Phialophora parasitica. In healthy trees, the heartwood is pale and odorless; only when the tree's immune system battles the fungal invasion does it produce the dense, resinous material that, when distilled, yields the legendary oud oil. This means that only a small percentage of Aquilaria trees naturally develop the infection, making genuine wild oud one of the rarest and most expensive raw materials in the world.\n\nThe distillation of oud is an art form in itself. Traditional hydrodistillation of infected wood chips can take anywhere from 3 to 7 days, with the earliest fractions (collected in the first 24 hours) yielding a lighter, more ethereal oil, and later fractions producing a heavier, more animalic and barnyard-like product. The finest oud oils from old-growth wild Aquilaria can command prices of $30,000 to $80,000 per kilogram, with exceptional single-origin oils from Laos, Cambodia, or Assam occasionally selling for over $100,000 per kilogram to Gulf state collectors. The oud market has its own complex grading system, with terms like \"double super,\" \"sinking grade,\" and \"kyara\" (the Japanese term for the highest grade) denoting quality levels that are assessed by experienced evaluators through smell, taste, and burn tests.\n\nIn perfumery, oud provides an extraordinarily complex and long-lasting base note. Its scent profile varies dramatically depending on species, geographic origin, infection age, and distillation method, but common descriptors include woody, smoky, leathery, sweet-balsamic, medicinal, and animalic. Modern perfumery has embraced oud enthusiastically since the early 2000s, with hundreds of oud-themed fragrances appearing on the market. Most Western oud fragrances, however, use synthetic oud accords (built from molecules like Guaiwood acetate, Javanol, and various musks and woods) rather than genuine distilled oud, or use only trace amounts of natural oud to add authenticity to a primarily synthetic composition. Sustainable plantation oud, produced through deliberate inoculation of cultivated Aquilaria trees, is an increasingly important and environmentally responsible source.",
+    "safety_notes": "Non-toxic. One of the most expensive raw materials in perfumery.",
+    "synonyms": [
+      "agarwood oil",
+      "aloeswood oil",
+      "aquilaria oil"
+    ]
+  },
+  {
+    "id": "ing_162",
+    "name": "Melissa Essential Oil",
+    "cas_number": "8014-71-9",
+    "scent_family": "citrus",
+    "supplier": "Symrise",
+    "price_per_kg": 684.14,
+    "origin_country": "France",
+    "description": "Melissa essential oil, steam-distilled from the leaves and flowering tops of Melissa officinalis (lemon balm), is one of the rarest and most frequently adulterated essential oils in commercial trade. The plant, a modest-looking member of the mint family, grows readily throughout Europe and has been cultivated since ancient times \u2014 Paracelsus called it \"the elixir of life,\" and it has been a staple of monastic herb gardens for centuries. However, the oil yield from steam distillation is extraordinarily low: approximately 0.01 to 0.02%, meaning that 3,000 to 7,000 kilograms of fresh plant material are needed to produce just one kilogram of essential oil. This explains its high price and its status as one of the most commonly adulterated materials in aromatherapy and perfumery.\n\nThe genuine oil has a fresh, lemony-herbaceous character that is distinctly different from lemongrass or citronella, with which it is frequently confused or deliberately substituted. The key constituents include citral (neral + geranial, providing the lemony note), citronellal (fresh, green), beta-caryophyllene (woody, spicy), and geraniol (rosy, sweet). Authentic melissa oil has a complex, rounded profile with subtle green and rosy facets that synthetic citral or cheaper lemon-scented oils simply cannot replicate. Gas chromatography analysis is essential for verifying authenticity, as the market is flooded with \"melissa oils\" that are actually blends of lemongrass, citronella, and synthetic citral sold at a fraction of the genuine price.\n\nIn perfumery, melissa oil is used sparingly due to its cost, typically as a top-to-heart note that provides an unusually natural, herbal-citrus freshness. It pairs beautifully with green tea notes, light musks, and transparent woods, and has found particular favor in the growing naturals segment of fine perfumery. The oil also has documented therapeutic properties \u2014 anxiolytic, antiviral (particularly against herpes simplex), and mildly sedative \u2014 which have made it valuable in aromatherapy and cosmetic applications. French and Irish sources produce the finest quality oil, though Bulgarian and Turkish melissa are also highly regarded.",
+    "safety_notes": "Non-toxic. Often adulterated due to high cost.",
+    "synonyms": [
+      "lemon balm oil",
+      "melissa officinalis oil"
+    ]
+  },
+  {
+    "id": "ing_163",
+    "name": "Kabosu Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Givaudan",
+    "price_per_kg": 316.1,
+    "origin_country": "Japan",
+    "description": "Cold-pressed from Citrus sphaerocarpa.",
+    "safety_notes": "Non-toxic. Traditional Japanese condiment citrus.",
+    "synonyms": [
+      "citrus sphaerocarpa oil"
+    ]
+  },
+  {
+    "id": "ing_164",
+    "name": "Pine Essential Oil",
+    "cas_number": "8002-09-3",
+    "scent_family": "woody",
+    "supplier": "Symrise",
+    "price_per_kg": 38.98,
+    "origin_country": "Austria",
+    "description": "Steam-distilled from Pinus sylvestris needles.",
+    "safety_notes": "Non-toxic, non-sensitizing at recommended levels.",
+    "synonyms": [
+      "scotch pine oil",
+      "pinus sylvestris oil"
+    ]
+  },
+  {
+    "id": "ing_165",
+    "name": "Daffodil Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "IFF",
+    "price_per_kg": 6140.09,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Narcissus pseudonarcissus.",
+    "safety_notes": "Non-toxic. Very limited availability.",
+    "synonyms": [
+      "narcissus absolute variant"
+    ]
+  },
+  {
+    "id": "ing_166",
+    "name": "Spearmint Essential Oil",
+    "cas_number": "8008-79-5",
+    "scent_family": "fresh",
+    "supplier": "Takasago",
+    "price_per_kg": 23.93,
+    "origin_country": "USA",
+    "description": "Steam-distilled from Mentha spicata.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "mentha spicata oil"
+    ]
+  },
+  {
+    "id": "ing_167",
+    "name": "Bergamot Essential Oil",
+    "cas_number": "8007-75-8",
+    "scent_family": "citrus",
+    "supplier": "Takasago",
+    "price_per_kg": 186.66,
+    "origin_country": "Italy",
+    "description": "Bergamot essential oil, cold-pressed from the rind of Citrus bergamia, occupies a uniquely important position in perfumery as the most widely used citrus material and the defining ingredient of the eau de cologne tradition. The bergamot tree, believed to be a hybrid of lemon and bitter orange, grows almost exclusively in a narrow strip of the Calabrian coast in southern Italy, particularly around the city of Reggio Calabria. Though small bergamot plantations exist in Ivory Coast, Argentina, and Turkey, Calabrian bergamot is universally regarded as producing the finest quality oil, with a complexity and depth that other origins cannot match.\n\nThe extraction process is deceptively simple but requires skill: the fruit is harvested from November to February when green and unripe, and the rind is cold-pressed using specially designed sfumatrici machines that puncture the rind and collect the expelled oil. A single tree produces approximately 150 to 200 fruits, yielding about 100 grams of essential oil. Calabria's annual production is approximately 100 to 120 metric tons of oil, with the best lots reserved for fine fragrance use and lower grades destined for flavoring Earl Grey tea and other food applications. The oil's major chemical constituents include linalyl acetate (30-45%), linalool (10-20%), limonene (25-40%), and bergapten (the furanocoumarin responsible for phototoxicity).\n\nIn perfumery, bergamot serves as the quintessential top note \u2014 bright, fresh, citrusy, yet with an unusual depth and complexity absent from other citrus oils. Its slightly floral, tea-like, and almost lavender-esque facets allow it to bridge the gap between sparkling freshness and the warmer heart of a fragrance. Bergamot is estimated to appear in over 50% of women's perfumes and 33% of men's fragrances, making it arguably the single most important ingredient in the modern perfumer's palette. However, its bergapten content makes it phototoxic \u2014 capable of causing severe skin burns and permanent pigmentation changes when applied to skin exposed to UV radiation. Bergaptene-free (FCF) bergamot oil, produced by removing furanocoumarins through selective distillation, has become the standard for modern fragrance use, though purists argue that the FCF process subtly diminishes the oil's complexity.",
+    "safety_notes": "Phototoxic \u2014 limit to 0.4% in leave-on products per IFRA guidelines.",
+    "synonyms": [
+      "bergamot oil",
+      "bergamot peel oil",
+      "oleum bergamottae"
+    ]
+  },
+  {
+    "id": "ing_168",
+    "name": "Chinotto Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Mane SA",
+    "price_per_kg": 128.12,
+    "origin_country": "Italy",
+    "description": "Cold-pressed from Citrus myrtifolia.",
+    "safety_notes": "Mildly phototoxic. Bitter orange relative.",
+    "synonyms": [
+      "myrtle-leaved orange oil"
+    ]
+  },
+  {
+    "id": "ing_169",
+    "name": "Litsea Cubeba Essential Oil",
+    "cas_number": "68855-99-2",
+    "scent_family": "citrus",
+    "supplier": "Robertet",
+    "price_per_kg": 41.81,
+    "origin_country": "China",
+    "description": "Steam-distilled from Litsea cubeba fruits.",
+    "safety_notes": "Non-toxic. May cause sensitization at high concentrations.",
+    "synonyms": [
+      "may chang oil",
+      "litsea oil"
+    ]
+  },
+  {
+    "id": "ing_170",
+    "name": "Key Lime Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Firmenich",
+    "price_per_kg": 60.23,
+    "origin_country": "Mexico",
+    "description": "Cold-pressed from Citrus aurantiifolia.",
+    "safety_notes": "Phototoxic. More aromatic than Persian lime.",
+    "synonyms": [
+      "mexican lime oil"
+    ]
+  },
+  {
+    "id": "ing_171",
+    "name": "Lime Essential Oil",
+    "cas_number": "8008-26-2",
+    "scent_family": "citrus",
+    "supplier": "Sensient",
+    "price_per_kg": 53.56,
+    "origin_country": "Mexico",
+    "description": "Cold-pressed from Citrus aurantifolia rind.",
+    "safety_notes": "Phototoxic when cold-pressed. Distilled version is safer.",
+    "synonyms": [
+      "lime oil",
+      "citrus aurantifolia oil"
+    ]
+  },
+  {
+    "id": "ing_172",
+    "name": "Celestolide",
+    "cas_number": "13171-00-1",
+    "scent_family": "musky",
+    "supplier": "Sensient",
+    "price_per_kg": 17.68,
+    "origin_country": "Germany",
+    "description": "Synthetic polycyclic musk.",
+    "safety_notes": "Restricted due to environmental concerns.",
+    "synonyms": [
+      "ADBI"
+    ]
+  },
+  {
+    "id": "ing_173",
+    "name": "Lemon Essential Oil",
+    "cas_number": "8008-56-8",
+    "scent_family": "citrus",
+    "supplier": "Symrise",
+    "price_per_kg": 28.38,
+    "origin_country": "Italy",
+    "description": "Cold-pressed from Citrus limon rind.",
+    "safety_notes": "Phototoxic. Use bergaptene-free version for leave-on products.",
+    "synonyms": [
+      "lemon oil",
+      "citrus limon oil"
+    ]
+  },
+  {
+    "id": "ing_174",
+    "name": "Narcissus Absolute",
+    "cas_number": "68917-15-7",
+    "scent_family": "floral",
+    "supplier": "Givaudan",
+    "price_per_kg": 6754.55,
+    "origin_country": "France",
+    "description": "Solvent-extracted from Narcissus poeticus.",
+    "safety_notes": "May cause sensitization. Use at low levels.",
+    "synonyms": [
+      "narcisse absolute",
+      "narcissus poeticus extract"
+    ]
+  },
+  {
+    "id": "ing_175",
+    "name": "Camphor Natural",
+    "cas_number": "76-22-2",
+    "scent_family": "fresh",
+    "supplier": "IFF",
+    "price_per_kg": 16.5,
+    "origin_country": "China",
+    "description": "Steam-distilled from Cinnamomum camphora.",
+    "safety_notes": "Toxic in large amounts. Use at low percentages.",
+    "synonyms": [
+      "camphor crystal",
+      "borneone"
+    ]
+  },
+  {
+    "id": "ing_176",
+    "name": "Mandarin Essential Oil",
+    "cas_number": "8008-31-9",
+    "scent_family": "citrus",
+    "supplier": "IFF",
+    "price_per_kg": 56.8,
+    "origin_country": "Italy",
+    "description": "Cold-pressed from Citrus reticulata rind.",
+    "safety_notes": "Non-phototoxic. Gentle citrus suitable for all applications.",
+    "synonyms": [
+      "mandarin oil",
+      "tangerine oil",
+      "citrus reticulata oil"
+    ]
+  },
+  {
+    "id": "ing_177",
+    "name": "Bamboo Leaf Extract",
+    "cas_number": "N/A",
+    "scent_family": "fresh",
+    "supplier": "Takasago",
+    "price_per_kg": 74.25,
+    "origin_country": "Japan",
+    "description": "Steam-distilled from bamboo leaves.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "sasa leaf extract"
+    ]
+  },
+  {
+    "id": "ing_178",
+    "name": "Verbena Essential Oil",
+    "cas_number": "8024-12-2",
+    "scent_family": "citrus",
+    "supplier": "Sensient",
+    "price_per_kg": 492.16,
+    "origin_country": "France",
+    "description": "Steam-distilled from Lippia citriodora.",
+    "safety_notes": "Sensitizing \u2014 use at very low levels (0.2% max).",
+    "synonyms": [
+      "lemon verbena oil",
+      "lippia citriodora oil"
+    ]
+  },
+  {
+    "id": "ing_179",
+    "name": "Vanilla Absolute",
+    "cas_number": "8024-06-4",
+    "scent_family": "oriental",
+    "supplier": "BASF",
+    "price_per_kg": 1909.27,
+    "origin_country": "Madagascar",
+    "description": "Vanilla absolute, extracted from the cured seed pods of Vanilla planifolia (and to a lesser extent V. tahitensis), is the most universally beloved aromatic material and the world's most popular flavor and fragrance ingredient. The vanilla orchid, native to Mexico and first cultivated by the Totonac people, produces long green pods that must be hand-pollinated (outside Mexico, where the native Melipona bee performs this task), harvested, and then subjected to a complex curing process lasting 3 to 9 months. This curing \u2014 which involves successive cycles of \"sweating\" (wrapping in blankets to promote enzymatic reactions), sun-drying, and slow aging in conditioning boxes \u2014 is what transforms the odorless green pods into the familiar dark brown, intensely fragrant vanilla beans.\n\nThe chemistry of vanilla absolute is dominated by vanillin (2-4% in cured beans), but this is only part of the story. Genuine vanilla absolute contains over 200 additional compounds, including p-hydroxybenzaldehyde, vanillic acid, p-hydroxybenzoic acid, anisaldehyde, and various esters, phenols, and furanones that together create a complexity and depth that pure synthetic vanillin cannot approach. This is why, despite synthetic vanillin being available at a fraction of the cost ($12-25/kg versus $1,200-2,500/kg for natural absolute), genuine vanilla absolute remains indispensable in fine perfumery. Madagascar produces approximately 80% of the world's vanilla crop, with the Sava region in the northeast being the primary growing area; Tahitian vanilla (V. tahitensis) offers a different, more floral and anisic profile.\n\nIn perfumery, vanilla absolute is the quintessential base note: warm, sweet, balsamic, and comforting, with excellent tenacity and a natural affinity for skin. It appears in an estimated 50% of all fine fragrances and is the cornerstone of the oriental/amber fragrance family. Guerlain Shalimar (1925), one of the defining perfumes of the 20th century, established the bergamot-vanilla axis that remains one of the most successful fragrance structures. Today, vanilla-centric fragrances dominate the best-seller lists worldwide, reflecting a universal human preference for sweet, warm, food-associated scents that transcends culture, gender, and age.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "vanilla oleoresin",
+      "vanilla planifolia extract"
+    ]
+  },
+  {
+    "id": "ing_180",
+    "name": "Gardenia Enfleurage",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "Firmenich",
+    "price_per_kg": 8009.32,
+    "origin_country": "India",
+    "description": "Gardenia enfleurage represents one of the last surviving examples of an ancient extraction technique that was once the primary method for capturing the scent of delicate flowers. The enfleurage process involves laying fresh Gardenia jasminoides flowers onto a chassis \u2014 a glass plate coated with a thin layer of purified animal fat (typically beef tallow or lard). The flowers release their volatile aromatic molecules into the fat over a period of 24 to 72 hours, after which the spent flowers are replaced with fresh ones. This process, called \"defleurage,\" is repeated 20 to 30 times over several weeks until the fat \u2014 now called a \"pomade\" \u2014 is fully saturated with fragrance.\n\nThe pomade is then washed with ethanol to extract the fragrant molecules, producing an \"extrait de pomade\" which, after the alcohol is evaporated, yields the enfleurage absolute. This labor-intensive process produces extraordinarily small quantities \u2014 typically less than 100 grams of absolute per season from a single producer. Only a handful of artisans worldwide still practice enfleurage, primarily in Grasse, France, and in parts of India and Indonesia. The technique persists specifically because certain flowers \u2014 gardenia chief among them \u2014 yield virtually no usable product through steam distillation or even modern solvent extraction, as their fragrant compounds are too volatile or too chemically fragile to survive harsher processes.\n\nThe resulting gardenia enfleurage absolute has a scent that is hauntingly beautiful: a creamy, white-floral character with green facets, tropical fruit nuances, and a mushroom-like earthiness in the dry-down. It is one of the few materials that truly captures the experience of smelling a fresh gardenia blossom. Due to its extreme rarity and cost, gardenia enfleurage absolute is used almost exclusively in ultra-luxury niche perfumery and bespoke fragrance creation. Most commercial \"gardenia\" fragrances rely on synthetic reconstructions using combinations of styrallyl acetate, tuberose absolute, hedione, and benzyl salicylate to approximate the gardenia character.",
+    "safety_notes": "Non-toxic. Extremely rare artisanal product.",
+    "synonyms": [
+      "gardenia oil",
+      "gardenia absolute"
+    ]
+  },
+  {
+    "id": "ing_181",
+    "name": "Ambrette Seed Absolute",
+    "cas_number": "8015-62-1",
+    "scent_family": "musky",
+    "supplier": "Takasago",
+    "price_per_kg": 3517.2,
+    "origin_country": "India",
+    "description": "Ambrette seed absolute, extracted from the seeds of Abelmoschus moschatus (also known as musk mallow), is the most important natural musk material available to modern perfumers. With animal musks banned or severely restricted \u2014 natural musk deer secretion, civet, and castoreum are all effectively unavailable for ethical and conservation reasons \u2014 ambrette seed has emerged as the premier botanical alternative, offering a clean, elegant musk character that is both sustainable and cruelty-free. The plant, a member of the hibiscus family, is cultivated primarily in India, Ecuador, and Papua New Guinea, with Indian production centered in the states of Karnataka and Andhra Pradesh.\n\nThe extraction process involves CO2 or solvent extraction of the dried seeds, which contain the musk-scented compound ambrettolide (a macrocyclic lactone) along with farnesol, ambretolic acid, and smaller quantities of other fragrant molecules. The CO2 extraction method is increasingly preferred as it produces a cleaner, more true-to-nature product with higher ambrettolide content. The resulting absolute has a distinctive character: a soft, sweet, wine-like musk with floral (resembling overripe wine grapes) and slightly fatty notes, often described as having a \"skin musk\" quality \u2014 the scent of clean, warm skin. It is this skin-like quality that makes ambrette seed so valuable in modern perfumery, where the trend toward \"your skin but better\" fragrances has driven demand for materials that enhance rather than mask the wearer's natural scent.\n\nIn formulation, ambrette seed absolute functions as both a heart and base note, with excellent tenacity and a diffusive quality that allows it to carry other materials. It blends seamlessly with other musks (both natural and synthetic), with citrus notes (creating luminous, transparent musks), and with woody and floral materials. Notable fragrances featuring ambrette seed include MFK Amyris, Le Labo Another 13, and Byredo Gypsy Water. The material is also prized in clean beauty and natural perfumery for its COSMOS certification eligibility and its ability to replace multiple synthetic musk molecules in regulatory-constrained formulations.",
+    "safety_notes": "Non-toxic. Natural musk alternative \u2014 sustainable and cruelty-free.",
+    "synonyms": [
+      "ambrette oil",
+      "musk mallow oil",
+      "abelmoschus moschatus extract"
+    ]
+  },
+  {
+    "id": "ing_182",
+    "name": "Tangelo Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "citrus",
+    "supplier": "Firmenich",
+    "price_per_kg": 35.32,
+    "origin_country": "USA",
+    "description": "Cold-pressed from Citrus tangelo.",
+    "safety_notes": "Non-phototoxic.",
+    "synonyms": [
+      "minneola oil"
+    ]
+  },
+  {
+    "id": "ing_183",
+    "name": "Hinoki Essential Oil",
+    "cas_number": "N/A",
+    "scent_family": "woody",
+    "supplier": "IFF",
+    "price_per_kg": 349.55,
+    "origin_country": "Japan",
+    "description": "Steam-distilled from Chamaecyparis obtusa wood.",
+    "safety_notes": "Non-toxic, non-sensitizing. Used in Japanese aromatherapy.",
+    "synonyms": [
+      "japanese cypress oil",
+      "chamaecyparis oil"
+    ]
+  },
+  {
+    "id": "ing_184",
+    "name": "Benzoin Siam Resin",
+    "cas_number": "9000-72-0",
+    "scent_family": "oriental",
+    "supplier": "IFF",
+    "price_per_kg": 100.78,
+    "origin_country": "Laos",
+    "description": "Tapped resin from Styrax tonkinensis.",
+    "safety_notes": "Non-toxic. May cause sensitization in rare cases.",
+    "synonyms": [
+      "siam benzoin",
+      "styrax tonkinensis resin"
+    ]
+  },
+  {
+    "id": "ing_185",
+    "name": "Turmeric Essential Oil",
+    "cas_number": "8024-37-1",
+    "scent_family": "oriental",
+    "supplier": "Symrise",
+    "price_per_kg": 49.07,
+    "origin_country": "India",
+    "description": "Steam-distilled from Curcuma longa.",
+    "safety_notes": "Non-toxic. May stain at high concentrations.",
+    "synonyms": [
+      "curcuma oil"
+    ]
+  },
+  {
+    "id": "ing_186",
+    "name": "Cinnamon Bark Essential Oil",
+    "cas_number": "8015-91-6",
+    "scent_family": "oriental",
+    "supplier": "Givaudan",
+    "price_per_kg": 82.51,
+    "origin_country": "Sri Lanka",
+    "description": "Steam-distilled from Cinnamomum verum bark.",
+    "safety_notes": "Dermotoxic \u2014 never use undiluted. Max 0.1% in leave-on.",
+    "synonyms": [
+      "ceylon cinnamon oil",
+      "cinnamomum verum oil"
+    ]
+  },
+  {
+    "id": "ing_187",
+    "name": "Civetone",
+    "cas_number": "542-46-1",
+    "scent_family": "musky",
+    "supplier": "BASF",
+    "price_per_kg": 432.61,
+    "origin_country": "France",
+    "description": "Synthetic macrocyclic ketone.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "civetone synthetic"
+    ]
+  },
+  {
+    "id": "ing_188",
+    "name": "Civet Absolute (Synthetic)",
+    "cas_number": "N/A",
+    "scent_family": "musky",
+    "supplier": "Bedoukian",
+    "price_per_kg": 491.32,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of civet secretion.",
+    "safety_notes": "Non-toxic. Natural civet extraction banned.",
+    "synonyms": [
+      "synthetic civet",
+      "civette reconstruction"
+    ]
+  },
+  {
+    "id": "ing_189",
+    "name": "Rose Absolute",
+    "cas_number": "8007-01-0",
+    "scent_family": "floral",
+    "supplier": "Firmenich",
+    "price_per_kg": 3887.03,
+    "origin_country": "Bulgaria",
+    "description": "Cold-pressed and solvent-extracted from the petals of Rosa damascena, rose absolute is one of the most cherished and iconic materials in all of perfumery. The Bulgarian variety, harvested in the Valley of Roses near Kazanlak, is considered the gold standard, though Turkish, Moroccan, and Iranian roses each offer distinctive olfactory profiles. It takes approximately 3,500 to 4,000 kilograms of fresh rose petals to produce just one kilogram of rose absolute, making it one of the most labor-intensive natural materials to produce.\n\nThe scent profile of rose absolute is extraordinarily complex, containing over 300 identified chemical constituents. The dominant notes include citronellol and geraniol, which provide the characteristic fresh-floral rose character, alongside nerol, linalool, and phenyl ethyl alcohol, which contribute depth and honey-like sweetness. The absolute form (as opposed to the essential oil or \"otto\") retains heavier molecular compounds lost during steam distillation, resulting in a richer, more complete, and tenacious rose character that is indispensable in fine fragrance compositions.\n\nIn formulation, rose absolute serves as both a heart note and a modifier. It pairs beautifully with oud, sandalwood, and patchouli in oriental compositions, with bergamot and lemon in fresh florals, and with violet leaf and iris in powdery accords. Classic perfumes like Joy by Jean Patou famously required 10,600 jasmine flowers and 336 roses for a single ounce. Rose absolute is also extensively used in skincare and premium body care formulations, where its natural anti-inflammatory and antioxidant properties complement its incomparable fragrance. The Bulgarian harvest season runs from late May to mid-June, with picking done before sunrise when the oil content is highest.",
+    "safety_notes": "Non-toxic, non-sensitizing at recommended levels.",
+    "synonyms": [
+      "rose otto",
+      "attar of roses",
+      "rosa damascena oil"
+    ]
+  },
+  {
+    "id": "ing_190",
+    "name": "Honey Absolute",
+    "cas_number": "N/A",
+    "scent_family": "oriental",
+    "supplier": "BASF",
+    "price_per_kg": 430.37,
+    "origin_country": "France",
+    "description": "Solvent-extracted from beeswax.",
+    "safety_notes": "Non-toxic. Not suitable for vegan products.",
+    "synonyms": [
+      "beeswax absolute",
+      "cire d'abeille absolute"
+    ]
+  },
+  {
+    "id": "ing_191",
+    "name": "Saffron Absolute",
+    "cas_number": "N/A",
+    "scent_family": "oriental",
+    "supplier": "Firmenich",
+    "price_per_kg": 11525.66,
+    "origin_country": "Iran",
+    "description": "Saffron absolute, extracted from the dried stigmas of Crocus sativus, is among the most expensive natural materials used in perfumery, rivaling orris butter and natural oud in cost per kilogram. Each crocus flower produces only three red stigmas, and these must be carefully hand-picked during a harvest window of just two to three weeks in October and November. Approximately 150,000 to 200,000 flowers \u2014 hand-harvested, one by one, typically at dawn before the flowers fully open \u2014 are needed to produce a single kilogram of dried saffron. From this kilogram, solvent extraction yields roughly 50 to 80 grams of absolute. The resulting material commands prices of $8,000 to $12,000 per kilogram, reflecting both the extreme labor intensity of production and the molecule's remarkable olfactory impact.\n\nThe scent of saffron absolute is unique in perfumery: a complex blend of leathery, hay-like, metallic, and subtly sweet facets that is simultaneously warm and dry, opulent and austere. The key odorant molecules include safranal (the aldehyde responsible for saffron's distinctive aroma), picrocrocin (a bitter glycoside that contributes to the leathery-metallic character), and crocin (the carotenoid pigment that gives saffron its intense red-orange color). Iranian saffron, particularly from the Khorasan province, is considered the finest for fragrance use, though Spanish (La Mancha), Kashmiri, and Greek (Kozani) saffron each offer subtly different olfactory profiles.\n\nIn perfumery, saffron absolute occupies a unique niche as a bridge between spicy, leathery, and floral-sweet territories. It has become enormously popular in Middle Eastern perfumery, where it has been used for centuries, and has increasingly appeared in Western niche and luxury fragrances since the early 2000s. Maison Francis Kurkdjian's Baccarat Rouge 540 uses saffron as a key element alongside ambroxan and jasmine, and the material features prominently in fragrances by Byredo, Initio, and Clive Christian. Saffron blends exceptionally well with oud (a classic Arabian pairing), rose (the Persian rose-saffron combination dates back millennia), leather and suede notes, and warm amber-vanilla bases.",
+    "safety_notes": "Non-toxic. Extraordinarily expensive raw material.",
+    "synonyms": [
+      "crocus sativus extract"
+    ]
+  },
+  {
+    "id": "ing_192",
+    "name": "Frangipani Absolute",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "IFF",
+    "price_per_kg": 3186.45,
+    "origin_country": "India",
+    "description": "Solvent-extracted from Plumeria alba flowers.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "plumeria oil",
+      "frangipani flower extract"
+    ]
+  },
+  {
+    "id": "ing_193",
+    "name": "Javanol",
+    "cas_number": "198404-98-7",
+    "scent_family": "woody",
+    "supplier": "IFF",
+    "price_per_kg": 345.22,
+    "origin_country": "Switzerland",
+    "description": "Synthetic sandalwood molecule by Givaudan.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "javanol lg"
+    ]
+  },
+  {
+    "id": "ing_194",
+    "name": "Juniper Berry Essential Oil",
+    "cas_number": "8012-91-7",
+    "scent_family": "woody",
+    "supplier": "Bedoukian",
+    "price_per_kg": 101.42,
+    "origin_country": "Croatia",
+    "description": "Steam-distilled from Juniperus communis berries.",
+    "safety_notes": "Non-toxic. Avoid during pregnancy.",
+    "synonyms": [
+      "juniper oil",
+      "juniperus communis oil"
+    ]
+  },
+  {
+    "id": "ing_195",
+    "name": "Sage Clary Essential Oil",
+    "cas_number": "8016-63-5",
+    "scent_family": "fresh",
+    "supplier": "Givaudan",
+    "price_per_kg": 163.99,
+    "origin_country": "France",
+    "description": "Steam-distilled from Salvia sclarea.",
+    "safety_notes": "Non-toxic. Avoid with alcohol consumption.",
+    "synonyms": [
+      "clary sage oil",
+      "salvia sclarea oil"
+    ]
+  },
+  {
+    "id": "ing_196",
+    "name": "Orange Sweet Essential Oil",
+    "cas_number": "8008-57-9",
+    "scent_family": "citrus",
+    "supplier": "Bedoukian",
+    "price_per_kg": 14.47,
+    "origin_country": "Brazil",
+    "description": "Cold-pressed from Citrus sinensis.",
+    "safety_notes": "Non-phototoxic. Most consumed citrus oil worldwide.",
+    "synonyms": [
+      "sweet orange oil",
+      "citrus sinensis oil"
+    ]
+  },
+  {
+    "id": "ing_197",
+    "name": "Peach Blossom Accord",
+    "cas_number": "N/A",
+    "scent_family": "floral",
+    "supplier": "BASF",
+    "price_per_kg": 274.4,
+    "origin_country": "France",
+    "description": "Synthetic accord with lactonic peach character.",
+    "safety_notes": "Non-toxic at recommended levels.",
+    "synonyms": [
+      "peach flower accord"
+    ]
+  },
+  {
+    "id": "ing_198",
+    "name": "Ambrinol",
+    "cas_number": "N/A",
+    "scent_family": "musky",
+    "supplier": "IFF",
+    "price_per_kg": 76.41,
+    "origin_country": "France",
+    "description": "Synthetic ambergris molecule.",
+    "safety_notes": "Non-toxic, non-sensitizing.",
+    "synonyms": [
+      "ambrinol crystal"
+    ]
+  },
+  {
+    "id": "ing_199",
+    "name": "Galbanum Essential Oil",
+    "cas_number": "8023-91-4",
+    "scent_family": "fresh",
+    "supplier": "Givaudan",
+    "price_per_kg": 224.96,
+    "origin_country": "Iran",
+    "description": "Galbanum essential oil, steam-distilled from the resin of Ferula gummosa (and related species F. rubricaulis), is one of the most distinctive and polarizing materials in the perfumer's palette. The plant, a large umbelliferous herb native to the mountainous regions of Iran, produces a yellow-brown gum-resin when the stem is cut \u2014 a harvesting practice documented since biblical times (Exodus 30:34 lists galbanum as an ingredient in the sacred incense prescribed by God to Moses). The essential oil, obtained by steam distillation of this crude resin, has an extraordinary green character that is at once intensely natural and almost aggressively modern-smelling.\n\nThe chemical composition of galbanum oil centers on monoterpene hydrocarbons \u2014 particularly beta-pinene (40-60%), alpha-pinene (5-15%), delta-3-carene (5-15%), and myrcene (5-10%) \u2014 which provide its sharp, penetrating, pine-like backbone. But the molecule most responsible for galbanum's signature character is pyrazine, specifically 2-methoxy-3-isobutylpyrazine, which at vanishingly small concentrations (parts per billion) creates the oil's unmistakable green-pepper, leafy-vegetable, hyper-realistic \"crushed green stem\" effect. This pyrazine note is so potent that a single drop of galbanum oil can transform an entire composition, shifting it dramatically toward a crisp, modern, green character.\n\nGalbanum's role in perfumery was revolutionized by the launch of Balmain Vent Vert in 1947 (created by Germaine Cellier), which used galbanum at unprecedented levels to create the first green chypre \u2014 a new fragrance family that would dominate the 1970s with compositions like Chanel No. 19, Est\u00e9e Lauder Aliage, and Givenchy Givenchy III. Today, galbanum remains essential for any perfumer working in the green family, and it has found new applications in modern niche perfumery where its raw, almost aggressive naturalness provides an antidote to the sweetness and smoothness of contemporary mainstream fragrances. Iranian wild-harvested galbanum remains the quality standard, though supply has become increasingly unreliable due to overharvesting and political instability.",
+    "safety_notes": "Non-toxic, non-sensitizing. Intense green note.",
+    "synonyms": [
+      "ferula oil",
+      "galbanum resin oil"
+    ]
+  },
+  {
+    "id": "ing_200",
+    "name": "Musk Deer Tincture (Synthetic)",
+    "cas_number": "N/A",
+    "scent_family": "musky",
+    "supplier": "Givaudan",
+    "price_per_kg": 685.05,
+    "origin_country": "France",
+    "description": "Synthetic reconstruction of Moschus moschiferus.",
+    "safety_notes": "Non-toxic. Natural musk banned in most countries.",
+    "synonyms": [
+      "synthetic muscone",
+      "white musk reconstruction"
+    ]
+  }
+]

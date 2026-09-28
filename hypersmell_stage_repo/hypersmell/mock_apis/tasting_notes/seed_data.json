@@ -1,0 +1,3253 @@
+[
+  {
+    "id": "sess_001",
+    "date": "2025-03-02",
+    "perfumer_name": "Naomi Williams",
+    "scent_name": "Spring Narcissus",
+    "overall_rating": 7,
+    "sillage": "moderate",
+    "longevity_hours": 9.8,
+    "top_notes": [
+      "bergamot oil (cold-pressed)",
+      "green leaf accord"
+    ],
+    "middle_notes": [
+      "narcissus absolute (french)",
+      "hyacinth (greenhouse)"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "white musk"
+    ],
+    "ingredients": [
+      "bergamot oil (cold-pressed)",
+      "green leaf accord",
+      "narcissus absolute (french)",
+      "hyacinth (greenhouse)",
+      "oakmoss (treated)",
+      "white musk"
+    ],
+    "commentary": "Initially delicate, this accord reveals surprising depth as it develops. The interplay between green leaf accord and hyacinth creates a radiant effect that is both effervescent and deeply satisfying. The balance here is exceptional. No single note dominates; instead, they work in concert to create something greater than the sum of parts."
+  },
+  {
+    "id": "sess_002",
+    "date": "2025-01-12",
+    "perfumer_name": "Yuki Tanaka",
+    "scent_name": "Rose Garden at Dusk",
+    "overall_rating": 7,
+    "sillage": "intimate",
+    "longevity_hours": 8.7,
+    "top_notes": [
+      "pink pepper (crushed)",
+      "lemon zest (hand-expressed)"
+    ],
+    "middle_notes": [
+      "rose absolute (bulgarian)",
+      "geranium (bourbon)"
+    ],
+    "base_notes": [
+      "sandalwood (mysore, aged)",
+      "cedar (atlas)"
+    ],
+    "ingredients": [
+      "pink pepper (crushed)",
+      "lemon zest (hand-expressed)",
+      "rose absolute (bulgarian)",
+      "geranium (bourbon)",
+      "sandalwood (mysore, aged)",
+      "cedar (atlas)",
+      "ethylene brassylate",
+      "linalool (natural)",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "A bright composition that unfolds slowly on the skin. The pink pepper top notes are bold and inviting, transitioning seamlessly into a delicate heart of rose absolute. The projection is intimate and personal, creating a scent bubble that rewards proximity."
+  },
+  {
+    "id": "sess_003",
+    "date": "2025-04-15",
+    "perfumer_name": "Jean-Philippe Arnaud",
+    "scent_name": "White Bouquet",
+    "overall_rating": 7,
+    "sillage": "intimate",
+    "longevity_hours": 7.1,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "grapefruit (pink)"
+    ],
+    "middle_notes": [
+      "jasmine absolute (egyptian)",
+      "tuberose (indian)"
+    ],
+    "base_notes": [
+      "vanilla co2 extract",
+      "sandalwood cream"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "grapefruit (pink)",
+      "jasmine absolute (egyptian)",
+      "tuberose (indian)",
+      "vanilla co2 extract",
+      "sandalwood cream",
+      "dihydromyrcenol"
+    ],
+    "commentary": "This is a study in contrasts: the rich grapefruit against the cool tuberose creates a tension that resolves beautifully in the base. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_004",
+    "date": "2025-12-07",
+    "perfumer_name": "Sophia Park",
+    "scent_name": "Violet Dreams",
+    "overall_rating": 8,
+    "sillage": "enormous",
+    "longevity_hours": 5.6,
+    "top_notes": [
+      "mandarin (green)",
+      "violet leaf (fresh)"
+    ],
+    "middle_notes": [
+      "iris concrete (florentine)",
+      "violet absolute"
+    ],
+    "base_notes": [
+      "cashmeran",
+      "ambrette seed co2"
+    ],
+    "ingredients": [
+      "mandarin (green)",
+      "violet leaf (fresh)",
+      "iris concrete (florentine)",
+      "violet absolute",
+      "cashmeran",
+      "ambrette seed co2"
+    ],
+    "commentary": "The opening is grounded and cool, with the mandarin providing a sparkling brightness that gradually gives way to the iris concrete heart. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_005",
+    "date": "2025-02-14",
+    "perfumer_name": "Claire Dubois",
+    "scent_name": "Magnolia Silk",
+    "overall_rating": 10,
+    "sillage": "enormous",
+    "longevity_hours": 9.4,
+    "top_notes": [
+      "lemon (amalfi)",
+      "petitgrain (paraguay)"
+    ],
+    "middle_notes": [
+      "magnolia (chinese)",
+      "champaca absolute"
+    ],
+    "base_notes": [
+      "benzoin siam",
+      "musk (white, synthetic)"
+    ],
+    "ingredients": [
+      "lemon (amalfi)",
+      "petitgrain (paraguay)",
+      "magnolia (chinese)",
+      "champaca absolute",
+      "benzoin siam",
+      "musk (white, synthetic)",
+      "galaxolide",
+      "hedione (hc)",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "Initially velvety, this accord reveals surprising depth as it develops. The interplay between petitgrain and magnolia creates a rich effect that is both opulent and deeply satisfying. The dry-down is where this truly shines, with a creamy, skin-scent quality that feels effortlessly elegant."
+  },
+  {
+    "id": "sess_006",
+    "date": "2025-02-09",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Lily of the Morning",
+    "overall_rating": 10,
+    "sillage": "moderate",
+    "longevity_hours": 9.5,
+    "top_notes": [
+      "bergamot (fcf)",
+      "aldehydes (metallic)"
+    ],
+    "middle_notes": [
+      "muguet accord",
+      "jasmine sambac"
+    ],
+    "base_notes": [
+      "cedarwood (virginia)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "bergamot (fcf)",
+      "aldehydes (metallic)",
+      "muguet accord",
+      "jasmine sambac",
+      "cedarwood (virginia)",
+      "ambroxan",
+      "muscone (synthetic)",
+      "linalool (natural)",
+      "ethylene brassylate"
+    ],
+    "commentary": "dense from first spray, with bergamot dominating the opening minutes. As the jasmine sambac emerges, the composition takes on a crystalline quality that persists through the dry-down. The transition from top to heart is remarkably smooth, with no jarring shifts or gaps."
+  },
+  {
+    "id": "sess_007",
+    "date": "2025-10-23",
+    "perfumer_name": "Kenji Watanabe",
+    "scent_name": "Peony Blush",
+    "overall_rating": 6,
+    "sillage": "strong",
+    "longevity_hours": 5.1,
+    "top_notes": [
+      "mandarin (red)",
+      "lychee accord"
+    ],
+    "middle_notes": [
+      "peony accord",
+      "rose (damascena, turkish)"
+    ],
+    "base_notes": [
+      "musk (clean)",
+      "iso e super"
+    ],
+    "ingredients": [
+      "mandarin (red)",
+      "lychee accord",
+      "peony accord",
+      "rose (damascena, turkish)",
+      "musk (clean)",
+      "iso e super",
+      "iso e super",
+      "muscone (synthetic)"
+    ],
+    "commentary": "Initially warm, this accord reveals surprising depth as it develops. The interplay between mandarin and peony accord creates a bold effect that is both velvety and deeply satisfying. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_008",
+    "date": "2025-01-03",
+    "perfumer_name": "Naomi Williams",
+    "scent_name": "Night Jasmine",
+    "overall_rating": 9,
+    "sillage": "enormous",
+    "longevity_hours": 6.0,
+    "top_notes": [
+      "kumquat (expressed)",
+      "saffron tincture"
+    ],
+    "middle_notes": [
+      "jasmine grandiflorum (indian)",
+      "tuberose enfleurage"
+    ],
+    "base_notes": [
+      "oud (cambodi)",
+      "benzoin laos"
+    ],
+    "ingredients": [
+      "kumquat (expressed)",
+      "saffron tincture",
+      "jasmine grandiflorum (indian)",
+      "tuberose enfleurage",
+      "oud (cambodi)",
+      "benzoin laos",
+      "muscone (synthetic)"
+    ],
+    "commentary": "Initially bold, this accord reveals surprising depth as it develops. The interplay between kumquat and tuberose enfleurage creates a grounded effect that is both smoky and deeply satisfying. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_009",
+    "date": "2025-05-08",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Amber Ritual",
+    "overall_rating": 6,
+    "sillage": "enormous",
+    "longevity_hours": 4.4,
+    "top_notes": [
+      "bergamot oil (cold-pressed)",
+      "saffron (iranian)"
+    ],
+    "middle_notes": [
+      "cinnamon bark (ceylon)",
+      "rose absolute (turkish)"
+    ],
+    "base_notes": [
+      "vanilla (madagascar, bourbon)",
+      "labdanum (spanish)"
+    ],
+    "ingredients": [
+      "bergamot oil (cold-pressed)",
+      "saffron (iranian)",
+      "cinnamon bark (ceylon)",
+      "rose absolute (turkish)",
+      "vanilla (madagascar, bourbon)",
+      "labdanum (spanish)",
+      "linalool (natural)",
+      "coumarin (natural)"
+    ],
+    "commentary": "The opening is cool and transparent, with the bergamot oil providing a crisp freshness that gradually gives way to the rose absolute heart. There's a naturalness to this composition that speaks to the quality of the raw materials."
+  },
+  {
+    "id": "sess_010",
+    "date": "2025-06-06",
+    "perfumer_name": "Sarah Chen",
+    "scent_name": "Midnight Jasmine Accord",
+    "overall_rating": 10,
+    "sillage": "moderate",
+    "longevity_hours": 4.7,
+    "top_notes": [
+      "bergamot oil (cold-pressed)",
+      "pink pepper (crushed)"
+    ],
+    "middle_notes": [
+      "jasmine absolute (egyptian)",
+      "tuberose (indian)"
+    ],
+    "base_notes": [
+      "sandalwood (mysore, aged)",
+      "vanilla co2 extract"
+    ],
+    "ingredients": [
+      "bergamot oil (cold-pressed)",
+      "pink pepper (crushed)",
+      "jasmine absolute (egyptian)",
+      "tuberose (indian)",
+      "sandalwood (mysore, aged)",
+      "vanilla co2 extract",
+      "ethylene brassylate",
+      "coumarin (natural)",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "Initially ethereal, this accord reveals surprising depth as it develops. The interplay between bergamot oil and jasmine absolute creates a luminous effect that is both dense and deeply satisfying. The dry-down is where this truly shines, with a creamy, skin-scent quality that feels effortlessly elegant."
+  },
+  {
+    "id": "sess_011",
+    "date": "2025-08-16",
+    "perfumer_name": "Sarah Chen",
+    "scent_name": "Spice Market",
+    "overall_rating": 10,
+    "sillage": "intimate",
+    "longevity_hours": 7.2,
+    "top_notes": [
+      "cardamom (guatemalan)",
+      "pink pepper (schinus)"
+    ],
+    "middle_notes": [
+      "clove bud (madagascar)",
+      "cinnamon leaf"
+    ],
+    "base_notes": [
+      "tobacco absolute (french)",
+      "tonka bean (venezuelan)"
+    ],
+    "ingredients": [
+      "cardamom (guatemalan)",
+      "pink pepper (schinus)",
+      "clove bud (madagascar)",
+      "cinnamon leaf",
+      "tobacco absolute (french)",
+      "tonka bean (venezuelan)",
+      "muscone (synthetic)"
+    ],
+    "commentary": "luminous from first spray, with pink pepper dominating the opening minutes. As the clove bud emerges, the composition takes on a ethereal quality that persists through the dry-down. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_012",
+    "date": "2025-04-04",
+    "perfumer_name": "Jean-Philippe Arnaud",
+    "scent_name": "Oud Incantation",
+    "overall_rating": 5,
+    "sillage": "strong",
+    "longevity_hours": 2.8,
+    "top_notes": [
+      "saffron (kashmiri)",
+      "bergamot (calabrian)"
+    ],
+    "middle_notes": [
+      "oud (assamese)",
+      "rose absolute (damascena)"
+    ],
+    "base_notes": [
+      "amber accord",
+      "musk (animalic, synthetic)"
+    ],
+    "ingredients": [
+      "saffron (kashmiri)",
+      "bergamot (calabrian)",
+      "oud (assamese)",
+      "rose absolute (damascena)",
+      "amber accord",
+      "musk (animalic, synthetic)",
+      "muscone (synthetic)",
+      "hedione (hc)",
+      "ambroxan"
+    ],
+    "commentary": "The bergamot opening is immediately opulent, but it's the oud in the heart that gives this composition its unique character. The dry-down is where this truly shines, with a creamy, skin-scent quality that feels effortlessly elegant."
+  },
+  {
+    "id": "sess_013",
+    "date": "2025-02-06",
+    "perfumer_name": "Nathalie Girard",
+    "scent_name": "Velvet Tobacco",
+    "overall_rating": 5,
+    "sillage": "moderate",
+    "longevity_hours": 4.4,
+    "top_notes": [
+      "rum absolute",
+      "plum accord"
+    ],
+    "middle_notes": [
+      "tobacco (virginia)",
+      "honey absolute"
+    ],
+    "base_notes": [
+      "vanilla (tahitian)",
+      "benzoin (siam resin)"
+    ],
+    "ingredients": [
+      "rum absolute",
+      "plum accord",
+      "tobacco (virginia)",
+      "honey absolute",
+      "vanilla (tahitian)",
+      "benzoin (siam resin)",
+      "ethylene brassylate",
+      "ambroxan",
+      "hedione (hc)"
+    ],
+    "commentary": "A rich composition that unfolds slowly on the skin. The rum absolute top notes are bright and inviting, transitioning seamlessly into a velvety heart of tobacco. This reminds me of walking through a garden in late summer \u2014 warm, green, and full of life."
+  },
+  {
+    "id": "sess_014",
+    "date": "2025-08-03",
+    "perfumer_name": "Sophia Park",
+    "scent_name": "Temple Smoke",
+    "overall_rating": 9,
+    "sillage": "strong",
+    "longevity_hours": 8.3,
+    "top_notes": [
+      "frankincense (omani, green)",
+      "elemi (manila)"
+    ],
+    "middle_notes": [
+      "myrrh (somalian)",
+      "labdanum resin"
+    ],
+    "base_notes": [
+      "sandalwood (australian)",
+      "vetiver (haitian)"
+    ],
+    "ingredients": [
+      "frankincense (omani, green)",
+      "elemi (manila)",
+      "myrrh (somalian)",
+      "labdanum resin",
+      "sandalwood (australian)",
+      "vetiver (haitian)",
+      "ethylene brassylate",
+      "ambroxan",
+      "dihydromyrcenol"
+    ],
+    "commentary": "This is a study in contrasts: the dense frankincense against the delicate labdanum resin creates a tension that resolves beautifully in the base. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_015",
+    "date": "2025-03-26",
+    "perfumer_name": "Marco Bellini",
+    "scent_name": "Saffron & Silk",
+    "overall_rating": 10,
+    "sillage": "moderate",
+    "longevity_hours": 2.6,
+    "top_notes": [
+      "saffron (iranian, premium)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "rose absolute (taifi)",
+      "orris butter"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "vanilla planifolia"
+    ],
+    "ingredients": [
+      "saffron (iranian, premium)",
+      "bergamot (fcf)",
+      "rose absolute (taifi)",
+      "orris butter",
+      "ambroxan",
+      "vanilla planifolia",
+      "iso e super"
+    ],
+    "commentary": "Initially cool, this accord reveals surprising depth as it develops. The interplay between bergamot and orris butter creates a radiant effect that is both grounded and deeply satisfying. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_016",
+    "date": "2025-07-24",
+    "perfumer_name": "Marie-Claude Lef\u00e8vre",
+    "scent_name": "Cacao Noir",
+    "overall_rating": 7,
+    "sillage": "intimate",
+    "longevity_hours": 7.4,
+    "top_notes": [
+      "black pepper (malabar)",
+      "ginger (fresh)"
+    ],
+    "middle_notes": [
+      "cacao absolute (ivorian)",
+      "coffee absolute (brazilian)"
+    ],
+    "base_notes": [
+      "patchouli (aged, indonesian)",
+      "vanilla (madagascar)"
+    ],
+    "ingredients": [
+      "black pepper (malabar)",
+      "ginger (fresh)",
+      "cacao absolute (ivorian)",
+      "coffee absolute (brazilian)",
+      "patchouli (aged, indonesian)",
+      "vanilla (madagascar)",
+      "coumarin (natural)",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "Initially warm, this accord reveals surprising depth as it develops. The interplay between ginger and cacao absolute creates a bold effect that is both bright and deeply satisfying. The dry-down is where this truly shines, with a creamy, skin-scent quality that feels effortlessly elegant."
+  },
+  {
+    "id": "sess_017",
+    "date": "2025-11-15",
+    "perfumer_name": "Nathalie Girard",
+    "scent_name": "Cedar & Sage",
+    "overall_rating": 10,
+    "sillage": "moderate",
+    "longevity_hours": 6.2,
+    "top_notes": [
+      "bergamot (italian)",
+      "sage clary (french)"
+    ],
+    "middle_notes": [
+      "cedarwood atlas (moroccan)",
+      "lavender (fine, french)"
+    ],
+    "base_notes": [
+      "vetiver (haitian)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "bergamot (italian)",
+      "sage clary (french)",
+      "cedarwood atlas (moroccan)",
+      "lavender (fine, french)",
+      "vetiver (haitian)",
+      "ambroxan"
+    ],
+    "commentary": "Initially austere, this accord reveals surprising depth as it develops. The interplay between bergamot and lavender creates a warm effect that is both airy and deeply satisfying. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_018",
+    "date": "2025-05-22",
+    "perfumer_name": "Isabella Rossi",
+    "scent_name": "Driftwood & Sea Salt",
+    "overall_rating": 6,
+    "sillage": "enormous",
+    "longevity_hours": 8.2,
+    "top_notes": [
+      "sea salt accord",
+      "bergamot (calabrian)"
+    ],
+    "middle_notes": [
+      "driftwood accord",
+      "violet leaf (absolute)"
+    ],
+    "base_notes": [
+      "ambergris (synthetic)",
+      "cedarwood (virginia)"
+    ],
+    "ingredients": [
+      "sea salt accord",
+      "bergamot (calabrian)",
+      "driftwood accord",
+      "violet leaf (absolute)",
+      "ambergris (synthetic)",
+      "cedarwood (virginia)",
+      "galaxolide",
+      "hedione (hc)"
+    ],
+    "commentary": "warm from first spray, with sea salt accord dominating the opening minutes. As the violet leaf emerges, the composition takes on a effervescent quality that persists through the dry-down. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_019",
+    "date": "2025-10-25",
+    "perfumer_name": "Elena Petrova",
+    "scent_name": "Sandalwood Meditation",
+    "overall_rating": 4,
+    "sillage": "moderate",
+    "longevity_hours": 6.7,
+    "top_notes": [
+      "cardamom (green)",
+      "elemi (fresh)"
+    ],
+    "middle_notes": [
+      "sandalwood (mysore, first-cut)",
+      "iris (orris butter)"
+    ],
+    "base_notes": [
+      "vanilla co2",
+      "musk (skin-like)"
+    ],
+    "ingredients": [
+      "cardamom (green)",
+      "elemi (fresh)",
+      "sandalwood (mysore, first-cut)",
+      "iris (orris butter)",
+      "vanilla co2",
+      "musk (skin-like)",
+      "coumarin (natural)",
+      "ambroxan",
+      "muscone (synthetic)"
+    ],
+    "commentary": "delicate from first spray, with elemi dominating the opening minutes. As the sandalwood emerges, the composition takes on a ethereal quality that persists through the dry-down. The dry-down is where this truly shines, with a creamy, skin-scent quality that feels effortlessly elegant."
+  },
+  {
+    "id": "sess_020",
+    "date": "2025-05-18",
+    "perfumer_name": "Naomi Williams",
+    "scent_name": "Patchouli Earth",
+    "overall_rating": 8,
+    "sillage": "moderate",
+    "longevity_hours": 8.4,
+    "top_notes": [
+      "bergamot oil (expressed)",
+      "grapefruit (white)"
+    ],
+    "middle_notes": [
+      "patchouli (aged, indonesian)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "vetiver (java)",
+      "oakmoss (treated)"
+    ],
+    "ingredients": [
+      "bergamot oil (expressed)",
+      "grapefruit (white)",
+      "patchouli (aged, indonesian)",
+      "geranium (egyptian)",
+      "vetiver (java)",
+      "oakmoss (treated)",
+      "muscone (synthetic)",
+      "hedione (hc)",
+      "ambroxan"
+    ],
+    "commentary": "The opening is bold and cool, with the grapefruit providing an immediate lift that gradually gives way to the patchouli heart. After six hours on skin, the base is still evolving, which speaks to the thoughtful construction of this accord."
+  },
+  {
+    "id": "sess_021",
+    "date": "2025-08-16",
+    "perfumer_name": "Aiko Yamamoto",
+    "scent_name": "Vetiver Caravan",
+    "overall_rating": 6,
+    "sillage": "strong",
+    "longevity_hours": 5.7,
+    "top_notes": [
+      "lime (mexican, distilled)",
+      "ginger (co2)"
+    ],
+    "middle_notes": [
+      "vetiver (bourbon, haitian)",
+      "pepper (black, malabar)"
+    ],
+    "base_notes": [
+      "guaiac wood (smoked)",
+      "labdanum resin"
+    ],
+    "ingredients": [
+      "lime (mexican, distilled)",
+      "ginger (co2)",
+      "vetiver (bourbon, haitian)",
+      "pepper (black, malabar)",
+      "guaiac wood (smoked)",
+      "labdanum resin",
+      "muscone (synthetic)"
+    ],
+    "commentary": "A crystalline composition that unfolds slowly on the skin. The ginger top notes are delicate and inviting, transitioning seamlessly into a opulent heart of vetiver. The sillage is impressive without being overwhelming \u2014 this leaves a trail that invites closer inspection."
+  },
+  {
+    "id": "sess_022",
+    "date": "2025-09-09",
+    "perfumer_name": "Marco Bellini",
+    "scent_name": "Hinoki Forest",
+    "overall_rating": 10,
+    "sillage": "enormous",
+    "longevity_hours": 5.1,
+    "top_notes": [
+      "yuzu (japanese, cold-pressed)",
+      "shiso leaf"
+    ],
+    "middle_notes": [
+      "hinoki (japanese cypress)",
+      "bamboo leaf"
+    ],
+    "base_notes": [
+      "sandalwood (australian)",
+      "white musk"
+    ],
+    "ingredients": [
+      "yuzu (japanese, cold-pressed)",
+      "shiso leaf",
+      "hinoki (japanese cypress)",
+      "bamboo leaf",
+      "sandalwood (australian)",
+      "white musk"
+    ],
+    "commentary": "The opening is dense and airy, with the shiso leaf providing a crisp freshness that gradually gives way to the bamboo leaf heart. The transition from top to heart is remarkably smooth, with no jarring shifts or gaps."
+  },
+  {
+    "id": "sess_023",
+    "date": "2025-04-19",
+    "perfumer_name": "Rafael Gutierrez",
+    "scent_name": "Leather & Smoke",
+    "overall_rating": 6,
+    "sillage": "moderate",
+    "longevity_hours": 10.8,
+    "top_notes": [
+      "birch tar (rectified)",
+      "black pepper (crushed)"
+    ],
+    "middle_notes": [
+      "leather accord",
+      "styrax (turkish)"
+    ],
+    "base_notes": [
+      "castoreum (synthetic)",
+      "oud (laotian)"
+    ],
+    "ingredients": [
+      "birch tar (rectified)",
+      "black pepper (crushed)",
+      "leather accord",
+      "styrax (turkish)",
+      "castoreum (synthetic)",
+      "oud (laotian)",
+      "galaxolide",
+      "vanillin (bourbon)",
+      "linalool (natural)"
+    ],
+    "commentary": "luminous from first spray, with birch tar dominating the opening minutes. As the styrax emerges, the composition takes on a effervescent quality that persists through the dry-down. The balance here is exceptional. No single note dominates; instead, they work in concert to create something greater than the sum of parts."
+  },
+  {
+    "id": "sess_024",
+    "date": "2025-08-04",
+    "perfumer_name": "Luca Moretti",
+    "scent_name": "Moss & Fern",
+    "overall_rating": 5,
+    "sillage": "strong",
+    "longevity_hours": 9.8,
+    "top_notes": [
+      "galbanum resin (iranian)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "oakmoss (treated, french)",
+      "fern accord"
+    ],
+    "base_notes": [
+      "vetiver (reunion)",
+      "patchouli (light)"
+    ],
+    "ingredients": [
+      "galbanum resin (iranian)",
+      "bergamot (fcf)",
+      "oakmoss (treated, french)",
+      "fern accord",
+      "vetiver (reunion)",
+      "patchouli (light)",
+      "linalool (natural)",
+      "iso e super",
+      "muscone (synthetic)"
+    ],
+    "commentary": "The bergamot opening is immediately sparkling, but it's the oakmoss in the heart that gives this composition its unique character. The transition from top to heart is remarkably smooth, with no jarring shifts or gaps."
+  },
+  {
+    "id": "sess_025",
+    "date": "2025-09-13",
+    "perfumer_name": "Naomi Williams",
+    "scent_name": "Mediterranean Garden",
+    "overall_rating": 4,
+    "sillage": "strong",
+    "longevity_hours": 9.7,
+    "top_notes": [
+      "lemon (sicilian)",
+      "basil (sweet, linalool)"
+    ],
+    "middle_notes": [
+      "fig leaf (french)",
+      "tomato vine accord"
+    ],
+    "base_notes": [
+      "cedarwood (atlas)",
+      "musk (clean)"
+    ],
+    "ingredients": [
+      "lemon (sicilian)",
+      "basil (sweet, linalool)",
+      "fig leaf (french)",
+      "tomato vine accord",
+      "cedarwood (atlas)",
+      "musk (clean)",
+      "galaxolide",
+      "linalool (natural)"
+    ],
+    "commentary": "Initially airy, this accord reveals surprising depth as it develops. The interplay between basil and fig leaf creates a warm effect that is both bold and deeply satisfying. After six hours on skin, the base is still evolving, which speaks to the thoughtful construction of this accord."
+  },
+  {
+    "id": "sess_026",
+    "date": "2025-12-10",
+    "perfumer_name": "Elena Petrova",
+    "scent_name": "Green Tea Ceremony",
+    "overall_rating": 4,
+    "sillage": "intimate",
+    "longevity_hours": 6.0,
+    "top_notes": [
+      "bergamot (japanese)",
+      "yuzu zest"
+    ],
+    "middle_notes": [
+      "green tea absolute (matcha)",
+      "jasmine (light)"
+    ],
+    "base_notes": [
+      "musk (white)",
+      "cedarwood (hinoki)"
+    ],
+    "ingredients": [
+      "bergamot (japanese)",
+      "yuzu zest",
+      "green tea absolute (matcha)",
+      "jasmine (light)",
+      "musk (white)",
+      "cedarwood (hinoki)",
+      "dihydromyrcenol",
+      "hedione (hc)"
+    ],
+    "commentary": "The opening is luminous and grounded, with the bergamot providing a sparkling brightness that gradually gives way to the jasmine heart. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_027",
+    "date": "2025-02-20",
+    "perfumer_name": "Hiroshi Nakamura",
+    "scent_name": "Rain on Concrete",
+    "overall_rating": 7,
+    "sillage": "moderate",
+    "longevity_hours": 3.5,
+    "top_notes": [
+      "petrichor accord",
+      "ozonic molecule"
+    ],
+    "middle_notes": [
+      "violet leaf absolute",
+      "galbanum (iranian)"
+    ],
+    "base_notes": [
+      "vetiver (haitian, light)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "petrichor accord",
+      "ozonic molecule",
+      "violet leaf absolute",
+      "galbanum (iranian)",
+      "vetiver (haitian, light)",
+      "ambroxan",
+      "dihydromyrcenol"
+    ],
+    "commentary": "dense from first spray, with petrichor accord dominating the opening minutes. As the galbanum emerges, the composition takes on a sparkling quality that persists through the dry-down. After six hours on skin, the base is still evolving, which speaks to the thoughtful construction of this accord."
+  },
+  {
+    "id": "sess_028",
+    "date": "2025-11-18",
+    "perfumer_name": "Pierre Deschamps",
+    "scent_name": "Cucumber Water",
+    "overall_rating": 4,
+    "sillage": "enormous",
+    "longevity_hours": 10.1,
+    "top_notes": [
+      "cucumber accord",
+      "melon (green)"
+    ],
+    "middle_notes": [
+      "hedione hc",
+      "violet leaf"
+    ],
+    "base_notes": [
+      "iso e super",
+      "musk (clean, transparent)"
+    ],
+    "ingredients": [
+      "cucumber accord",
+      "melon (green)",
+      "hedione hc",
+      "violet leaf",
+      "iso e super",
+      "musk (clean, transparent)",
+      "muscone (synthetic)",
+      "ethylene brassylate"
+    ],
+    "commentary": "A smoky composition that unfolds slowly on the skin. The cucumber accord top notes are dense and inviting, transitioning seamlessly into a grounded heart of violet leaf. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_029",
+    "date": "2025-07-19",
+    "perfumer_name": "Kenji Watanabe",
+    "scent_name": "Citrus Splash",
+    "overall_rating": 7,
+    "sillage": "enormous",
+    "longevity_hours": 3.0,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "lemon (amalfi)",
+      "grapefruit (pink)"
+    ],
+    "middle_notes": [
+      "neroli (tunisian)",
+      "petitgrain (paraguay)"
+    ],
+    "base_notes": [
+      "white musk",
+      "cedarwood"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "lemon (amalfi)",
+      "grapefruit (pink)",
+      "neroli (tunisian)",
+      "petitgrain (paraguay)",
+      "white musk",
+      "cedarwood",
+      "muscone (synthetic)",
+      "ethylene brassylate"
+    ],
+    "commentary": "Initially grounded, this accord reveals surprising depth as it develops. The interplay between grapefruit and petitgrain creates a bright effect that is both crystalline and deeply satisfying. The base notes provide a warm, lingering finish that keeps the scent interesting for hours."
+  },
+  {
+    "id": "sess_030",
+    "date": "2025-05-25",
+    "perfumer_name": "Camille Beaufort",
+    "scent_name": "Herb Garden",
+    "overall_rating": 9,
+    "sillage": "enormous",
+    "longevity_hours": 9.5,
+    "top_notes": [
+      "basil (grand vert)",
+      "mint (peppermint)"
+    ],
+    "middle_notes": [
+      "rosemary (ct. cineole)",
+      "thyme (linalool ct.)"
+    ],
+    "base_notes": [
+      "vetiver (light)",
+      "musk (green)"
+    ],
+    "ingredients": [
+      "basil (grand vert)",
+      "mint (peppermint)",
+      "rosemary (ct. cineole)",
+      "thyme (linalool ct.)",
+      "vetiver (light)",
+      "musk (green)"
+    ],
+    "commentary": "A delicate composition that unfolds slowly on the skin. The mint top notes are ethereal and inviting, transitioning seamlessly into a sparkling heart of rosemary. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_031",
+    "date": "2025-06-24",
+    "perfumer_name": "Sophia Park",
+    "scent_name": "Alpine Air",
+    "overall_rating": 10,
+    "sillage": "enormous",
+    "longevity_hours": 2.3,
+    "top_notes": [
+      "pine (austrian)",
+      "juniper berry (croatian)"
+    ],
+    "middle_notes": [
+      "fir balsam (canadian)",
+      "spruce (black)"
+    ],
+    "base_notes": [
+      "moss accord",
+      "mineral accord"
+    ],
+    "ingredients": [
+      "pine (austrian)",
+      "juniper berry (croatian)",
+      "fir balsam (canadian)",
+      "spruce (black)",
+      "moss accord",
+      "mineral accord"
+    ],
+    "commentary": "A effervescent composition that unfolds slowly on the skin. The pine top notes are velvety and inviting, transitioning seamlessly into a rich heart of spruce. The sillage is impressive without being overwhelming \u2014 this leaves a trail that invites closer inspection."
+  },
+  {
+    "id": "sess_032",
+    "date": "2025-08-26",
+    "perfumer_name": "Marco Bellini",
+    "scent_name": "Bamboo Breeze",
+    "overall_rating": 10,
+    "sillage": "moderate",
+    "longevity_hours": 4.3,
+    "top_notes": [
+      "bamboo leaf (japanese)",
+      "lemongrass (indian)"
+    ],
+    "middle_notes": [
+      "green tea (chinese)",
+      "cucumber (fresh)"
+    ],
+    "base_notes": [
+      "white cedar",
+      "clean musk"
+    ],
+    "ingredients": [
+      "bamboo leaf (japanese)",
+      "lemongrass (indian)",
+      "green tea (chinese)",
+      "cucumber (fresh)",
+      "white cedar",
+      "clean musk",
+      "coumarin (natural)",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "Initially radiant, this accord reveals surprising depth as it develops. The interplay between lemongrass and green tea creates a warm effect that is both sparkling and deeply satisfying. After six hours on skin, the base is still evolving, which speaks to the thoughtful construction of this accord."
+  },
+  {
+    "id": "sess_033",
+    "date": "2025-08-12",
+    "perfumer_name": "David Thornton",
+    "scent_name": "Mossy Elegance",
+    "overall_rating": 4,
+    "sillage": "strong",
+    "longevity_hours": 6.8,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "lemon (sicilian)"
+    ],
+    "middle_notes": [
+      "oakmoss (treated)",
+      "rose absolute (centifolia)"
+    ],
+    "base_notes": [
+      "patchouli (aged)",
+      "labdanum (spanish)"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "lemon (sicilian)",
+      "oakmoss (treated)",
+      "rose absolute (centifolia)",
+      "patchouli (aged)",
+      "labdanum (spanish)",
+      "coumarin (natural)",
+      "galaxolide",
+      "hedione (hc)"
+    ],
+    "commentary": "This is a study in contrasts: the smoky lemon against the cool rose absolute creates a tension that resolves beautifully in the base. The base notes provide a warm, lingering finish that keeps the scent interesting for hours."
+  },
+  {
+    "id": "sess_034",
+    "date": "2025-05-21",
+    "perfumer_name": "Naomi Williams",
+    "scent_name": "Dark Chypre",
+    "overall_rating": 4,
+    "sillage": "enormous",
+    "longevity_hours": 10.2,
+    "top_notes": [
+      "bergamot (italian)",
+      "galbanum resin"
+    ],
+    "middle_notes": [
+      "oakmoss (french)",
+      "jasmine absolute"
+    ],
+    "base_notes": [
+      "patchouli (borneo)",
+      "castoreum (synthetic)"
+    ],
+    "ingredients": [
+      "bergamot (italian)",
+      "galbanum resin",
+      "oakmoss (french)",
+      "jasmine absolute",
+      "patchouli (borneo)",
+      "castoreum (synthetic)",
+      "vanillin (bourbon)",
+      "dihydromyrcenol"
+    ],
+    "commentary": "luminous from first spray, with bergamot dominating the opening minutes. As the oakmoss emerges, the composition takes on a airy quality that persists through the dry-down. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_035",
+    "date": "2025-06-22",
+    "perfumer_name": "Am\u00e9lie Laurent",
+    "scent_name": "Fruity Chypre",
+    "overall_rating": 8,
+    "sillage": "moderate",
+    "longevity_hours": 5.5,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "cassis bud (burgundy)"
+    ],
+    "middle_notes": [
+      "rose (centifolia)",
+      "peach accord"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "patchouli (light, indonesian)"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "cassis bud (burgundy)",
+      "rose (centifolia)",
+      "peach accord",
+      "oakmoss (treated)",
+      "patchouli (light, indonesian)"
+    ],
+    "commentary": "This is a study in contrasts: the velvety cassis bud against the cool rose creates a tension that resolves beautifully in the base. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_036",
+    "date": "2025-06-04",
+    "perfumer_name": "Kenji Watanabe",
+    "scent_name": "Modern Chypre",
+    "overall_rating": 7,
+    "sillage": "enormous",
+    "longevity_hours": 10.6,
+    "top_notes": [
+      "pink grapefruit (florida)",
+      "hedione"
+    ],
+    "middle_notes": [
+      "oakmoss (low-atranol)",
+      "iris (synthetic)"
+    ],
+    "base_notes": [
+      "patchouli (molecular distilled)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "pink grapefruit (florida)",
+      "hedione",
+      "oakmoss (low-atranol)",
+      "iris (synthetic)",
+      "patchouli (molecular distilled)",
+      "ambroxan",
+      "ambroxan",
+      "galaxolide"
+    ],
+    "commentary": "This is a study in contrasts: the luminous hedione against the crystalline iris creates a tension that resolves beautifully in the base. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_037",
+    "date": "2025-03-26",
+    "perfumer_name": "Luca Moretti",
+    "scent_name": "Classic Barbershop",
+    "overall_rating": 10,
+    "sillage": "strong",
+    "longevity_hours": 4.2,
+    "top_notes": [
+      "lavender (fine, french)",
+      "bergamot (calabrian)"
+    ],
+    "middle_notes": [
+      "geranium (bourbon)",
+      "coumarin (synthetic)"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "tonka bean"
+    ],
+    "ingredients": [
+      "lavender (fine, french)",
+      "bergamot (calabrian)",
+      "geranium (bourbon)",
+      "coumarin (synthetic)",
+      "oakmoss (treated)",
+      "tonka bean",
+      "hedione (hc)",
+      "dihydromyrcenol",
+      "ambroxan"
+    ],
+    "commentary": "The lavender opening is immediately transparent, but it's the geranium in the heart that gives this composition its unique character. I'd recommend this for evening wear, particularly in cooler weather when the warmer notes can bloom fully."
+  },
+  {
+    "id": "sess_038",
+    "date": "2025-09-09",
+    "perfumer_name": "Claire Dubois",
+    "scent_name": "Green Foug\u00e8re",
+    "overall_rating": 6,
+    "sillage": "moderate",
+    "longevity_hours": 10.9,
+    "top_notes": [
+      "galbanum (iranian)",
+      "basil (french)"
+    ],
+    "middle_notes": [
+      "lavender (english)",
+      "hay absolute"
+    ],
+    "base_notes": [
+      "oakmoss (french)",
+      "vetiver (haitian)"
+    ],
+    "ingredients": [
+      "galbanum (iranian)",
+      "basil (french)",
+      "lavender (english)",
+      "hay absolute",
+      "oakmoss (french)",
+      "vetiver (haitian)",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "A sparkling composition that unfolds slowly on the skin. The galbanum top notes are bright and inviting, transitioning seamlessly into a smoky heart of lavender. The projection is intimate and personal, creating a scent bubble that rewards proximity."
+  },
+  {
+    "id": "sess_039",
+    "date": "2025-09-04",
+    "perfumer_name": "Marco Bellini",
+    "scent_name": "Aromatic Foug\u00e8re",
+    "overall_rating": 4,
+    "sillage": "moderate",
+    "longevity_hours": 8.7,
+    "top_notes": [
+      "rosemary (moroccan)",
+      "sage clary (french)"
+    ],
+    "middle_notes": [
+      "lavender absolute (french)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss"
+    ],
+    "ingredients": [
+      "rosemary (moroccan)",
+      "sage clary (french)",
+      "lavender absolute (french)",
+      "geranium (egyptian)",
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss",
+      "ambroxan",
+      "iso e super"
+    ],
+    "commentary": "This is a study in contrasts: the radiant rosemary against the smoky geranium creates a tension that resolves beautifully in the base. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_040",
+    "date": "2025-01-02",
+    "perfumer_name": "Carlos Mendoza",
+    "scent_name": "Aquatic Foug\u00e8re",
+    "overall_rating": 10,
+    "sillage": "strong",
+    "longevity_hours": 6.1,
+    "top_notes": [
+      "marine accord (calone)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "lavender (lavandin)",
+      "dihydromyrcenol"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "cedarwood",
+      "musk (white)"
+    ],
+    "ingredients": [
+      "marine accord (calone)",
+      "bergamot (fcf)",
+      "lavender (lavandin)",
+      "dihydromyrcenol",
+      "ambroxan",
+      "cedarwood",
+      "musk (white)",
+      "coumarin (natural)",
+      "dihydromyrcenol",
+      "ambroxan"
+    ],
+    "commentary": "cool from first spray, with bergamot dominating the opening minutes. As the dihydromyrcenol emerges, the composition takes on a austere quality that persists through the dry-down. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_041",
+    "date": "2025-09-10",
+    "perfumer_name": "Naomi Williams",
+    "scent_name": "Vintage Sandalwood Meditation",
+    "overall_rating": 8,
+    "sillage": "enormous",
+    "longevity_hours": 11.9,
+    "top_notes": [
+      "cardamom (green)",
+      "elemi (fresh)"
+    ],
+    "middle_notes": [
+      "sandalwood (mysore, first-cut)",
+      "iris (orris butter)"
+    ],
+    "base_notes": [
+      "vanilla co2",
+      "musk (skin-like)"
+    ],
+    "ingredients": [
+      "cardamom (green)",
+      "elemi (fresh)",
+      "sandalwood (mysore, first-cut)",
+      "iris (orris butter)",
+      "vanilla co2",
+      "musk (skin-like)",
+      "ethylene brassylate",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "cool from first spray, with elemi dominating the opening minutes. As the sandalwood emerges, the composition takes on a transparent quality that persists through the dry-down. The transition from top to heart is remarkably smooth, with no jarring shifts or gaps."
+  },
+  {
+    "id": "sess_042",
+    "date": "2025-03-22",
+    "perfumer_name": "Elena Petrova",
+    "scent_name": "Trial Saffron & Silk",
+    "overall_rating": 8,
+    "sillage": "strong",
+    "longevity_hours": 5.1,
+    "top_notes": [
+      "saffron (iranian, premium)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "rose absolute (taifi)",
+      "orris butter"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "vanilla planifolia"
+    ],
+    "ingredients": [
+      "saffron (iranian, premium)",
+      "bergamot (fcf)",
+      "rose absolute (taifi)",
+      "orris butter",
+      "ambroxan",
+      "vanilla planifolia",
+      "linalool (natural)",
+      "habanolide",
+      "hedione (hc)",
+      "galaxolide"
+    ],
+    "commentary": "warm from first spray, with saffron dominating the opening minutes. As the rose absolute emerges, the composition takes on a airy quality that persists through the dry-down. This reminds me of walking through a garden in late summer \u2014 warm, green, and full of life."
+  },
+  {
+    "id": "sess_043",
+    "date": "2025-11-25",
+    "perfumer_name": "Priya Sharma",
+    "scent_name": "Modern Aromatic Foug\u00e8re",
+    "overall_rating": 8,
+    "sillage": "intimate",
+    "longevity_hours": 5.5,
+    "top_notes": [
+      "rosemary (moroccan)",
+      "sage clary (french)"
+    ],
+    "middle_notes": [
+      "lavender absolute (french)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss"
+    ],
+    "ingredients": [
+      "rosemary (moroccan)",
+      "sage clary (french)",
+      "lavender absolute (french)",
+      "geranium (egyptian)",
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "airy from first spray, with rosemary dominating the opening minutes. As the geranium emerges, the composition takes on a grounded quality that persists through the dry-down. The projection is intimate and personal, creating a scent bubble that rewards proximity."
+  },
+  {
+    "id": "sess_044",
+    "date": "2025-07-28",
+    "perfumer_name": "Akiko Sato",
+    "scent_name": "Modern Dark Chypre",
+    "overall_rating": 4,
+    "sillage": "strong",
+    "longevity_hours": 7.3,
+    "top_notes": [
+      "bergamot (italian)",
+      "galbanum resin"
+    ],
+    "middle_notes": [
+      "oakmoss (french)",
+      "jasmine absolute"
+    ],
+    "base_notes": [
+      "patchouli (borneo)",
+      "castoreum (synthetic)"
+    ],
+    "ingredients": [
+      "bergamot (italian)",
+      "galbanum resin",
+      "oakmoss (french)",
+      "jasmine absolute",
+      "patchouli (borneo)",
+      "castoreum (synthetic)",
+      "dihydromyrcenol",
+      "hedione (hc)",
+      "galaxolide",
+      "coumarin (natural)"
+    ],
+    "commentary": "The bergamot opening is immediately bright, but it's the jasmine absolute in the heart that gives this composition its unique character. The balance here is exceptional. No single note dominates; instead, they work in concert to create something greater than the sum of parts."
+  },
+  {
+    "id": "sess_045",
+    "date": "2025-11-01",
+    "perfumer_name": "Jean-Philippe Arnaud",
+    "scent_name": "Trial Hinoki Forest",
+    "overall_rating": 9,
+    "sillage": "intimate",
+    "longevity_hours": 2.6,
+    "top_notes": [
+      "yuzu (japanese, cold-pressed)",
+      "shiso leaf"
+    ],
+    "middle_notes": [
+      "hinoki (japanese cypress)",
+      "bamboo leaf"
+    ],
+    "base_notes": [
+      "sandalwood (australian)",
+      "white musk"
+    ],
+    "ingredients": [
+      "yuzu (japanese, cold-pressed)",
+      "shiso leaf",
+      "hinoki (japanese cypress)",
+      "bamboo leaf",
+      "sandalwood (australian)",
+      "white musk",
+      "iso e super"
+    ],
+    "commentary": "The opening is velvety and radiant, with the yuzu providing a crisp freshness that gradually gives way to the bamboo leaf heart. I'd recommend this for evening wear, particularly in cooler weather when the warmer notes can bloom fully."
+  },
+  {
+    "id": "sess_046",
+    "date": "2025-05-15",
+    "perfumer_name": "Jean-Philippe Arnaud",
+    "scent_name": "Light Hinoki Forest",
+    "overall_rating": 5,
+    "sillage": "intimate",
+    "longevity_hours": 8.4,
+    "top_notes": [
+      "yuzu (japanese, cold-pressed)",
+      "shiso leaf"
+    ],
+    "middle_notes": [
+      "hinoki (japanese cypress)",
+      "bamboo leaf"
+    ],
+    "base_notes": [
+      "sandalwood (australian)",
+      "white musk"
+    ],
+    "ingredients": [
+      "yuzu (japanese, cold-pressed)",
+      "shiso leaf",
+      "hinoki (japanese cypress)",
+      "bamboo leaf",
+      "sandalwood (australian)",
+      "white musk",
+      "ambroxan"
+    ],
+    "commentary": "This is a study in contrasts: the airy shiso leaf against the radiant bamboo leaf creates a tension that resolves beautifully in the base. There's a naturalness to this composition that speaks to the quality of the raw materials."
+  },
+  {
+    "id": "sess_047",
+    "date": "2025-10-02",
+    "perfumer_name": "Marie-Claude Lef\u00e8vre",
+    "scent_name": "Trial Mossy Elegance",
+    "overall_rating": 7,
+    "sillage": "intimate",
+    "longevity_hours": 3.4,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "lemon (sicilian)"
+    ],
+    "middle_notes": [
+      "oakmoss (treated)",
+      "rose absolute (centifolia)"
+    ],
+    "base_notes": [
+      "patchouli (aged)",
+      "labdanum (spanish)"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "lemon (sicilian)",
+      "oakmoss (treated)",
+      "rose absolute (centifolia)",
+      "patchouli (aged)",
+      "labdanum (spanish)",
+      "hedione (hc)",
+      "ethylene brassylate",
+      "cashmeran",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "The opening is delicate and sparkling, with the bergamot providing a sparkling brightness that gradually gives way to the rose absolute heart. I'd recommend this for evening wear, particularly in cooler weather when the warmer notes can bloom fully."
+  },
+  {
+    "id": "sess_048",
+    "date": "2025-12-02",
+    "perfumer_name": "Aiko Yamamoto",
+    "scent_name": "Fresh Spring Narcissus",
+    "overall_rating": 6,
+    "sillage": "strong",
+    "longevity_hours": 1.8,
+    "top_notes": [
+      "bergamot oil (cold-pressed)",
+      "green leaf accord"
+    ],
+    "middle_notes": [
+      "narcissus absolute (french)",
+      "hyacinth (greenhouse)"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "white musk"
+    ],
+    "ingredients": [
+      "bergamot oil (cold-pressed)",
+      "green leaf accord",
+      "narcissus absolute (french)",
+      "hyacinth (greenhouse)",
+      "oakmoss (treated)",
+      "white musk",
+      "iso e super",
+      "habanolide",
+      "linalool (natural)",
+      "coumarin (natural)"
+    ],
+    "commentary": "warm from first spray, with bergamot oil dominating the opening minutes. As the hyacinth emerges, the composition takes on a effervescent quality that persists through the dry-down. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_049",
+    "date": "2025-10-15",
+    "perfumer_name": "Claire Dubois",
+    "scent_name": "Batch 2 Aquatic Foug\u00e8re",
+    "overall_rating": 8,
+    "sillage": "moderate",
+    "longevity_hours": 9.8,
+    "top_notes": [
+      "marine accord (calone)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "lavender (lavandin)",
+      "dihydromyrcenol"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "cedarwood",
+      "musk (white)"
+    ],
+    "ingredients": [
+      "marine accord (calone)",
+      "bergamot (fcf)",
+      "lavender (lavandin)",
+      "dihydromyrcenol",
+      "ambroxan",
+      "cedarwood",
+      "musk (white)",
+      "linalool (natural)"
+    ],
+    "commentary": "This is a study in contrasts: the velvety bergamot against the cool lavender creates a tension that resolves beautifully in the base. The projection is intimate and personal, creating a scent bubble that rewards proximity."
+  },
+  {
+    "id": "sess_050",
+    "date": "2025-02-17",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Aged Green Tea Ceremony",
+    "overall_rating": 5,
+    "sillage": "intimate",
+    "longevity_hours": 6.6,
+    "top_notes": [
+      "bergamot (japanese)",
+      "yuzu zest"
+    ],
+    "middle_notes": [
+      "green tea absolute (matcha)",
+      "jasmine (light)"
+    ],
+    "base_notes": [
+      "musk (white)",
+      "cedarwood (hinoki)"
+    ],
+    "ingredients": [
+      "bergamot (japanese)",
+      "yuzu zest",
+      "green tea absolute (matcha)",
+      "jasmine (light)",
+      "musk (white)",
+      "cedarwood (hinoki)",
+      "javanol (synthetic)",
+      "galaxolide",
+      "dihydromyrcenol"
+    ],
+    "commentary": "The bergamot opening is immediately smoky, but it's the jasmine in the heart that gives this composition its unique character. The sillage is impressive without being overwhelming \u2014 this leaves a trail that invites closer inspection."
+  },
+  {
+    "id": "sess_051",
+    "date": "2025-10-25",
+    "perfumer_name": "Yuki Tanaka",
+    "scent_name": "Modern Patchouli Earth",
+    "overall_rating": 5,
+    "sillage": "enormous",
+    "longevity_hours": 6.1,
+    "top_notes": [
+      "bergamot oil (expressed)",
+      "grapefruit (white)"
+    ],
+    "middle_notes": [
+      "patchouli (aged, indonesian)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "vetiver (java)",
+      "oakmoss (treated)"
+    ],
+    "ingredients": [
+      "bergamot oil (expressed)",
+      "grapefruit (white)",
+      "patchouli (aged, indonesian)",
+      "geranium (egyptian)",
+      "vetiver (java)",
+      "oakmoss (treated)",
+      "habanolide",
+      "cashmeran"
+    ],
+    "commentary": "The grapefruit opening is immediately effervescent, but it's the geranium in the heart that gives this composition its unique character. The transition from top to heart is remarkably smooth, with no jarring shifts or gaps."
+  },
+  {
+    "id": "sess_052",
+    "date": "2025-01-02",
+    "perfumer_name": "Hiroshi Nakamura",
+    "scent_name": "Batch 2 Citrus Splash",
+    "overall_rating": 4,
+    "sillage": "strong",
+    "longevity_hours": 6.1,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "lemon (amalfi)",
+      "grapefruit (pink)"
+    ],
+    "middle_notes": [
+      "neroli (tunisian)",
+      "petitgrain (paraguay)"
+    ],
+    "base_notes": [
+      "white musk",
+      "cedarwood"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "lemon (amalfi)",
+      "grapefruit (pink)",
+      "neroli (tunisian)",
+      "petitgrain (paraguay)",
+      "white musk",
+      "cedarwood",
+      "galaxolide"
+    ],
+    "commentary": "Initially warm, this accord reveals surprising depth as it develops. The interplay between lemon and neroli creates a opulent effect that is both crystalline and deeply satisfying. The projection is intimate and personal, creating a scent bubble that rewards proximity."
+  },
+  {
+    "id": "sess_053",
+    "date": "2025-06-23",
+    "perfumer_name": "Marie-Claude Lef\u00e8vre",
+    "scent_name": "Fresh Mossy Elegance",
+    "overall_rating": 5,
+    "sillage": "intimate",
+    "longevity_hours": 6.0,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "lemon (sicilian)"
+    ],
+    "middle_notes": [
+      "oakmoss (treated)",
+      "rose absolute (centifolia)"
+    ],
+    "base_notes": [
+      "patchouli (aged)",
+      "labdanum (spanish)"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "lemon (sicilian)",
+      "oakmoss (treated)",
+      "rose absolute (centifolia)",
+      "patchouli (aged)",
+      "labdanum (spanish)",
+      "galaxolide",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "The opening is bold and radiant, with the bergamot providing a subtle intrigue that gradually gives way to the oakmoss heart. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_054",
+    "date": "2025-11-11",
+    "perfumer_name": "Nathalie Girard",
+    "scent_name": "Trial Dark Chypre",
+    "overall_rating": 8,
+    "sillage": "intimate",
+    "longevity_hours": 9.7,
+    "top_notes": [
+      "bergamot (italian)",
+      "galbanum resin"
+    ],
+    "middle_notes": [
+      "oakmoss (french)",
+      "jasmine absolute"
+    ],
+    "base_notes": [
+      "patchouli (borneo)",
+      "castoreum (synthetic)"
+    ],
+    "ingredients": [
+      "bergamot (italian)",
+      "galbanum resin",
+      "oakmoss (french)",
+      "jasmine absolute",
+      "patchouli (borneo)",
+      "castoreum (synthetic)",
+      "ethylene brassylate",
+      "linalool (natural)",
+      "javanol (synthetic)"
+    ],
+    "commentary": "The opening is transparent and crystalline, with the galbanum resin providing a sparkling brightness that gradually gives way to the oakmoss heart. This reminds me of walking through a garden in late summer \u2014 warm, green, and full of life."
+  },
+  {
+    "id": "sess_055",
+    "date": "2025-11-23",
+    "perfumer_name": "Pierre Deschamps",
+    "scent_name": "Trial Green Foug\u00e8re",
+    "overall_rating": 5,
+    "sillage": "strong",
+    "longevity_hours": 4.4,
+    "top_notes": [
+      "galbanum (iranian)",
+      "basil (french)"
+    ],
+    "middle_notes": [
+      "lavender (english)",
+      "hay absolute"
+    ],
+    "base_notes": [
+      "oakmoss (french)",
+      "vetiver (haitian)"
+    ],
+    "ingredients": [
+      "galbanum (iranian)",
+      "basil (french)",
+      "lavender (english)",
+      "hay absolute",
+      "oakmoss (french)",
+      "vetiver (haitian)",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "This is a study in contrasts: the airy basil against the warm lavender creates a tension that resolves beautifully in the base. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_056",
+    "date": "2025-05-06",
+    "perfumer_name": "Pierre Deschamps",
+    "scent_name": "Modern Aromatic Foug\u00e8re",
+    "overall_rating": 9,
+    "sillage": "strong",
+    "longevity_hours": 1.2,
+    "top_notes": [
+      "rosemary (moroccan)",
+      "sage clary (french)"
+    ],
+    "middle_notes": [
+      "lavender absolute (french)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss"
+    ],
+    "ingredients": [
+      "rosemary (moroccan)",
+      "sage clary (french)",
+      "lavender absolute (french)",
+      "geranium (egyptian)",
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss",
+      "cashmeran"
+    ],
+    "commentary": "A delicate composition that unfolds slowly on the skin. The sage clary top notes are bold and inviting, transitioning seamlessly into a sparkling heart of geranium. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_057",
+    "date": "2025-03-27",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Concentrated Driftwood & Sea Salt",
+    "overall_rating": 5,
+    "sillage": "enormous",
+    "longevity_hours": 2.7,
+    "top_notes": [
+      "sea salt accord",
+      "bergamot (calabrian)"
+    ],
+    "middle_notes": [
+      "driftwood accord",
+      "violet leaf (absolute)"
+    ],
+    "base_notes": [
+      "ambergris (synthetic)",
+      "cedarwood (virginia)"
+    ],
+    "ingredients": [
+      "sea salt accord",
+      "bergamot (calabrian)",
+      "driftwood accord",
+      "violet leaf (absolute)",
+      "ambergris (synthetic)",
+      "cedarwood (virginia)",
+      "cashmeran"
+    ],
+    "commentary": "This is a study in contrasts: the luminous sea salt accord against the velvety violet leaf creates a tension that resolves beautifully in the base. This reminds me of walking through a garden in late summer \u2014 warm, green, and full of life."
+  },
+  {
+    "id": "sess_058",
+    "date": "2025-08-27",
+    "perfumer_name": "Am\u00e9lie Laurent",
+    "scent_name": "Light Cacao Noir",
+    "overall_rating": 6,
+    "sillage": "strong",
+    "longevity_hours": 11.6,
+    "top_notes": [
+      "black pepper (malabar)",
+      "ginger (fresh)"
+    ],
+    "middle_notes": [
+      "cacao absolute (ivorian)",
+      "coffee absolute (brazilian)"
+    ],
+    "base_notes": [
+      "patchouli (aged, indonesian)",
+      "vanilla (madagascar)"
+    ],
+    "ingredients": [
+      "black pepper (malabar)",
+      "ginger (fresh)",
+      "cacao absolute (ivorian)",
+      "coffee absolute (brazilian)",
+      "patchouli (aged, indonesian)",
+      "vanilla (madagascar)",
+      "habanolide",
+      "javanol (synthetic)",
+      "muscone (synthetic)"
+    ],
+    "commentary": "A radiant composition that unfolds slowly on the skin. The ginger top notes are grounded and inviting, transitioning seamlessly into a crystalline heart of coffee absolute. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_059",
+    "date": "2025-02-23",
+    "perfumer_name": "Naomi Williams",
+    "scent_name": "Experimental Rain on Concrete",
+    "overall_rating": 10,
+    "sillage": "strong",
+    "longevity_hours": 7.1,
+    "top_notes": [
+      "petrichor accord",
+      "ozonic molecule"
+    ],
+    "middle_notes": [
+      "violet leaf absolute",
+      "galbanum (iranian)"
+    ],
+    "base_notes": [
+      "vetiver (haitian, light)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "petrichor accord",
+      "ozonic molecule",
+      "violet leaf absolute",
+      "galbanum (iranian)",
+      "vetiver (haitian, light)",
+      "ambroxan",
+      "ethylene brassylate",
+      "ambroxan"
+    ],
+    "commentary": "The petrichor accord opening is immediately warm, but it's the galbanum in the heart that gives this composition its unique character. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_060",
+    "date": "2025-06-08",
+    "perfumer_name": "Claire Dubois",
+    "scent_name": "Vintage Saffron & Silk",
+    "overall_rating": 9,
+    "sillage": "intimate",
+    "longevity_hours": 5.4,
+    "top_notes": [
+      "saffron (iranian, premium)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "rose absolute (taifi)",
+      "orris butter"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "vanilla planifolia"
+    ],
+    "ingredients": [
+      "saffron (iranian, premium)",
+      "bergamot (fcf)",
+      "rose absolute (taifi)",
+      "orris butter",
+      "ambroxan",
+      "vanilla planifolia",
+      "muscone (synthetic)",
+      "galaxolide"
+    ],
+    "commentary": "bold from first spray, with saffron dominating the opening minutes. As the orris butter emerges, the composition takes on a bright quality that persists through the dry-down. This reminds me of walking through a garden in late summer \u2014 warm, green, and full of life."
+  },
+  {
+    "id": "sess_061",
+    "date": "2025-01-03",
+    "perfumer_name": "Marie-Claude Lef\u00e8vre",
+    "scent_name": "Modern Aromatic Foug\u00e8re",
+    "overall_rating": 5,
+    "sillage": "enormous",
+    "longevity_hours": 5.9,
+    "top_notes": [
+      "rosemary (moroccan)",
+      "sage clary (french)"
+    ],
+    "middle_notes": [
+      "lavender absolute (french)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss"
+    ],
+    "ingredients": [
+      "rosemary (moroccan)",
+      "sage clary (french)",
+      "lavender absolute (french)",
+      "geranium (egyptian)",
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss",
+      "ambroxan",
+      "ethylene brassylate"
+    ],
+    "commentary": "The opening is sparkling and transparent, with the sage clary providing a warm invitation that gradually gives way to the lavender absolute heart. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_062",
+    "date": "2025-08-20",
+    "perfumer_name": "Am\u00e9lie Laurent",
+    "scent_name": "Batch 2 Patchouli Earth",
+    "overall_rating": 9,
+    "sillage": "enormous",
+    "longevity_hours": 1.7,
+    "top_notes": [
+      "bergamot oil (expressed)",
+      "grapefruit (white)"
+    ],
+    "middle_notes": [
+      "patchouli (aged, indonesian)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "vetiver (java)",
+      "oakmoss (treated)"
+    ],
+    "ingredients": [
+      "bergamot oil (expressed)",
+      "grapefruit (white)",
+      "patchouli (aged, indonesian)",
+      "geranium (egyptian)",
+      "vetiver (java)",
+      "oakmoss (treated)",
+      "ambroxan"
+    ],
+    "commentary": "The bergamot oil opening is immediately sparkling, but it's the patchouli in the heart that gives this composition its unique character. The projection is intimate and personal, creating a scent bubble that rewards proximity."
+  },
+  {
+    "id": "sess_063",
+    "date": "2025-09-17",
+    "perfumer_name": "Hiroshi Nakamura",
+    "scent_name": "Light Patchouli Earth",
+    "overall_rating": 8,
+    "sillage": "intimate",
+    "longevity_hours": 11.5,
+    "top_notes": [
+      "bergamot oil (expressed)",
+      "grapefruit (white)"
+    ],
+    "middle_notes": [
+      "patchouli (aged, indonesian)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "vetiver (java)",
+      "oakmoss (treated)"
+    ],
+    "ingredients": [
+      "bergamot oil (expressed)",
+      "grapefruit (white)",
+      "patchouli (aged, indonesian)",
+      "geranium (egyptian)",
+      "vetiver (java)",
+      "oakmoss (treated)",
+      "iso e super",
+      "cashmeran",
+      "javanol (synthetic)",
+      "hedione (hc)"
+    ],
+    "commentary": "The bergamot oil opening is immediately austere, but it's the geranium in the heart that gives this composition its unique character. The dry-down is where this truly shines, with a creamy, skin-scent quality that feels effortlessly elegant."
+  },
+  {
+    "id": "sess_064",
+    "date": "2025-06-18",
+    "perfumer_name": "Am\u00e9lie Laurent",
+    "scent_name": "Trial Classic Barbershop",
+    "overall_rating": 4,
+    "sillage": "strong",
+    "longevity_hours": 2.5,
+    "top_notes": [
+      "lavender (fine, french)",
+      "bergamot (calabrian)"
+    ],
+    "middle_notes": [
+      "geranium (bourbon)",
+      "coumarin (synthetic)"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "tonka bean"
+    ],
+    "ingredients": [
+      "lavender (fine, french)",
+      "bergamot (calabrian)",
+      "geranium (bourbon)",
+      "coumarin (synthetic)",
+      "oakmoss (treated)",
+      "tonka bean",
+      "galaxolide"
+    ],
+    "commentary": "Initially austere, this accord reveals surprising depth as it develops. The interplay between lavender and coumarin creates a rich effect that is both sparkling and deeply satisfying. This reminds me of walking through a garden in late summer \u2014 warm, green, and full of life."
+  },
+  {
+    "id": "sess_065",
+    "date": "2025-09-16",
+    "perfumer_name": "Luca Moretti",
+    "scent_name": "Batch 2 Mediterranean Garden",
+    "overall_rating": 8,
+    "sillage": "strong",
+    "longevity_hours": 6.7,
+    "top_notes": [
+      "lemon (sicilian)",
+      "basil (sweet, linalool)"
+    ],
+    "middle_notes": [
+      "fig leaf (french)",
+      "tomato vine accord"
+    ],
+    "base_notes": [
+      "cedarwood (atlas)",
+      "musk (clean)"
+    ],
+    "ingredients": [
+      "lemon (sicilian)",
+      "basil (sweet, linalool)",
+      "fig leaf (french)",
+      "tomato vine accord",
+      "cedarwood (atlas)",
+      "musk (clean)",
+      "ambroxan",
+      "dihydromyrcenol"
+    ],
+    "commentary": "Initially grounded, this accord reveals surprising depth as it develops. The interplay between lemon and fig leaf creates a smoky effect that is both luminous and deeply satisfying. I'd recommend this for evening wear, particularly in cooler weather when the warmer notes can bloom fully."
+  },
+  {
+    "id": "sess_066",
+    "date": "2025-06-26",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Trial Driftwood & Sea Salt",
+    "overall_rating": 5,
+    "sillage": "enormous",
+    "longevity_hours": 8.6,
+    "top_notes": [
+      "sea salt accord",
+      "bergamot (calabrian)"
+    ],
+    "middle_notes": [
+      "driftwood accord",
+      "violet leaf (absolute)"
+    ],
+    "base_notes": [
+      "ambergris (synthetic)",
+      "cedarwood (virginia)"
+    ],
+    "ingredients": [
+      "sea salt accord",
+      "bergamot (calabrian)",
+      "driftwood accord",
+      "violet leaf (absolute)",
+      "ambergris (synthetic)",
+      "cedarwood (virginia)",
+      "linalool (natural)",
+      "javanol (synthetic)",
+      "muscone (synthetic)",
+      "habanolide"
+    ],
+    "commentary": "The bergamot opening is immediately velvety, but it's the driftwood accord in the heart that gives this composition its unique character. The sillage is impressive without being overwhelming \u2014 this leaves a trail that invites closer inspection."
+  },
+  {
+    "id": "sess_067",
+    "date": "2025-12-14",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Trial Fruity Chypre",
+    "overall_rating": 7,
+    "sillage": "strong",
+    "longevity_hours": 5.9,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "cassis bud (burgundy)"
+    ],
+    "middle_notes": [
+      "rose (centifolia)",
+      "peach accord"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "patchouli (light, indonesian)"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "cassis bud (burgundy)",
+      "rose (centifolia)",
+      "peach accord",
+      "oakmoss (treated)",
+      "patchouli (light, indonesian)",
+      "hedione (hc)"
+    ],
+    "commentary": "A radiant composition that unfolds slowly on the skin. The cassis bud top notes are luminous and inviting, transitioning seamlessly into a smoky heart of peach accord. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_068",
+    "date": "2025-02-08",
+    "perfumer_name": "Claire Dubois",
+    "scent_name": "Vintage Cedar & Sage",
+    "overall_rating": 5,
+    "sillage": "enormous",
+    "longevity_hours": 1.4,
+    "top_notes": [
+      "bergamot (italian)",
+      "sage clary (french)"
+    ],
+    "middle_notes": [
+      "cedarwood atlas (moroccan)",
+      "lavender (fine, french)"
+    ],
+    "base_notes": [
+      "vetiver (haitian)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "bergamot (italian)",
+      "sage clary (french)",
+      "cedarwood atlas (moroccan)",
+      "lavender (fine, french)",
+      "vetiver (haitian)",
+      "ambroxan",
+      "galaxolide",
+      "coumarin (natural)",
+      "cashmeran",
+      "iso e super"
+    ],
+    "commentary": "This is a study in contrasts: the crystalline sage clary against the dense lavender creates a tension that resolves beautifully in the base. The sillage is impressive without being overwhelming \u2014 this leaves a trail that invites closer inspection."
+  },
+  {
+    "id": "sess_069",
+    "date": "2025-05-08",
+    "perfumer_name": "Jean-Philippe Arnaud",
+    "scent_name": "Trial Aquatic Foug\u00e8re",
+    "overall_rating": 8,
+    "sillage": "enormous",
+    "longevity_hours": 4.5,
+    "top_notes": [
+      "marine accord (calone)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "lavender (lavandin)",
+      "dihydromyrcenol"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "cedarwood",
+      "musk (white)"
+    ],
+    "ingredients": [
+      "marine accord (calone)",
+      "bergamot (fcf)",
+      "lavender (lavandin)",
+      "dihydromyrcenol",
+      "ambroxan",
+      "cedarwood",
+      "musk (white)",
+      "muscone (synthetic)",
+      "hedione (hc)",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "The opening is austere and opulent, with the marine accord providing a subtle intrigue that gradually gives way to the lavender heart. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_070",
+    "date": "2025-08-06",
+    "perfumer_name": "Kenji Watanabe",
+    "scent_name": "Sheer Vetiver Caravan",
+    "overall_rating": 4,
+    "sillage": "moderate",
+    "longevity_hours": 10.4,
+    "top_notes": [
+      "lime (mexican, distilled)",
+      "ginger (co2)"
+    ],
+    "middle_notes": [
+      "vetiver (bourbon, haitian)",
+      "pepper (black, malabar)"
+    ],
+    "base_notes": [
+      "guaiac wood (smoked)",
+      "labdanum resin"
+    ],
+    "ingredients": [
+      "lime (mexican, distilled)",
+      "ginger (co2)",
+      "vetiver (bourbon, haitian)",
+      "pepper (black, malabar)",
+      "guaiac wood (smoked)",
+      "labdanum resin",
+      "dihydromyrcenol",
+      "vanillin (bourbon)",
+      "ethylene brassylate",
+      "muscone (synthetic)"
+    ],
+    "commentary": "This is a study in contrasts: the effervescent ginger against the smoky vetiver creates a tension that resolves beautifully in the base. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_071",
+    "date": "2025-03-08",
+    "perfumer_name": "Hiroshi Nakamura",
+    "scent_name": "Modern Vetiver Caravan",
+    "overall_rating": 6,
+    "sillage": "intimate",
+    "longevity_hours": 11.8,
+    "top_notes": [
+      "lime (mexican, distilled)",
+      "ginger (co2)"
+    ],
+    "middle_notes": [
+      "vetiver (bourbon, haitian)",
+      "pepper (black, malabar)"
+    ],
+    "base_notes": [
+      "guaiac wood (smoked)",
+      "labdanum resin"
+    ],
+    "ingredients": [
+      "lime (mexican, distilled)",
+      "ginger (co2)",
+      "vetiver (bourbon, haitian)",
+      "pepper (black, malabar)",
+      "guaiac wood (smoked)",
+      "labdanum resin",
+      "habanolide",
+      "galaxolide"
+    ],
+    "commentary": "transparent from first spray, with lime dominating the opening minutes. As the pepper emerges, the composition takes on a dense quality that persists through the dry-down. The balance here is exceptional. No single note dominates; instead, they work in concert to create something greater than the sum of parts."
+  },
+  {
+    "id": "sess_072",
+    "date": "2025-07-27",
+    "perfumer_name": "Sophia Park",
+    "scent_name": "Light Dark Chypre",
+    "overall_rating": 9,
+    "sillage": "enormous",
+    "longevity_hours": 6.8,
+    "top_notes": [
+      "bergamot (italian)",
+      "galbanum resin"
+    ],
+    "middle_notes": [
+      "oakmoss (french)",
+      "jasmine absolute"
+    ],
+    "base_notes": [
+      "patchouli (borneo)",
+      "castoreum (synthetic)"
+    ],
+    "ingredients": [
+      "bergamot (italian)",
+      "galbanum resin",
+      "oakmoss (french)",
+      "jasmine absolute",
+      "patchouli (borneo)",
+      "castoreum (synthetic)",
+      "hedione (hc)"
+    ],
+    "commentary": "The bergamot opening is immediately effervescent, but it's the oakmoss in the heart that gives this composition its unique character. After six hours on skin, the base is still evolving, which speaks to the thoughtful construction of this accord."
+  },
+  {
+    "id": "sess_073",
+    "date": "2025-05-06",
+    "perfumer_name": "Elena Petrova",
+    "scent_name": "Modern Fruity Chypre",
+    "overall_rating": 3,
+    "sillage": "intimate",
+    "longevity_hours": 6.7,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "cassis bud (burgundy)"
+    ],
+    "middle_notes": [
+      "rose (centifolia)",
+      "peach accord"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "patchouli (light, indonesian)"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "cassis bud (burgundy)",
+      "rose (centifolia)",
+      "peach accord",
+      "oakmoss (treated)",
+      "patchouli (light, indonesian)",
+      "habanolide",
+      "iso e super"
+    ],
+    "commentary": "A smoky composition that unfolds slowly on the skin. The cassis bud top notes are opulent and inviting, transitioning seamlessly into a grounded heart of rose. The dry-down is where this truly shines, with a creamy, skin-scent quality that feels effortlessly elegant."
+  },
+  {
+    "id": "sess_074",
+    "date": "2025-10-24",
+    "perfumer_name": "Hiroshi Nakamura",
+    "scent_name": "Modern Velvet Tobacco",
+    "overall_rating": 5,
+    "sillage": "moderate",
+    "longevity_hours": 2.9,
+    "top_notes": [
+      "rum absolute",
+      "plum accord"
+    ],
+    "middle_notes": [
+      "tobacco (virginia)",
+      "honey absolute"
+    ],
+    "base_notes": [
+      "vanilla (tahitian)",
+      "benzoin (siam resin)"
+    ],
+    "ingredients": [
+      "rum absolute",
+      "plum accord",
+      "tobacco (virginia)",
+      "honey absolute",
+      "vanilla (tahitian)",
+      "benzoin (siam resin)",
+      "vanillin (bourbon)",
+      "coumarin (natural)",
+      "hedione (hc)"
+    ],
+    "commentary": "The plum accord opening is immediately bright, but it's the tobacco in the heart that gives this composition its unique character. The balance here is exceptional. No single note dominates; instead, they work in concert to create something greater than the sum of parts."
+  },
+  {
+    "id": "sess_075",
+    "date": "2025-09-10",
+    "perfumer_name": "Elena Petrova",
+    "scent_name": "Intense Fruity Chypre",
+    "overall_rating": 3,
+    "sillage": "enormous",
+    "longevity_hours": 10.8,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "cassis bud (burgundy)"
+    ],
+    "middle_notes": [
+      "rose (centifolia)",
+      "peach accord"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "patchouli (light, indonesian)"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "cassis bud (burgundy)",
+      "rose (centifolia)",
+      "peach accord",
+      "oakmoss (treated)",
+      "patchouli (light, indonesian)",
+      "habanolide",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "This is a study in contrasts: the bold cassis bud against the crystalline peach accord creates a tension that resolves beautifully in the base. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_076",
+    "date": "2025-06-24",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Modern Classic Barbershop",
+    "overall_rating": 5,
+    "sillage": "strong",
+    "longevity_hours": 10.5,
+    "top_notes": [
+      "lavender (fine, french)",
+      "bergamot (calabrian)"
+    ],
+    "middle_notes": [
+      "geranium (bourbon)",
+      "coumarin (synthetic)"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "tonka bean"
+    ],
+    "ingredients": [
+      "lavender (fine, french)",
+      "bergamot (calabrian)",
+      "geranium (bourbon)",
+      "coumarin (synthetic)",
+      "oakmoss (treated)",
+      "tonka bean",
+      "linalool (natural)",
+      "muscone (synthetic)",
+      "javanol (synthetic)",
+      "dihydromyrcenol"
+    ],
+    "commentary": "Initially smoky, this accord reveals surprising depth as it develops. The interplay between bergamot and geranium creates a opulent effect that is both transparent and deeply satisfying. I'd recommend this for evening wear, particularly in cooler weather when the warmer notes can bloom fully."
+  },
+  {
+    "id": "sess_077",
+    "date": "2025-10-14",
+    "perfumer_name": "Sarah Chen",
+    "scent_name": "Vintage Cacao Noir",
+    "overall_rating": 3,
+    "sillage": "strong",
+    "longevity_hours": 11.4,
+    "top_notes": [
+      "black pepper (malabar)",
+      "ginger (fresh)"
+    ],
+    "middle_notes": [
+      "cacao absolute (ivorian)",
+      "coffee absolute (brazilian)"
+    ],
+    "base_notes": [
+      "patchouli (aged, indonesian)",
+      "vanilla (madagascar)"
+    ],
+    "ingredients": [
+      "black pepper (malabar)",
+      "ginger (fresh)",
+      "cacao absolute (ivorian)",
+      "coffee absolute (brazilian)",
+      "patchouli (aged, indonesian)",
+      "vanilla (madagascar)",
+      "muscone (synthetic)",
+      "dihydromyrcenol",
+      "iso e super"
+    ],
+    "commentary": "A dense composition that unfolds slowly on the skin. The black pepper top notes are effervescent and inviting, transitioning seamlessly into a delicate heart of coffee absolute. The transition from top to heart is remarkably smooth, with no jarring shifts or gaps."
+  },
+  {
+    "id": "sess_078",
+    "date": "2025-06-02",
+    "perfumer_name": "David Thornton",
+    "scent_name": "Fresh Modern Chypre",
+    "overall_rating": 10,
+    "sillage": "moderate",
+    "longevity_hours": 3.4,
+    "top_notes": [
+      "pink grapefruit (florida)",
+      "hedione"
+    ],
+    "middle_notes": [
+      "oakmoss (low-atranol)",
+      "iris (synthetic)"
+    ],
+    "base_notes": [
+      "patchouli (molecular distilled)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "pink grapefruit (florida)",
+      "hedione",
+      "oakmoss (low-atranol)",
+      "iris (synthetic)",
+      "patchouli (molecular distilled)",
+      "ambroxan",
+      "muscone (synthetic)",
+      "ambroxan",
+      "hedione (hc)"
+    ],
+    "commentary": "The opening is airy and austere, with the hedione providing a subtle intrigue that gradually gives way to the iris heart. The base notes provide a warm, lingering finish that keeps the scent interesting for hours."
+  },
+  {
+    "id": "sess_079",
+    "date": "2025-09-07",
+    "perfumer_name": "Akiko Sato",
+    "scent_name": "Modern Peony Blush",
+    "overall_rating": 3,
+    "sillage": "enormous",
+    "longevity_hours": 1.6,
+    "top_notes": [
+      "mandarin (red)",
+      "lychee accord"
+    ],
+    "middle_notes": [
+      "peony accord",
+      "rose (damascena, turkish)"
+    ],
+    "base_notes": [
+      "musk (clean)",
+      "iso e super"
+    ],
+    "ingredients": [
+      "mandarin (red)",
+      "lychee accord",
+      "peony accord",
+      "rose (damascena, turkish)",
+      "musk (clean)",
+      "iso e super",
+      "javanol (synthetic)",
+      "galaxolide",
+      "linalool (natural)"
+    ],
+    "commentary": "Initially crystalline, this accord reveals surprising depth as it develops. The interplay between lychee accord and peony accord creates a opulent effect that is both radiant and deeply satisfying. The dry-down is where this truly shines, with a creamy, skin-scent quality that feels effortlessly elegant."
+  },
+  {
+    "id": "sess_080",
+    "date": "2025-04-20",
+    "perfumer_name": "Akiko Sato",
+    "scent_name": "Modern Mossy Elegance",
+    "overall_rating": 8,
+    "sillage": "strong",
+    "longevity_hours": 9.3,
+    "top_notes": [
+      "bergamot (calabrian)",
+      "lemon (sicilian)"
+    ],
+    "middle_notes": [
+      "oakmoss (treated)",
+      "rose absolute (centifolia)"
+    ],
+    "base_notes": [
+      "patchouli (aged)",
+      "labdanum (spanish)"
+    ],
+    "ingredients": [
+      "bergamot (calabrian)",
+      "lemon (sicilian)",
+      "oakmoss (treated)",
+      "rose absolute (centifolia)",
+      "patchouli (aged)",
+      "labdanum (spanish)",
+      "linalool (natural)"
+    ],
+    "commentary": "The lemon opening is immediately luminous, but it's the oakmoss in the heart that gives this composition its unique character. I'd recommend this for evening wear, particularly in cooler weather when the warmer notes can bloom fully."
+  },
+  {
+    "id": "sess_081",
+    "date": "2025-12-27",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Modern Bamboo Breeze",
+    "overall_rating": 5,
+    "sillage": "enormous",
+    "longevity_hours": 11.9,
+    "top_notes": [
+      "bamboo leaf (japanese)",
+      "lemongrass (indian)"
+    ],
+    "middle_notes": [
+      "green tea (chinese)",
+      "cucumber (fresh)"
+    ],
+    "base_notes": [
+      "white cedar",
+      "clean musk"
+    ],
+    "ingredients": [
+      "bamboo leaf (japanese)",
+      "lemongrass (indian)",
+      "green tea (chinese)",
+      "cucumber (fresh)",
+      "white cedar",
+      "clean musk",
+      "galaxolide",
+      "vanillin (bourbon)"
+    ],
+    "commentary": "Initially dense, this accord reveals surprising depth as it develops. The interplay between lemongrass and cucumber creates a grounded effect that is both austere and deeply satisfying. I'd recommend this for evening wear, particularly in cooler weather when the warmer notes can bloom fully."
+  },
+  {
+    "id": "sess_082",
+    "date": "2025-10-19",
+    "perfumer_name": "Claire Dubois",
+    "scent_name": "Aged Driftwood & Sea Salt",
+    "overall_rating": 10,
+    "sillage": "strong",
+    "longevity_hours": 11.6,
+    "top_notes": [
+      "sea salt accord",
+      "bergamot (calabrian)"
+    ],
+    "middle_notes": [
+      "driftwood accord",
+      "violet leaf (absolute)"
+    ],
+    "base_notes": [
+      "ambergris (synthetic)",
+      "cedarwood (virginia)"
+    ],
+    "ingredients": [
+      "sea salt accord",
+      "bergamot (calabrian)",
+      "driftwood accord",
+      "violet leaf (absolute)",
+      "ambergris (synthetic)",
+      "cedarwood (virginia)",
+      "habanolide",
+      "javanol (synthetic)",
+      "cashmeran"
+    ],
+    "commentary": "A rich composition that unfolds slowly on the skin. The sea salt accord top notes are opulent and inviting, transitioning seamlessly into a crystalline heart of violet leaf. After six hours on skin, the base is still evolving, which speaks to the thoughtful construction of this accord."
+  },
+  {
+    "id": "sess_083",
+    "date": "2025-07-23",
+    "perfumer_name": "Claire Dubois",
+    "scent_name": "Light Amber Ritual",
+    "overall_rating": 10,
+    "sillage": "strong",
+    "longevity_hours": 5.6,
+    "top_notes": [
+      "bergamot oil (cold-pressed)",
+      "saffron (iranian)"
+    ],
+    "middle_notes": [
+      "cinnamon bark (ceylon)",
+      "rose absolute (turkish)"
+    ],
+    "base_notes": [
+      "vanilla (madagascar, bourbon)",
+      "labdanum (spanish)"
+    ],
+    "ingredients": [
+      "bergamot oil (cold-pressed)",
+      "saffron (iranian)",
+      "cinnamon bark (ceylon)",
+      "rose absolute (turkish)",
+      "vanilla (madagascar, bourbon)",
+      "labdanum (spanish)",
+      "dihydromyrcenol"
+    ],
+    "commentary": "A luminous composition that unfolds slowly on the skin. The saffron top notes are sparkling and inviting, transitioning seamlessly into a opulent heart of rose absolute. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_084",
+    "date": "2025-04-08",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Concentrated Moss & Fern",
+    "overall_rating": 8,
+    "sillage": "strong",
+    "longevity_hours": 7.7,
+    "top_notes": [
+      "galbanum resin (iranian)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "oakmoss (treated, french)",
+      "fern accord"
+    ],
+    "base_notes": [
+      "vetiver (reunion)",
+      "patchouli (light)"
+    ],
+    "ingredients": [
+      "galbanum resin (iranian)",
+      "bergamot (fcf)",
+      "oakmoss (treated, french)",
+      "fern accord",
+      "vetiver (reunion)",
+      "patchouli (light)",
+      "galaxolide",
+      "iso e super",
+      "muscone (synthetic)",
+      "coumarin (natural)"
+    ],
+    "commentary": "Initially grounded, this accord reveals surprising depth as it develops. The interplay between bergamot and oakmoss creates a airy effect that is both delicate and deeply satisfying. This reminds me of walking through a garden in late summer \u2014 warm, green, and full of life."
+  },
+  {
+    "id": "sess_085",
+    "date": "2025-07-27",
+    "perfumer_name": "Sophia Park",
+    "scent_name": "Fresh Herb Garden",
+    "overall_rating": 4,
+    "sillage": "enormous",
+    "longevity_hours": 10.9,
+    "top_notes": [
+      "basil (grand vert)",
+      "mint (peppermint)"
+    ],
+    "middle_notes": [
+      "rosemary (ct. cineole)",
+      "thyme (linalool ct.)"
+    ],
+    "base_notes": [
+      "vetiver (light)",
+      "musk (green)"
+    ],
+    "ingredients": [
+      "basil (grand vert)",
+      "mint (peppermint)",
+      "rosemary (ct. cineole)",
+      "thyme (linalool ct.)",
+      "vetiver (light)",
+      "musk (green)",
+      "coumarin (natural)",
+      "javanol (synthetic)",
+      "ethylene brassylate"
+    ],
+    "commentary": "Initially luminous, this accord reveals surprising depth as it develops. The interplay between basil and thyme creates a grounded effect that is both warm and deeply satisfying. The transition from top to heart is remarkably smooth, with no jarring shifts or gaps."
+  },
+  {
+    "id": "sess_086",
+    "date": "2025-12-19",
+    "perfumer_name": "Priya Sharma",
+    "scent_name": "Sheer Aromatic Foug\u00e8re",
+    "overall_rating": 7,
+    "sillage": "moderate",
+    "longevity_hours": 2.2,
+    "top_notes": [
+      "rosemary (moroccan)",
+      "sage clary (french)"
+    ],
+    "middle_notes": [
+      "lavender absolute (french)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss"
+    ],
+    "ingredients": [
+      "rosemary (moroccan)",
+      "sage clary (french)",
+      "lavender absolute (french)",
+      "geranium (egyptian)",
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss",
+      "dihydromyrcenol",
+      "habanolide",
+      "coumarin (natural)",
+      "ethylene brassylate"
+    ],
+    "commentary": "A opulent composition that unfolds slowly on the skin. The rosemary top notes are bold and inviting, transitioning seamlessly into a dense heart of lavender absolute. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_087",
+    "date": "2025-08-16",
+    "perfumer_name": "Priya Sharma",
+    "scent_name": "Sheer Herb Garden",
+    "overall_rating": 5,
+    "sillage": "enormous",
+    "longevity_hours": 8.2,
+    "top_notes": [
+      "basil (grand vert)",
+      "mint (peppermint)"
+    ],
+    "middle_notes": [
+      "rosemary (ct. cineole)",
+      "thyme (linalool ct.)"
+    ],
+    "base_notes": [
+      "vetiver (light)",
+      "musk (green)"
+    ],
+    "ingredients": [
+      "basil (grand vert)",
+      "mint (peppermint)",
+      "rosemary (ct. cineole)",
+      "thyme (linalool ct.)",
+      "vetiver (light)",
+      "musk (green)",
+      "hedione (hc)",
+      "cashmeran",
+      "iso e super",
+      "ambroxan"
+    ],
+    "commentary": "This is a study in contrasts: the effervescent basil against the grounded thyme creates a tension that resolves beautifully in the base. After six hours on skin, the base is still evolving, which speaks to the thoughtful construction of this accord."
+  },
+  {
+    "id": "sess_088",
+    "date": "2025-07-26",
+    "perfumer_name": "Elena Petrova",
+    "scent_name": "Concentrated Dark Chypre",
+    "overall_rating": 5,
+    "sillage": "intimate",
+    "longevity_hours": 12.0,
+    "top_notes": [
+      "bergamot (italian)",
+      "galbanum resin"
+    ],
+    "middle_notes": [
+      "oakmoss (french)",
+      "jasmine absolute"
+    ],
+    "base_notes": [
+      "patchouli (borneo)",
+      "castoreum (synthetic)"
+    ],
+    "ingredients": [
+      "bergamot (italian)",
+      "galbanum resin",
+      "oakmoss (french)",
+      "jasmine absolute",
+      "patchouli (borneo)",
+      "castoreum (synthetic)",
+      "iso e super"
+    ],
+    "commentary": "luminous from first spray, with bergamot dominating the opening minutes. As the jasmine absolute emerges, the composition takes on a bright quality that persists through the dry-down. The projection is intimate and personal, creating a scent bubble that rewards proximity."
+  },
+  {
+    "id": "sess_089",
+    "date": "2025-02-11",
+    "perfumer_name": "Jean-Philippe Arnaud",
+    "scent_name": "Batch 2 Lily of the Morning",
+    "overall_rating": 10,
+    "sillage": "strong",
+    "longevity_hours": 3.1,
+    "top_notes": [
+      "bergamot (fcf)",
+      "aldehydes (metallic)"
+    ],
+    "middle_notes": [
+      "muguet accord",
+      "jasmine sambac"
+    ],
+    "base_notes": [
+      "cedarwood (virginia)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "bergamot (fcf)",
+      "aldehydes (metallic)",
+      "muguet accord",
+      "jasmine sambac",
+      "cedarwood (virginia)",
+      "ambroxan",
+      "cashmeran",
+      "coumarin (natural)",
+      "javanol (synthetic)",
+      "muscone (synthetic)"
+    ],
+    "commentary": "A rich composition that unfolds slowly on the skin. The aldehydes top notes are bright and inviting, transitioning seamlessly into a effervescent heart of jasmine sambac. The projection is intimate and personal, creating a scent bubble that rewards proximity."
+  },
+  {
+    "id": "sess_090",
+    "date": "2025-08-11",
+    "perfumer_name": "David Thornton",
+    "scent_name": "Modern Green Foug\u00e8re",
+    "overall_rating": 4,
+    "sillage": "moderate",
+    "longevity_hours": 11.8,
+    "top_notes": [
+      "galbanum (iranian)",
+      "basil (french)"
+    ],
+    "middle_notes": [
+      "lavender (english)",
+      "hay absolute"
+    ],
+    "base_notes": [
+      "oakmoss (french)",
+      "vetiver (haitian)"
+    ],
+    "ingredients": [
+      "galbanum (iranian)",
+      "basil (french)",
+      "lavender (english)",
+      "hay absolute",
+      "oakmoss (french)",
+      "vetiver (haitian)",
+      "linalool (natural)",
+      "coumarin (natural)",
+      "galaxolide",
+      "hedione (hc)"
+    ],
+    "commentary": "A crystalline composition that unfolds slowly on the skin. The galbanum top notes are bold and inviting, transitioning seamlessly into a radiant heart of hay absolute. I'd recommend this for evening wear, particularly in cooler weather when the warmer notes can bloom fully."
+  },
+  {
+    "id": "sess_091",
+    "date": "2025-07-22",
+    "perfumer_name": "Pierre Deschamps",
+    "scent_name": "Batch 2 Cedar & Sage",
+    "overall_rating": 4,
+    "sillage": "enormous",
+    "longevity_hours": 4.4,
+    "top_notes": [
+      "bergamot (italian)",
+      "sage clary (french)"
+    ],
+    "middle_notes": [
+      "cedarwood atlas (moroccan)",
+      "lavender (fine, french)"
+    ],
+    "base_notes": [
+      "vetiver (haitian)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "bergamot (italian)",
+      "sage clary (french)",
+      "cedarwood atlas (moroccan)",
+      "lavender (fine, french)",
+      "vetiver (haitian)",
+      "ambroxan",
+      "javanol (synthetic)",
+      "dihydromyrcenol",
+      "ambroxan"
+    ],
+    "commentary": "The sage clary opening is immediately grounded, but it's the cedarwood atlas in the heart that gives this composition its unique character. The sillage is impressive without being overwhelming \u2014 this leaves a trail that invites closer inspection."
+  },
+  {
+    "id": "sess_092",
+    "date": "2025-10-28",
+    "perfumer_name": "Marie-Claude Lef\u00e8vre",
+    "scent_name": "Fresh Rain on Concrete",
+    "overall_rating": 6,
+    "sillage": "moderate",
+    "longevity_hours": 8.5,
+    "top_notes": [
+      "petrichor accord",
+      "ozonic molecule"
+    ],
+    "middle_notes": [
+      "violet leaf absolute",
+      "galbanum (iranian)"
+    ],
+    "base_notes": [
+      "vetiver (haitian, light)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "petrichor accord",
+      "ozonic molecule",
+      "violet leaf absolute",
+      "galbanum (iranian)",
+      "vetiver (haitian, light)",
+      "ambroxan",
+      "linalool (natural)",
+      "javanol (synthetic)",
+      "coumarin (natural)"
+    ],
+    "commentary": "The opening is warm and dense, with the ozonic molecule providing an immediate lift that gradually gives way to the galbanum heart. A versatile composition that could work for any occasion, though I find it particularly suited to daytime wear."
+  },
+  {
+    "id": "sess_093",
+    "date": "2025-12-19",
+    "perfumer_name": "Hiroshi Nakamura",
+    "scent_name": "Light Dark Chypre",
+    "overall_rating": 10,
+    "sillage": "intimate",
+    "longevity_hours": 8.5,
+    "top_notes": [
+      "bergamot (italian)",
+      "galbanum resin"
+    ],
+    "middle_notes": [
+      "oakmoss (french)",
+      "jasmine absolute"
+    ],
+    "base_notes": [
+      "patchouli (borneo)",
+      "castoreum (synthetic)"
+    ],
+    "ingredients": [
+      "bergamot (italian)",
+      "galbanum resin",
+      "oakmoss (french)",
+      "jasmine absolute",
+      "patchouli (borneo)",
+      "castoreum (synthetic)",
+      "iso e super",
+      "galaxolide"
+    ],
+    "commentary": "luminous from first spray, with bergamot dominating the opening minutes. As the jasmine absolute emerges, the composition takes on a radiant quality that persists through the dry-down. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_094",
+    "date": "2025-01-14",
+    "perfumer_name": "Marco Bellini",
+    "scent_name": "Concentrated Mediterranean Garden",
+    "overall_rating": 3,
+    "sillage": "moderate",
+    "longevity_hours": 7.4,
+    "top_notes": [
+      "lemon (sicilian)",
+      "basil (sweet, linalool)"
+    ],
+    "middle_notes": [
+      "fig leaf (french)",
+      "tomato vine accord"
+    ],
+    "base_notes": [
+      "cedarwood (atlas)",
+      "musk (clean)"
+    ],
+    "ingredients": [
+      "lemon (sicilian)",
+      "basil (sweet, linalool)",
+      "fig leaf (french)",
+      "tomato vine accord",
+      "cedarwood (atlas)",
+      "musk (clean)",
+      "cashmeran",
+      "ethylene brassylate",
+      "ambroxan",
+      "linalool (natural)"
+    ],
+    "commentary": "Initially warm, this accord reveals surprising depth as it develops. The interplay between lemon and fig leaf creates a austere effect that is both luminous and deeply satisfying. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_095",
+    "date": "2025-06-04",
+    "perfumer_name": "David Thornton",
+    "scent_name": "Intense Spice Market",
+    "overall_rating": 4,
+    "sillage": "moderate",
+    "longevity_hours": 8.2,
+    "top_notes": [
+      "cardamom (guatemalan)",
+      "pink pepper (schinus)"
+    ],
+    "middle_notes": [
+      "clove bud (madagascar)",
+      "cinnamon leaf"
+    ],
+    "base_notes": [
+      "tobacco absolute (french)",
+      "tonka bean (venezuelan)"
+    ],
+    "ingredients": [
+      "cardamom (guatemalan)",
+      "pink pepper (schinus)",
+      "clove bud (madagascar)",
+      "cinnamon leaf",
+      "tobacco absolute (french)",
+      "tonka bean (venezuelan)",
+      "galaxolide",
+      "linalool (natural)",
+      "muscone (synthetic)",
+      "javanol (synthetic)"
+    ],
+    "commentary": "A bold composition that unfolds slowly on the skin. The pink pepper top notes are bright and inviting, transitioning seamlessly into a dense heart of clove bud. The transition from top to heart is remarkably smooth, with no jarring shifts or gaps."
+  },
+  {
+    "id": "sess_096",
+    "date": "2025-12-25",
+    "perfumer_name": "Jean-Philippe Arnaud",
+    "scent_name": "Concentrated Aquatic Foug\u00e8re",
+    "overall_rating": 7,
+    "sillage": "moderate",
+    "longevity_hours": 11.3,
+    "top_notes": [
+      "marine accord (calone)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "lavender (lavandin)",
+      "dihydromyrcenol"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "cedarwood",
+      "musk (white)"
+    ],
+    "ingredients": [
+      "marine accord (calone)",
+      "bergamot (fcf)",
+      "lavender (lavandin)",
+      "dihydromyrcenol",
+      "ambroxan",
+      "cedarwood",
+      "musk (white)",
+      "dihydromyrcenol",
+      "habanolide",
+      "muscone (synthetic)",
+      "galaxolide"
+    ],
+    "commentary": "The opening is airy and bright, with the marine accord providing a crisp freshness that gradually gives way to the dihydromyrcenol heart. On skin, the fragrance seems to morph and change throughout the day, revealing new facets with each passing hour."
+  },
+  {
+    "id": "sess_097",
+    "date": "2025-09-07",
+    "perfumer_name": "Carlos Mendoza",
+    "scent_name": "Fresh Spring Narcissus",
+    "overall_rating": 3,
+    "sillage": "enormous",
+    "longevity_hours": 5.8,
+    "top_notes": [
+      "bergamot oil (cold-pressed)",
+      "green leaf accord"
+    ],
+    "middle_notes": [
+      "narcissus absolute (french)",
+      "hyacinth (greenhouse)"
+    ],
+    "base_notes": [
+      "oakmoss (treated)",
+      "white musk"
+    ],
+    "ingredients": [
+      "bergamot oil (cold-pressed)",
+      "green leaf accord",
+      "narcissus absolute (french)",
+      "hyacinth (greenhouse)",
+      "oakmoss (treated)",
+      "white musk",
+      "dihydromyrcenol"
+    ],
+    "commentary": "The opening is bold and dense, with the bergamot oil providing a subtle intrigue that gradually gives way to the hyacinth heart. The projection is intimate and personal, creating a scent bubble that rewards proximity."
+  },
+  {
+    "id": "sess_098",
+    "date": "2025-09-19",
+    "perfumer_name": "Am\u00e9lie Laurent",
+    "scent_name": "Experimental Aromatic Foug\u00e8re",
+    "overall_rating": 9,
+    "sillage": "strong",
+    "longevity_hours": 4.0,
+    "top_notes": [
+      "rosemary (moroccan)",
+      "sage clary (french)"
+    ],
+    "middle_notes": [
+      "lavender absolute (french)",
+      "geranium (egyptian)"
+    ],
+    "base_notes": [
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss"
+    ],
+    "ingredients": [
+      "rosemary (moroccan)",
+      "sage clary (french)",
+      "lavender absolute (french)",
+      "geranium (egyptian)",
+      "coumarin",
+      "tonka (venezuelan)",
+      "oakmoss",
+      "iso e super",
+      "cashmeran",
+      "coumarin (natural)"
+    ],
+    "commentary": "This is a study in contrasts: the transparent rosemary against the austere geranium creates a tension that resolves beautifully in the base. After six hours on skin, the base is still evolving, which speaks to the thoughtful construction of this accord."
+  },
+  {
+    "id": "sess_099",
+    "date": "2025-09-16",
+    "perfumer_name": "Jean-Philippe Arnaud",
+    "scent_name": "Concentrated Aquatic Foug\u00e8re",
+    "overall_rating": 7,
+    "sillage": "enormous",
+    "longevity_hours": 3.0,
+    "top_notes": [
+      "marine accord (calone)",
+      "bergamot (fcf)"
+    ],
+    "middle_notes": [
+      "lavender (lavandin)",
+      "dihydromyrcenol"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "cedarwood",
+      "musk (white)"
+    ],
+    "ingredients": [
+      "marine accord (calone)",
+      "bergamot (fcf)",
+      "lavender (lavandin)",
+      "dihydromyrcenol",
+      "ambroxan",
+      "cedarwood",
+      "musk (white)",
+      "javanol (synthetic)",
+      "linalool (natural)",
+      "habanolide"
+    ],
+    "commentary": "A sparkling composition that unfolds slowly on the skin. The marine accord top notes are radiant and inviting, transitioning seamlessly into a luminous heart of dihydromyrcenol. This has a photorealistic quality \u2014 it smells like the actual ingredient rather than a perfumery interpretation."
+  },
+  {
+    "id": "sess_100",
+    "date": "2025-02-18",
+    "perfumer_name": "Fran\u00e7ois Beaumont",
+    "scent_name": "Aged Rain on Concrete",
+    "overall_rating": 4,
+    "sillage": "enormous",
+    "longevity_hours": 10.3,
+    "top_notes": [
+      "petrichor accord",
+      "ozonic molecule"
+    ],
+    "middle_notes": [
+      "violet leaf absolute",
+      "galbanum (iranian)"
+    ],
+    "base_notes": [
+      "vetiver (haitian, light)",
+      "ambroxan"
+    ],
+    "ingredients": [
+      "petrichor accord",
+      "ozonic molecule",
+      "violet leaf absolute",
+      "galbanum (iranian)",
+      "vetiver (haitian, light)",
+      "ambroxan",
+      "ethylene brassylate",
+      "dihydromyrcenol"
+    ],
+    "commentary": "This is a study in contrasts: the ethereal petrichor accord against the crystalline violet leaf absolute creates a tension that resolves beautifully in the base. There's a naturalness to this composition that speaks to the quality of the raw materials."
+  }
+]
